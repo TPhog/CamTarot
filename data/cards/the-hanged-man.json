@@ -23,23 +23,35 @@
       "Bế tắc"
     ]
   },
-  "imagery": "Một người đàn ông bị treo ngược một chân trên cây hình chữ T, chân kia gập lại thành số 4. Gương mặt anh bình thản, quanh đầu tỏa vầng hào quang.",
+  "imagery": "Một người đàn ông bị treo ngược bằng chân phải trên cây thập tự hình chữ T làm bằng gỗ sống còn đâm lá xanh. Chân trái gập ra sau đầu gối chân phải tạo thành hình số 4 lộn ngược. Hai tay vòng ra sau lưng, tạo thành hình tam giác. Anh mặc áo xanh lam, quần đỏ, đi giày vàng. Gương mặt bình thản, mắt mở, quanh đầu tỏa vầng hào quang vàng rực.",
   "symbols": [
     {
-      "name": "Treo ngược",
-      "meaning": "Nhìn thế giới từ một góc độ hoàn toàn khác."
+      "name": "Tư thế treo ngược",
+      "meaning": "Nhìn thế giới từ góc độ hoàn toàn khác; đảo ngược giá trị thông thường."
     },
     {
       "name": "Vầng hào quang",
-      "meaning": "Sự giác ngộ đến từ việc buông bỏ."
+      "meaning": "Sự giác ngộ, hiểu biết mới đến từ việc buông bỏ."
     },
     {
       "name": "Gương mặt bình thản",
-      "meaning": "Chủ động chấp nhận, không phải bị trừng phạt."
+      "meaning": "Chủ động chấp nhận, không đau khổ, không chống cự."
     },
     {
-      "name": "Cây sống",
-      "meaning": "Sự tạm dừng này nuôi dưỡng sự trưởng thành."
+      "name": "Cây chữ T còn sống",
+      "meaning": "Sự tạm dừng này đang nuôi dưỡng sự phát triển chứ không phải cái chết."
+    },
+    {
+      "name": "Chân gập hình số 4",
+      "meaning": "Số 4 là ổn định (Hoàng Đế) bị đảo ngược; cũng giống tư thế vũ công lá Thế Giới, nhưng lộn ngược."
+    },
+    {
+      "name": "Tay vòng sau lưng",
+      "meaning": "Không hành động, chấp nhận buông tay khỏi việc kiểm soát."
+    },
+    {
+      "name": "Áo xanh, quần đỏ",
+      "meaning": "Cảm xúc/tâm trí (xanh) đặt trên đam mê/thể xác (đỏ) — tinh thần dẫn dắt."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 12 = sự đảo ngược của 21 (Thế Giới). Hình dung lộn ngược người để thấy điều mới.",
   "image": "assets/cards/the-hanged-man.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Người Treo Ngược là lá bài của sự tạm dừng, buông bỏ và thay đổi góc nhìn. Người đàn ông bị treo ngược nhưng gương mặt bình thản, đầu tỏa hào quang: đây không phải sự trừng phạt mà là sự chấp nhận tự nguyện. Khi không thể tiến lên bằng sức lực, cách duy nhất là ngừng vùng vẫy và nhìn thế giới từ phía ngược lại.",
+    "Là số 12, lá đánh dấu bước ngoặt trong hành trình nội tâm của Chàng Khờ: sau khi hiểu luật nhân quả (Công Lý), anh học cách hy sinh cái tôi và sự kiểm soát để đạt sự hiểu biết sâu hơn. Hình ảnh treo ngược gợi nhớ thần Odin tự treo mình trên cây thế giới Yggdrasil chín ngày để nhận được chữ rune. Sao Hải Vương gắn với lá mang tính tâm linh, mơ hồ và siêu thoát.",
+    "Trong trải bài, Người Treo Ngược thường cho thấy một giai đoạn chờ đợi, mọi thứ tạm ngưng; khuyên bạn đừng ép buộc, hãy thử nhìn vấn đề theo cách khác, hoặc chấp nhận một hy sinh nhỏ để được điều lớn hơn. Khi ra ngược, lá nói về sự trì hoãn vô ích, cố chấp không chịu thay đổi, hoặc hy sinh một chiều mà không nhận lại gì."
+  ],
+  "reflection": [
+    "Tôi đang cố kiểm soát điều gì mà nên buông tay?",
+    "Nếu nhìn vấn đề theo hướng ngược lại, tôi thấy gì?",
+    "Sự chờ đợi lúc này đang dạy tôi điều gì?"
+  ]
 }

@@ -21,8 +21,33 @@
       "Cải thiện"
     ]
   },
-  "imagery": "Hai người nghèo khổ bước đi trong tuyết lạnh bên ngoài ô cửa nhà thờ sáng đèn.",
-  "symbols": [],
+  "imagery": "Trong đêm tuyết rơi, hai người ăn mặc rách rưới bước đi khó nhọc. Một người đàn ông chống nạng, đầu và chân băng bó; một người phụ nữ đi chân trần, trùm khăn quàng kín người, cúi đầu. Họ đi ngang qua bức tường đá có ô cửa sổ kính màu sáng rực, trên đó là năm đồng tiền xếp theo hình cây sự sống.",
+  "symbols": [
+    {
+      "name": "Tuyết lạnh",
+      "meaning": "Hoàn cảnh khắc nghiệt, thiếu thốn, cô đơn."
+    },
+    {
+      "name": "Người chống nạng",
+      "meaning": "Vấn đề sức khỏe, tổn thương, khó khăn thể chất."
+    },
+    {
+      "name": "Đi chân trần",
+      "meaning": "Mất đi sự bảo vệ, nghèo khó."
+    },
+    {
+      "name": "Cửa sổ nhà thờ sáng đèn",
+      "meaning": "Sự giúp đỡ, nơi trú ẩn, niềm tin — rất gần nhưng chưa được nhìn thấy."
+    },
+    {
+      "name": "Năm đồng tiền trên cửa sổ",
+      "meaning": "Nguồn lực tinh thần vẫn còn đó."
+    },
+    {
+      "name": "Cúi đầu bước đi",
+      "meaning": "Chỉ tập trung vào khó khăn, không ngẩng lên để thấy lối ra."
+    }
+  ],
   "upright": {
     "general": "Giai đoạn khó khăn về tài chính hoặc sức khỏe, cảm giác bị bỏ rơi. Nhưng sự giúp đỡ đang ở rất gần nếu bạn chịu nhìn lên.",
     "love": "Cùng nhau vượt khó; hoặc cảm thấy bị bỏ rơi.",
@@ -38,5 +63,15 @@
   "yesNo": "Không",
   "memoryTip": "Hai người đi trong tuyết ngang qua nhà thờ = \"không nhìn thấy sự giúp đỡ\".",
   "image": "assets/cards/five-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Năm Tiền là lá của khó khăn, thiếu thốn và cảm giác bị bỏ rơi. Hai người nghèo khổ, một người chống nạng, lê bước trong tuyết lạnh — họ đi ngang qua ô cửa sổ nhà thờ sáng đèn mà không nhận ra sự giúp đỡ đang ở rất gần.",
+    "Số 5 là khủng hoảng. Trong bộ Tiền, đó là mất mát vật chất: tiền bạc, công việc, sức khỏe. Nhưng lá này cũng nói về tâm lý thiếu thốn — cảm giác bị cô lập khiến ta không thấy những nguồn hỗ trợ xung quanh.",
+    "Trong trải bài, Năm Tiền cho thấy khó khăn tài chính, mất việc, vấn đề sức khỏe, hoặc cảm giác bị loại ra ngoài. Lá khuyên đừng ngại xin giúp đỡ — cánh cửa sáng đèn ở ngay đó. Khi ra ngược, lá cho thấy sự hồi phục, nhận được giúp đỡ, tình hình được cải thiện."
+  ],
+  "reflection": [
+    "Tôi đang thấy thiếu thốn điều gì nhất?",
+    "Sự giúp đỡ nào có thể đang ở gần mà tôi chưa nhìn thấy?",
+    "Điều gì khiến tôi ngại xin giúp đỡ?"
+  ]
 }

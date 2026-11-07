@@ -23,23 +23,31 @@
       "Nóng giận"
     ]
   },
-  "imagery": "Một người phụ nữ áo trắng nhẹ nhàng khép miệng sư tử bằng đôi tay, không chút sợ hãi. Trên đầu là biểu tượng vô cực, eo quấn vòng hoa.",
+  "imagery": "Một người phụ nữ mặc áo dài trắng đứng nghiêng người, nhẹ nhàng đặt hai tay lên miệng một con sư tử vàng cam — như đang khép lại, hoặc mở ra. Gương mặt bà bình thản; con sư tử cúi đầu, lưỡi thè ra, ngoan ngoãn. Trên đầu bà là biểu tượng vô cực, giống ở lá Nhà Ảo Thuật. Bà đội vòng hoa và thắt lưng bằng chuỗi hoa hồng nối dài sang cả con sư tử. Nền trời vàng, phía xa là ngọn núi xanh lam.",
   "symbols": [
     {
-      "name": "Sư tử",
-      "meaning": "Bản năng, cảm xúc mạnh, cơn giận và đam mê."
+      "name": "Con sư tử",
+      "meaning": "Bản năng, đam mê, cơn giận, những ham muốn hoang dã bên trong mỗi người."
     },
     {
       "name": "Đôi tay dịu dàng",
-      "meaning": "Chế ngự bằng tình thương chứ không bằng vũ lực."
+      "meaning": "Chế ngự bằng tình thương và sự kiên nhẫn chứ không bằng vũ lực."
     },
     {
       "name": "Biểu tượng vô cực",
-      "meaning": "Sức mạnh tinh thần vô tận."
+      "meaning": "Sức mạnh tinh thần vô tận; liên hệ với Nhà Ảo Thuật."
     },
     {
-      "name": "Vòng hoa",
-      "meaning": "Sự hài hòa giữa thiên nhiên hoang dã và con người."
+      "name": "Chuỗi hoa quấn cả hai",
+      "meaning": "Sự hòa hợp: người và sư tử được nối với nhau, không phải kẻ thắng người thua."
+    },
+    {
+      "name": "Áo trắng",
+      "meaning": "Sự trong sáng của động cơ; sức mạnh đến từ tâm hồn thuần khiết."
+    },
+    {
+      "name": "Núi xanh phía xa",
+      "meaning": "Mục tiêu cao hơn đạt được khi đã làm chủ bản thân."
     }
   ],
   "upright": {
@@ -57,5 +65,15 @@
   "yesNo": "Có",
   "memoryTip": "Trong bộ Rider–Waite, Sức Mạnh là số 8 (một số bộ khác là 11). Nhớ: \"mềm nắn rắn buông\".",
   "image": "assets/cards/strength.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Sức Mạnh nói về một kiểu sức mạnh khác với Cỗ Xe: không phải chinh phục bên ngoài mà là chế ngự bên trong. Người phụ nữ thuần hóa con sư tử bằng sự dịu dàng, kiên nhẫn và lòng trắc ẩn. Lá bài dạy rằng can đảm thật sự là đối diện với nỗi sợ, cơn giận và bản năng của chính mình mà không đàn áp chúng, mà hiểu và dẫn dắt chúng.",
+    "Lá mở đầu hàng thứ hai của Ẩn Chính (8–14), hàng nói về hành trình nội tâm. Trong bộ Rider–Waite, Sức Mạnh mang số 8 và Công Lý số 11 — Waite đã hoán đổi so với các bộ bài cổ để khớp với cung Sư Tử (số 8) và Thiên Bình (số 11) trong hệ thống của Golden Dawn. Vì vậy một số sách và bộ bài khác vẫn ghi Sức Mạnh là 11.",
+    "Trong trải bài, Sức Mạnh khuyên bạn bình tĩnh, kiên nhẫn và tin vào sức mạnh nội tâm; mềm mỏng nhưng kiên định sẽ thuyết phục hơn ép buộc. Lá cũng có thể nói về việc vượt qua bệnh tật, kiểm soát thói quen hay cảm xúc. Khi ra ngược, lá cho thấy tự ti, nghi ngờ bản thân, hoặc để cảm xúc (giận dữ, lo sợ) chiếm quyền điều khiển."
+  ],
+  "reflection": [
+    "Cảm xúc hay bản năng nào trong tôi đang cần được thuần hóa?",
+    "Ở đâu tôi đang dùng sức ép thay vì sự kiên nhẫn?",
+    "Điều gì giúp tôi thấy can đảm khi sợ hãi?"
+  ]
 }

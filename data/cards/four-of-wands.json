@@ -22,8 +22,29 @@
       "Trì hoãn ăn mừng"
     ]
   },
-  "imagery": "Bốn cây gậy kết vòng hoa tạo thành cổng chào. Phía sau, hai người giơ bó hoa ăn mừng trước lâu đài.",
-  "symbols": [],
+  "imagery": "Bốn cây gậy dựng thẳng ở tiền cảnh, phía trên kết một vòng hoa lá, trái cây và ruy băng như cổng chào. Phía sau, hai người phụ nữ đội vòng hoa vui vẻ giơ cao bó hoa chào đón. Xa hơn là một nhóm người đứng trước tòa lâu đài lớn. Nền trời vàng rực ấm áp.",
+  "symbols": [
+    {
+      "name": "Cổng hoa bốn gậy",
+      "meaning": "Cổng cưới, cổng chào đón: sự kiện vui, nghi lễ, cột mốc."
+    },
+    {
+      "name": "Vòng hoa và trái cây",
+      "meaning": "Mùa màng bội thu, thành quả đã chín."
+    },
+    {
+      "name": "Hai người giơ bó hoa",
+      "meaning": "Niềm vui được chia sẻ, sự chào đón nồng nhiệt."
+    },
+    {
+      "name": "Lâu đài phía sau",
+      "meaning": "Mái ấm, sự an toàn, cộng đồng vững chắc."
+    },
+    {
+      "name": "Nền trời vàng",
+      "meaning": "Năng lượng tích cực, ấm áp, hạnh phúc."
+    }
+  ],
   "upright": {
     "general": "Một lý do để ăn mừng: cột mốc đạt được, sự ổn định và niềm vui bên những người thân yêu.",
     "love": "Đám cưới, đính hôn, về chung nhà; tình cảm ổn định, hạnh phúc.",
@@ -39,5 +60,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 4 = ổn định. Bốn cây gậy = bốn cột của một mái nhà hạnh phúc.",
   "image": "assets/cards/four-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bốn Gậy là lá của sự ăn mừng, niềm vui chung và cảm giác \"về nhà\". Một cột mốc đã đạt được, mọi người cùng hân hoan. Đây là sự ổn định ấm áp — nền tảng vững chắc để tận hưởng thành quả trước khi bước tiếp.",
+    "Số 4 là sự ổn định. Nếu ở bộ Tiền, số 4 có thể là giữ khư khư, thì trong bộ Gậy (Lửa), sự ổn định mang dạng lễ hội: đám cưới, tân gia, tốt nghiệp, đoàn tụ. Bốn cây gậy dựng thành cổng hoa giống như cổng cưới truyền thống.",
+    "Trong trải bài, Bốn Gậy rất tốt cho câu hỏi về gia đình và tình cảm: đính hôn, kết hôn, về chung nhà. Trong công việc, lá báo hiệu hoàn thành giai đoạn quan trọng và môi trường hòa hợp. Khi ra ngược, lá có thể chỉ căng thẳng trong gia đình, kế hoạch ăn mừng bị trì hoãn, hoặc cảm giác chưa thật sự thuộc về."
+  ],
+  "reflection": [
+    "Gần đây tôi đã đạt được điều gì đáng để ăn mừng?",
+    "Ở đâu và với ai tôi cảm thấy như \"về nhà\"?",
+    "Tôi có dành thời gian tận hưởng thành quả hay chỉ lo chạy tiếp?"
+  ]
 }

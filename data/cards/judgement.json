@@ -23,23 +23,35 @@
       "Hối tiếc"
     ]
   },
-  "imagery": "Thiên thần Gabriel thổi kèn từ trên mây. Bên dưới, những người đàn ông, phụ nữ và trẻ em đứng dậy từ quan tài, dang tay đón nhận.",
+  "imagery": "Từ trong đám mây, thiên thần Gabriel với đôi cánh lớn thổi chiếc kèn dài gắn lá cờ trắng có chữ thập đỏ. Bên dưới, trên mặt nước, những chiếc quan tài nổi lềnh bềnh đã mở nắp. Những người trần truồng với làn da xám — một người đàn ông, một người phụ nữ và một đứa trẻ ở giữa, cùng những người khác phía sau — đứng dậy, dang tay ngước nhìn lên thiên thần. Phía xa là những ngọn núi băng tuyết trắng.",
   "symbols": [
     {
-      "name": "Tiếng kèn",
-      "meaning": "Lời kêu gọi thức tỉnh, nhận ra sứ mệnh."
+      "name": "Tiếng kèn của Gabriel",
+      "meaning": "Lời kêu gọi thức tỉnh, nhận ra sứ mệnh của mình."
     },
     {
       "name": "Người trỗi dậy từ quan tài",
-      "meaning": "Tái sinh, bỏ lại con người cũ."
+      "meaning": "Tái sinh, bỏ lại con người cũ; được giải phóng khỏi giới hạn quá khứ."
     },
     {
-      "name": "Cờ chữ thập",
-      "meaning": "Sự cân bằng và hòa hợp các mặt đối lập."
+      "name": "Cờ chữ thập đỏ trên nền trắng",
+      "meaning": "Sự cân bằng các mặt đối lập; giao điểm giữa vật chất và tinh thần."
     },
     {
-      "name": "Núi phía xa",
-      "meaning": "Thử thách đã vượt qua."
+      "name": "Gia đình (nam, nữ, trẻ em)",
+      "meaning": "Sự đoàn tụ, hòa hợp; mọi phần của bản thân cùng được hồi sinh."
+    },
+    {
+      "name": "Dang tay đón nhận",
+      "meaning": "Sự sẵn sàng và chấp nhận điều mới."
+    },
+    {
+      "name": "Núi băng tuyết",
+      "meaning": "Những thử thách đã vượt qua; sự trong sạch của tâm trí."
+    },
+    {
+      "name": "Quan tài nổi trên nước",
+      "meaning": "Cảm xúc đã được giải phóng, không còn bị chôn vùi."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Phán Xét không phải trừng phạt, mà là \"tỉnh dậy\". Số 20 → 2+0 = 2 (Nữ Tư Tế): trực giác lên tiếng.",
   "image": "assets/cards/judgement.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Phán Xét là lá bài của sự thức tỉnh và tái sinh. Tiếng kèn vang lên, những con người đứng dậy từ quan tài và dang tay đón nhận một đời sống mới. Đây không phải sự trừng phạt mà là khoảnh khắc nhìn lại toàn bộ quá khứ, tha thứ, rút ra bài học và trả lời \"tiếng gọi\" cho mục đích cao hơn của mình.",
+    "Là số 20, Phán Xét là bước áp chót của hành trình. 20 = 2 + 0 = 2 (Nữ Tư Tế): tiếng nói bên trong giờ vang lên thành lời kêu gọi rõ ràng. Nếu Công Lý (11) đánh giá hành động bằng lý trí ở thế giới này, thì Phán Xét đánh giá cả cuộc đời ở tầng tâm linh. Sao Diêm Vương gắn với lá là hành tinh của sự chết và tái sinh, chuyển hóa tận gốc.",
+    "Trong trải bài, Phán Xét báo hiệu một quyết định quan trọng, sự nhận ra sứ mệnh, giai đoạn bước sang trang mới sau khi đánh giá lại mọi thứ; đôi khi là người cũ quay lại hoặc một vấn đề cũ cần được khép lại dứt khoát. Khi ra ngược, lá cho thấy tự phán xét quá khắt khe, day dứt về quá khứ, hoặc phớt lờ tiếng gọi thay đổi vì sợ hãi."
+  ],
+  "reflection": [
+    "\"Tiếng gọi\" nào trong lòng tôi đang ngày càng rõ hơn?",
+    "Điều gì trong quá khứ tôi cần tha thứ — cho người khác hoặc cho chính mình?",
+    "Nếu được bắt đầu lại, tôi muốn trở thành ai?"
+  ]
 }

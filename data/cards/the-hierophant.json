@@ -23,23 +23,35 @@
       "Tự tìm con đường riêng"
     ]
   },
-  "imagery": "Vị giáo hoàng ngồi giữa hai cột trụ, giơ tay ban phước, đầu đội vương miện ba tầng. Dưới chân là hai chiếc chìa khóa bắt chéo và hai tu sĩ đang quỳ.",
+  "imagery": "Một vị giáo hoàng mặc áo choàng đỏ ngồi trên ngai giữa hai cột trụ xám. Ông đội vương miện ba tầng bằng vàng, tay phải giơ lên ban phước với hai ngón tay chỉ lên trời, tay trái cầm cây thánh giá ba thanh ngang. Dưới chân là hai chiếc chìa khóa bắt chéo, một vàng một bạc. Trước mặt ông, hai tu sĩ quay lưng lại phía người xem, quỳ lắng nghe; áo một người thêu hoa hồng, người kia thêu hoa ly.",
   "symbols": [
     {
-      "name": "Hai chìa khóa",
-      "meaning": "Chìa khóa mở ra tri thức hữu hình và huyền bí."
-    },
-    {
-      "name": "Hai tu sĩ",
-      "meaning": "Sự truyền dạy từ thầy sang trò, cộng đồng chung niềm tin."
-    },
-    {
       "name": "Vương miện ba tầng",
-      "meaning": "Ba cõi: thân, tâm, linh."
+      "meaning": "Quyền năng trên ba cõi: thể xác, tinh thần và linh hồn."
+    },
+    {
+      "name": "Thánh giá ba thanh",
+      "meaning": "Quyền uy tôn giáo, sự kết nối giữa ba cõi."
     },
     {
       "name": "Tay ban phước",
-      "meaning": "Sự kết nối giữa con người và điều thiêng liêng."
+      "meaning": "Hai ngón chỉ lên, hai ngón gập xuống: điều thấy được và điều ẩn giấu; sự truyền phước lành."
+    },
+    {
+      "name": "Hai chìa khóa bắt chéo",
+      "meaning": "Chìa vàng mở tri thức tinh thần, chìa bạc mở tri thức trần thế — người thầy giữ chìa khóa cho học trò."
+    },
+    {
+      "name": "Hai tu sĩ quỳ",
+      "meaning": "Học trò, cộng đồng chung niềm tin; tri thức được truyền từ thế hệ này sang thế hệ khác."
+    },
+    {
+      "name": "Hoa hồng và hoa ly trên áo tu sĩ",
+      "meaning": "Ham muốn và sự thuần khiết — hai con đường cùng được dẫn dắt."
+    },
+    {
+      "name": "Hai cột trụ xám",
+      "meaning": "Không đen không trắng như ở Nữ Tư Tế: tri thức đã được dung hòa, chính thống."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 5 = cây cầu nối. Giáo Hoàng là chiếc cầu giữa con người và tri thức thiêng liêng — hình ảnh \"người thầy\".",
   "image": "assets/cards/the-hierophant.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Giáo Hoàng (còn gọi là Đại Giáo Chủ) đại diện cho truyền thống, tôn giáo, giáo dục và các hệ thống niềm tin được xã hội công nhận. Ông là người thầy truyền lại tri thức đã được kiểm chứng qua nhiều thế hệ, và là chiếc cầu nối giữa con người với điều thiêng liêng thông qua nghi lễ, giáo lý và cộng đồng.",
+    "Là số 5, Giáo Hoàng là sự đối ứng của Nữ Tư Tế: bà giữ tri thức bí truyền, bên trong; ông giảng dạy tri thức công khai, bên ngoài. Sau khi học về trật tự xã hội với Hoàng Đế, Chàng Khờ học về giá trị tinh thần, đạo đức và vai trò của mình trong một cộng đồng. Cung Kim Ngưu gắn với lá cho thấy sự bền vững, bảo thủ và trung thành với những gì đã có.",
+    "Trong trải bài, Giáo Hoàng có thể chỉ việc học tập bài bản, một người thầy hoặc cố vấn, các tổ chức lớn, hôn nhân và nghi lễ truyền thống. Lá khuyên làm theo con đường đã được chứng minh. Khi ra ngược, lá nói về việc nghi ngờ hoặc nổi loạn chống lại khuôn khổ — có thể là cần thiết để tìm con đường riêng, hoặc là sự cứng nhắc giáo điều đang trói buộc bạn."
+  ],
+  "reflection": [
+    "Tôi đang học từ ai, và có tin tưởng người thầy ấy không?",
+    "Truyền thống hay niềm tin nào đang nâng đỡ tôi — và cái nào đang trói buộc tôi?",
+    "Tôi muốn thuộc về cộng đồng nào?"
+  ]
 }

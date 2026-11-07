@@ -21,8 +21,29 @@
       "Công sức uổng phí"
     ]
   },
-  "imagery": "Người nông dân tựa vào cuốc, nhìn bảy đồng tiền mọc trên bụi cây như đang chờ quả chín.",
-  "symbols": [],
+  "imagery": "Một người nông dân trẻ đứng tựa cằm lên cán cuốc, mắt nhìn chăm chú vào bụi cây xanh tươi trước mặt, nơi sáu đồng tiền đang mọc như những trái cây. Một đồng tiền thứ bảy nằm riêng dưới chân anh. Gương mặt anh trầm ngâm, có phần mệt mỏi.",
+  "symbols": [
+    {
+      "name": "Tựa vào cuốc",
+      "meaning": "Khoảng nghỉ sau lao động; đánh giá lại công sức."
+    },
+    {
+      "name": "Đồng tiền mọc trên cây",
+      "meaning": "Thành quả đang lớn dần — cần thời gian để chín."
+    },
+    {
+      "name": "Đồng tiền dưới chân",
+      "meaning": "Một phần thành quả đã có, hoặc lựa chọn hướng đi mới."
+    },
+    {
+      "name": "Ánh mắt trầm ngâm",
+      "meaning": "Suy nghĩ về giá trị của những gì đã đầu tư."
+    },
+    {
+      "name": "Bụi cây xanh",
+      "meaning": "Sự phát triển tự nhiên, bền vững."
+    }
+  ],
   "upright": {
     "general": "Bạn đã đầu tư công sức và giờ chờ kết quả. Hãy kiên nhẫn và đánh giá xem hướng đi có đúng không.",
     "love": "Mối quan hệ cần thời gian vun đắp.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Người nông dân chờ cây ra quả = \"đầu tư dài hạn\".",
   "image": "assets/cards/seven-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bảy Tiền là lá của sự kiên nhẫn và đánh giá đầu tư dài hạn. Người nông dân tựa vào cuốc, nhìn bụi cây có bảy đồng tiền đang lớn — anh đã gieo trồng, chăm sóc, và giờ dừng lại xem công sức của mình có đang đi đúng hướng.",
+    "Số 7 là sự đánh giá. Trong bộ Tiền, mọi thứ cần thời gian: không thể ép cây ra quả nhanh hơn. Lá này là khoảng nghỉ giữa gieo trồng và thu hoạch — một câu hỏi: tiếp tục kiên nhẫn, hay thay đổi cách làm?",
+    "Trong trải bài, Bảy Tiền cho thấy đầu tư dài hạn, chờ đợi kết quả, đánh giá tiến độ công việc hay mối quan hệ. Lá khuyên kiên nhẫn — quả ngọt cần thời gian. Khi ra ngược, lá cho thấy thiếu kiên nhẫn, làm nhiều mà thu ít, đầu tư kém hiệu quả, hoặc công sức chưa được đền đáp."
+  ],
+  "reflection": [
+    "Điều tôi đang đầu tư có đi đúng hướng không?",
+    "Tôi có đủ kiên nhẫn để chờ kết quả?",
+    "Có cần thay đổi cách làm thay vì cứ tiếp tục như cũ?"
+  ]
 }

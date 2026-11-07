@@ -23,23 +23,35 @@
       "Trì hoãn thành công"
     ]
   },
-  "imagery": "Một em bé trần trụi cưỡi ngựa trắng dưới mặt trời rực rỡ, tay cầm lá cờ đỏ. Phía sau là bức tường với hoa hướng dương nở rộ.",
+  "imagery": "Mặt trời vàng khổng lồ có khuôn mặt hiền hòa chiếm nửa trên lá bài, tỏa những tia sáng thẳng xen kẽ tia lượn sóng. Bên dưới, một em bé trần truồng, đầu đội vòng hoa hướng dương cắm lông vũ đỏ, ngồi dang tay trên lưng con ngựa trắng không yên cương. Em cầm lá cờ đỏ lớn bay phấp phới. Sau lưng là bức tường gạch xám, bên trên có bốn bông hoa hướng dương nở rộ hướng về phía em bé. Bầu trời xanh trong.",
   "symbols": [
     {
-      "name": "Em bé",
-      "meaning": "Niềm vui thuần khiết, hồn nhiên."
+      "name": "Mặt trời có khuôn mặt",
+      "meaning": "Ý thức, sự sống, sự rõ ràng; mọi thứ được soi sáng."
     },
     {
-      "name": "Hoa hướng dương",
-      "meaning": "Luôn hướng về ánh sáng, sự sống."
+      "name": "Em bé trần truồng",
+      "meaning": "Niềm vui thuần khiết, sự hồn nhiên, không cần che giấu; sự tái sinh."
     },
     {
-      "name": "Ngựa trắng",
-      "meaning": "Sức mạnh thuần khiết."
+      "name": "Ngựa trắng không yên cương",
+      "meaning": "Sức mạnh thuần khiết được điều khiển dễ dàng, không cần kiểm soát."
     },
     {
       "name": "Lá cờ đỏ",
-      "meaning": "Sinh lực, hành động tràn đầy năng lượng."
+      "meaning": "Sinh lực, hành động, chiến thắng."
+    },
+    {
+      "name": "Bốn hoa hướng dương",
+      "meaning": "Bốn nguyên tố, bốn bộ Ẩn Phụ; sự sống luôn hướng về ánh sáng."
+    },
+    {
+      "name": "Bức tường gạch",
+      "meaning": "Đã vượt qua giới hạn; khu vườn an toàn phía sau là điều đã được xây dựng."
+    },
+    {
+      "name": "Lông vũ đỏ",
+      "meaning": "Liên hệ với Chàng Khờ và Cái Chết: hành trình đã đi trọn một vòng."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Sau đêm Mặt Trăng (18) là bình minh Mặt Trời (19): mọi thứ rõ ràng, ấm áp.",
   "image": "assets/cards/the-sun.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mặt Trời là một trong những lá tích cực nhất của bộ bài: niềm vui, thành công, sức sống và sự rõ ràng. Sau đêm dài của Mặt Trăng, ánh sáng chiếu rọi mọi góc khuất; không còn gì phải nghi ngờ hay sợ hãi. Năng lượng của lá giống như một đứa trẻ hạnh phúc — tự tin, hồn nhiên, tràn đầy sinh lực.",
+    "Là số 19, Mặt Trời là ánh sáng thứ ba và rực rỡ nhất. 19 = 1 + 9 = 10 = 1: một sự khởi đầu mới ở cấp độ cao hơn, với sự trong sáng của Chàng Khờ nhưng đã có trí tuệ của hành trình. Em bé trên lưng ngựa cho thấy sự hồn nhiên đã trở lại — không phải vì ngây thơ chưa biết gì, mà vì đã đi qua bóng tối và tìm thấy ánh sáng.",
+    "Trong trải bài, Mặt Trời báo hiệu thành công, được công nhận, hạnh phúc gia đình, sức khỏe tốt, tin vui (có thể là con cái); trong câu hỏi Có/Không, gần như luôn là \"Có\". Khi ra ngược, niềm vui vẫn còn nhưng bị che khuất tạm thời — bởi suy nghĩ tiêu cực, sự chậm trễ, hoặc lạc quan quá mức mà bỏ qua thực tế."
+  ],
+  "reflection": [
+    "Điều gì đang mang lại niềm vui thật sự cho tôi?",
+    "Tôi có cho phép mình tỏa sáng và được công nhận không?",
+    "Tôi muốn chia sẻ thành công này với ai?"
+  ]
 }

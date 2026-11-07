@@ -23,23 +23,39 @@
       "Lạm quyền"
     ]
   },
-  "imagery": "Hoàng Đế ngồi trên ngai đá khắc đầu cừu đực, mặc áo giáp dưới áo choàng đỏ, tay cầm quyền trượng ankh và quả cầu. Phía sau là dãy núi đá khô cằn.",
+  "imagery": "Một vị vua râu tóc bạc ngồi nghiêm nghị trên ngai đá vuông vức, nhìn thẳng. Bốn góc ngai khắc đầu cừu đực. Ông mặc áo choàng đỏ, bên dưới lộ ra bộ giáp kim loại ở chân. Tay phải cầm quyền trượng hình chữ thập ankh của Ai Cập, tay trái cầm quả cầu vàng. Phía sau là dãy núi đá cam đỏ khô cằn, dưới chân núi có một dòng sông nhỏ.",
   "symbols": [
     {
-      "name": "Ngai đá",
-      "meaning": "Nền tảng vững chắc, bền bỉ."
+      "name": "Ngai đá vuông",
+      "meaning": "Nền tảng vững chắc, sự ổn định lâu bền, cấu trúc."
     },
     {
       "name": "Đầu cừu đực",
-      "meaning": "Cung Bạch Dương — năng lượng tiên phong, lãnh đạo."
+      "meaning": "Cung Bạch Dương và sao Hỏa: năng lượng tiên phong, ý chí, sự quyết đoán."
     },
     {
-      "name": "Áo giáp",
-      "meaning": "Sẵn sàng bảo vệ những gì mình xây dựng."
+      "name": "Quyền trượng ankh",
+      "meaning": "Biểu tượng sự sống của Ai Cập: quyền lực để bảo vệ sự sống."
     },
     {
-      "name": "Dãy núi",
-      "meaning": "Thành tựu đạt được nhờ ý chí, nhưng cũng là sự khô cứng."
+      "name": "Quả cầu",
+      "meaning": "Quyền cai quản thế giới vật chất."
+    },
+    {
+      "name": "Bộ giáp dưới áo",
+      "meaning": "Luôn sẵn sàng bảo vệ những gì mình xây dựng; sự phòng thủ."
+    },
+    {
+      "name": "Núi đá khô cằn",
+      "meaning": "Thành tựu đạt được nhờ ý chí, nhưng cũng là sự khô cứng, thiếu cảm xúc."
+    },
+    {
+      "name": "Dòng sông nhỏ",
+      "meaning": "Cảm xúc vẫn tồn tại nhưng chảy rất khiêm tốn bên dưới."
+    },
+    {
+      "name": "Râu tóc bạc",
+      "meaning": "Kinh nghiệm, sự từng trải, trí khôn của người lớn tuổi."
     }
   ],
   "upright": {
@@ -57,5 +73,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 4 = bốn góc vuông vững chãi. Hoàng Hậu (3) nuôi dưỡng, Hoàng Đế (4) bảo vệ và xây dựng.",
   "image": "assets/cards/the-emperor.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hoàng Đế là nguyên mẫu của người cha và của trật tự: cấu trúc, luật lệ, kỷ luật, trách nhiệm và sự bảo vệ. Ông biến hỗn loạn thành hệ thống, đặt ra ranh giới và giữ lời. Sức mạnh của Hoàng Đế không đến từ cảm xúc mà từ kinh nghiệm, ý chí và khả năng lãnh đạo.",
+    "Là số 4 — con số của hình vuông, bốn góc vững chãi — Hoàng Đế là nền tảng cho những gì Hoàng Hậu (số 3) sinh ra có thể tồn tại lâu dài. Cung Bạch Dương gắn với lá cho thấy tính tiên phong, quyết đoán, đôi khi nóng nảy. Trong hành trình của Chàng Khờ, đây là lúc học về thế giới xã hội: luật chơi, quyền lực và trách nhiệm của người trưởng thành.",
+    "Trong trải bài, Hoàng Đế có thể chỉ một người có quyền (cấp trên, người cha, người lãnh đạo) hoặc khuyên bạn tự đứng vào vai trò đó: lập kế hoạch, đặt kỷ luật, làm chủ tình hình. Trong tình cảm, lá nói về sự ổn định và cam kết nhưng có thể thiếu mềm mỏng. Khi ra ngược, hãy để ý sự cứng nhắc, độc đoán, lạm quyền — hoặc điều ngược lại: thiếu kỷ luật, mất kiểm soát."
+  ],
+  "reflection": [
+    "Lĩnh vực nào trong đời tôi đang cần thêm cấu trúc và kỷ luật?",
+    "Tôi có đang kiểm soát quá mức điều gì không?",
+    "Ranh giới nào tôi cần đặt ra và giữ vững?"
+  ]
 }

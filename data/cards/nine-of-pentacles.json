@@ -21,8 +21,33 @@
       "Giả tạo"
     ]
   },
-  "imagery": "Người phụ nữ sang trọng đứng trong vườn nho chín, chim ưng đậu trên tay, chín đồng tiền xung quanh.",
-  "symbols": [],
+  "imagery": "Một người phụ nữ mặc áo choàng vàng in hình hoa (biểu tượng sao Kim) đứng một mình giữa vườn nho trĩu quả. Tay trái bà đeo găng, có con chim ưng đội mũ trùm đầu đậu lên; tay phải đặt nhẹ trên những đồng tiền. Chín đồng tiền xếp quanh bà giữa những giàn nho. Dưới chân bà có một con ốc sên nhỏ; phía xa là một tòa nhà lớn.",
+  "symbols": [
+    {
+      "name": "Vườn nho chín",
+      "meaning": "Sự sung túc, thành quả đã chín muồi."
+    },
+    {
+      "name": "Chim ưng đội mũ",
+      "meaning": "Bản năng đã được thuần hóa, kỷ luật, trí tuệ."
+    },
+    {
+      "name": "Áo in biểu tượng sao Kim",
+      "meaning": "Cái đẹp, sự tận hưởng tinh tế."
+    },
+    {
+      "name": "Ốc sên",
+      "meaning": "Sự kiên nhẫn, chậm mà chắc; cũng là sự tự chủ (ốc mang nhà theo mình)."
+    },
+    {
+      "name": "Đứng một mình",
+      "meaning": "Sự độc lập, tự lập; cũng có thể là sự cô đơn."
+    },
+    {
+      "name": "Tòa nhà phía xa",
+      "meaning": "Sự ổn định, tài sản đã có."
+    }
+  ],
   "upright": {
     "general": "Bạn đã đạt được sự độc lập và sung túc nhờ nỗ lực của chính mình. Hãy tận hưởng thành quả.",
     "love": "Tự tin, độc lập trong tình cảm.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Người phụ nữ trong vườn nho = \"tự lập và sung túc\".",
   "image": "assets/cards/nine-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Chín Tiền là lá của sự độc lập và sung túc nhờ nỗ lực của chính mình. Người phụ nữ sang trọng thong thả dạo trong vườn nho chín, chim ưng đậu trên tay — bà tận hưởng thành quả mình xây dựng, không cần dựa vào ai.",
+    "Số 9 là đỉnh điểm của nguyên tố. Trong bộ Tiền, đó là sự tự chủ về vật chất và sự tinh tế trong cách tận hưởng. Con chim ưng đội mũ cho thấy bà đã thuần hóa bản năng của mình; con ốc sên dưới chân nhắc rằng thành công này đến từ sự kiên nhẫn, chậm mà chắc.",
+    "Trong trải bài, Chín Tiền báo hiệu tài chính độc lập, thành công tự lập, tận hưởng cuộc sống, sự tự tin. Lá khuyên tận hưởng thành quả của mình. Khi ra ngược, lá cho thấy phụ thuộc tài chính, làm việc quá sức, sống vượt khả năng, hoặc cảm giác cô đơn dù đủ đầy."
+  ],
+  "reflection": [
+    "Tôi tự hào về điều gì mình đã tự xây dựng?",
+    "Tôi có cho phép mình tận hưởng thành quả không?",
+    "Sự độc lập của tôi có đang biến thành cô lập?"
+  ]
 }

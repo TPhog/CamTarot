@@ -21,8 +21,29 @@
       "Bất an tài chính"
     ]
   },
-  "imagery": "Người đàn ông ngồi ôm chặt một đồng tiền trước ngực, một đồng trên đầu, hai đồng dưới chân. Thành phố ở phía sau.",
-  "symbols": [],
+  "imagery": "Một người đàn ông đội vương miện, mặc áo choàng đỏ và đen, ngồi trên chiếc ghế đá. Ông ôm chặt một đồng tiền trước ngực bằng cả hai tay, một đồng đặt trên đỉnh vương miện, hai đồng dưới hai bàn chân. Phía sau là toàn cảnh một thành phố với nhiều tòa nhà.",
+  "symbols": [
+    {
+      "name": "Ôm chặt đồng tiền",
+      "meaning": "Bám víu, sợ mất mát, kiểm soát chặt chẽ."
+    },
+    {
+      "name": "Đồng tiền trên đầu",
+      "meaning": "Suy nghĩ bị chi phối bởi tiền bạc."
+    },
+    {
+      "name": "Hai đồng dưới chân",
+      "meaning": "Nền tảng vật chất vững chắc — nhưng cũng khiến ông không thể bước đi."
+    },
+    {
+      "name": "Quay lưng với thành phố",
+      "meaning": "Tách biệt khỏi cộng đồng để bảo vệ của cải."
+    },
+    {
+      "name": "Vương miện",
+      "meaning": "Quyền lực và địa vị có được nhờ vật chất."
+    }
+  ],
   "upright": {
     "general": "Bạn đang giữ chặt tài sản và sự an toàn. Tiết kiệm là tốt, nhưng đừng để nỗi sợ khiến bạn khép kín.",
     "love": "Chiếm hữu, khép kín.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Ôm chặt đồng tiền = \"giữ của\".",
   "image": "assets/cards/four-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bốn Tiền là lá của sự giữ gìn, tiết kiệm và kiểm soát. Người đàn ông ôm chặt đồng tiền trước ngực, giữ một đồng trên đầu và giẫm hai đồng dưới chân — ông bảo vệ những gì mình có đến mức không thể di chuyển.",
+    "Số 4 là sự ổn định. Trong bộ Tiền, ổn định có hai mặt: an toàn tài chính (tốt) và sự bám víu, keo kiệt, sợ mất mát (không tốt). Thành phố phía sau cho thấy ông đã quay lưng với cộng đồng để giữ của.",
+    "Trong trải bài, Bốn Tiền cho thấy tiết kiệm, giữ tiền, bảo vệ tài sản, nhưng cũng có thể là sự chiếm hữu, khép kín, sợ rủi ro. Lá khuyên an toàn là tốt nhưng đừng để nỗi sợ ngăn bạn đón nhận và cho đi. Khi ra ngược, lá có thể chỉ sự keo kiệt cực đoan hoặc ngược lại — tiêu xài phung phí, buông bỏ kiểm soát."
+  ],
+  "reflection": [
+    "Tôi đang bám chặt vào điều gì vì sợ mất?",
+    "Sự an toàn này đang bảo vệ hay giới hạn tôi?",
+    "Tôi có thể cho đi điều gì mà không thấy thiếu?"
+  ]
 }

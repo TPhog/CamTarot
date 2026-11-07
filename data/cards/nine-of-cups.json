@@ -21,8 +21,29 @@
       "Tự mãn"
     ]
   },
-  "imagery": "Người đàn ông ngồi khoanh tay hài lòng, phía sau là chín chiếc cốc xếp hàng trên chiếc bàn phủ khăn xanh.",
-  "symbols": [],
+  "imagery": "Một người đàn ông đầy đặn, đội mũ đỏ, ngồi trên chiếc ghế gỗ, khoanh tay trước ngực với nụ cười tự mãn. Phía sau ông, chín chiếc cốc vàng được xếp thành hình vòng cung trên một chiếc kệ phủ khăn xanh dài chạm đất.",
+  "symbols": [
+    {
+      "name": "Khoanh tay mỉm cười",
+      "meaning": "Sự hài lòng, tự hào về những gì mình có."
+    },
+    {
+      "name": "Chín cốc xếp vòng cung",
+      "meaning": "Thành quả được trưng bày; ước nguyện đã thành hiện thực."
+    },
+    {
+      "name": "Khăn xanh phủ kệ",
+      "meaning": "Có thể che giấu điều gì bên dưới — nhắc rằng sự mãn nguyện bề ngoài cần được kiểm chứng."
+    },
+    {
+      "name": "Dáng người đầy đặn",
+      "meaning": "Sung túc, tận hưởng vật chất và khoái lạc."
+    },
+    {
+      "name": "Mũ đỏ",
+      "meaning": "Đam mê, sự tự tin."
+    }
+  ],
   "upright": {
     "general": "Lá bài \"ước nguyện\": điều bạn mong muốn sẽ thành hiện thực. Hãy tận hưởng sự hài lòng và biết ơn.",
     "love": "Hạnh phúc, viên mãn; tình cảm như ý.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Còn gọi là \"lá ước nguyện\". Người khoanh tay cười = \"tôi có tất cả\".",
   "image": "assets/cards/nine-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Chín Cốc được gọi là \"lá ước nguyện\": điều bạn mong muốn sẽ thành hiện thực. Người đàn ông ngồi khoanh tay mỉm cười mãn nguyện trước chín chiếc cốc xếp hàng phía sau — ông có mọi thứ mình cần và tận hưởng điều đó.",
+    "Số 9 là đỉnh điểm của nguyên tố. Trong bộ Cốc, đó là sự thỏa mãn cảm xúc cá nhân. Sau hành trình tìm kiếm của Tám Cốc, người hỏi tìm thấy sự hài lòng. Tuy nhiên, niềm vui ở đây khá cá nhân — sự viên mãn được chia sẻ với gia đình sẽ đến ở Mười Cốc.",
+    "Trong trải bài, Chín Cốc là lá rất tích cực: ước nguyện thành sự thật, hài lòng, sung túc, tận hưởng; trong câu hỏi Có/Không là \"Có\". Khi ra ngược, lá cho thấy có mọi thứ nhưng vẫn không thỏa mãn, tự mãn, tham lam, hoặc kỳ vọng không thực tế."
+  ],
+  "reflection": [
+    "Nếu được ước một điều, tôi sẽ ước gì?",
+    "Tôi đã biết ơn những gì đang có chưa?",
+    "Niềm vui của tôi có cần thêm ai đó để trọn vẹn hơn?"
+  ]
 }

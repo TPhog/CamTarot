@@ -21,8 +21,33 @@
       "Sự thật lộ ra"
     ]
   },
-  "imagery": "Người phụ nữ bịt mắt ngồi trước biển, hai tay bắt chéo cầm hai thanh kiếm. Sau lưng là trăng lưỡi liềm.",
-  "symbols": [],
+  "imagery": "Một người phụ nữ mặc áo dài trắng, mắt bịt khăn trắng, ngồi trên chiếc ghế đá dài ở bờ biển, quay lưng ra biển. Hai tay cô bắt chéo trước ngực, mỗi tay giơ một thanh kiếm dài, tạo thành hình chữ X. Phía sau là mặt biển với những tảng đá nhô lên và vầng trăng lưỡi liềm ở góc trên bên phải.",
+  "symbols": [
+    {
+      "name": "Khăn bịt mắt",
+      "meaning": "Không nhìn thấy (hoặc không muốn nhìn) sự thật; thiếu thông tin."
+    },
+    {
+      "name": "Hai kiếm bắt chéo",
+      "meaning": "Thế bế tắc, phòng thủ, tự che chắn trái tim."
+    },
+    {
+      "name": "Quay lưng ra biển",
+      "meaning": "Gạt cảm xúc sang một bên, chỉ dùng lý trí."
+    },
+    {
+      "name": "Đá nhô trên biển",
+      "meaning": "Những trở ngại, cảm xúc bị dồn nén ẩn dưới bề mặt."
+    },
+    {
+      "name": "Trăng lưỡi liềm",
+      "meaning": "Trực giác — thứ có thể giúp cô quyết định."
+    },
+    {
+      "name": "Áo trắng",
+      "meaning": "Sự trung lập, không thiên vị."
+    }
+  ],
   "upright": {
     "general": "Bạn đang bế tắc trước một quyết định khó, hoặc cố né tránh để giữ yên ổn. Tấm bịt mắt khiến bạn không thấy hết.",
     "love": "Né tránh vấn đề; chưa dám chọn.",
@@ -38,5 +63,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 2 = lựa chọn. Bịt mắt + hai kiếm = \"không muốn nhìn, không muốn chọn\".",
   "image": "assets/cards/two-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hai Kiếm là lá của sự bế tắc và né tránh quyết định. Người phụ nữ bịt mắt bắt chéo hai thanh kiếm trước ngực, quay lưng lại với biển — cô giữ thế cân bằng mong manh bằng cách không nhìn và không chọn.",
+    "Số 2 là lựa chọn. Trong bộ Kiếm (tâm trí), đó là lúc lý trí đứng giữa hai phương án mà không thể quyết. Tấm bịt mắt cho thấy cô thiếu thông tin hoặc không muốn nhìn sự thật; biển đầy đá phía sau là những cảm xúc bị gạt sang một bên.",
+    "Trong trải bài, Hai Kiếm cho thấy sự do dự, né tránh xung đột, đình chiến tạm thời, hoặc đứng giữa hai lựa chọn khó. Lá khuyên tháo khăn bịt mắt: tìm thêm thông tin, lắng nghe cảm xúc, và dũng cảm chọn. Khi ra ngược, lá cho thấy không thể né tránh thêm — áp lực buộc bạn quyết định, hoặc quá tải thông tin."
+  ],
+  "reflection": [
+    "Tôi đang tránh phải chọn điều gì?",
+    "Thông tin nào tôi còn thiếu — hoặc cố tình không nhìn?",
+    "Trái tim tôi nghiêng về phía nào?"
+  ]
 }

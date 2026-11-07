@@ -21,8 +21,29 @@
       "Lệch giá trị"
     ]
   },
-  "imagery": "Một đôi vợ chồng dang tay hướng về cầu vồng có mười chiếc cốc, bên cạnh hai đứa trẻ nhảy múa trước ngôi nhà.",
-  "symbols": [],
+  "imagery": "Một đôi vợ chồng đứng ôm nhau, mỗi người dang một tay lên bầu trời, nơi có cầu vồng rực rỡ với mười chiếc cốc vàng xếp theo vòng cung. Bên cạnh họ, hai đứa trẻ nắm tay nhau nhảy múa vui vẻ. Phía xa là ngôi nhà nhỏ giữa cây cối xanh tươi và dòng sông uốn lượn.",
+  "symbols": [
+    {
+      "name": "Cầu vồng mười cốc",
+      "meaning": "Phước lành, lời hứa hạnh phúc, sự trọn vẹn sau giông bão."
+    },
+    {
+      "name": "Đôi vợ chồng dang tay",
+      "meaning": "Biết ơn, chào đón niềm vui cùng nhau."
+    },
+    {
+      "name": "Hai đứa trẻ nhảy múa",
+      "meaning": "Niềm vui hồn nhiên, sự tiếp nối thế hệ."
+    },
+    {
+      "name": "Ngôi nhà",
+      "meaning": "Mái ấm, sự ổn định, cảm giác thuộc về."
+    },
+    {
+      "name": "Dòng sông",
+      "meaning": "Cảm xúc tuôn chảy hài hòa."
+    }
+  ],
   "upright": {
     "general": "Hạnh phúc trọn vẹn về cảm xúc: gia đình hòa thuận, tình yêu bền vững, cảm giác thuộc về.",
     "love": "Gia đình hạnh phúc, cam kết lâu dài.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 10 = trọn vẹn. Cầu vồng mười cốc = \"hạnh phúc gia đình viên mãn\".",
   "image": "assets/cards/ten-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mười Cốc là lá của hạnh phúc cảm xúc trọn vẹn: gia đình hòa thuận, tình yêu bền vững, cảm giác thuộc về. Đôi vợ chồng dang tay hướng về cầu vồng, hai đứa trẻ nhảy múa bên cạnh — một hình ảnh của sự viên mãn được chia sẻ.",
+    "Số 10 là kết thúc chu kỳ. Hành trình của bộ Cốc khép lại ở đây: từ chiếc cốc đầu tiên tràn đầy (Át) đến mười chiếc cốc trên cầu vồng. Nếu Chín Cốc là sự hài lòng cá nhân, thì Mười Cốc là hạnh phúc được nhân lên trong gia đình và cộng đồng.",
+    "Trong trải bài, Mười Cốc báo hiệu hạnh phúc gia đình, cam kết lâu dài, sự hòa hợp, môi trường làm việc như một gia đình. Lá khuyên dành thời gian cho những người thương yêu. Khi ra ngược, lá cho thấy bất hòa trong gia đình, khác biệt về giá trị, hoặc kỳ vọng về một hạnh phúc \"hoàn hảo\" không giống thực tế."
+  ],
+  "reflection": [
+    "Hạnh phúc gia đình với tôi trông như thế nào?",
+    "Tôi cảm thấy mình thuộc về đâu?",
+    "Điều gì giúp những người tôi yêu thương gắn bó với nhau?"
+  ]
 }

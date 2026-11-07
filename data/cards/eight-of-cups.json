@@ -21,8 +21,29 @@
       "Quay lại"
     ]
   },
-  "imagery": "Người mặc áo đỏ chống gậy rời khỏi tám chiếc cốc xếp chồng, đi về phía núi dưới ánh trăng.",
-  "symbols": [],
+  "imagery": "Dưới bầu trời đêm có vầng trăng mang khuôn mặt (đang che khuất mặt trời như nhật thực), một người mặc áo choàng đỏ, tay chống gậy, quay lưng bước đi về phía những ngọn núi đá. Ở tiền cảnh, tám chiếc cốc được xếp chồng thành hai hàng, ở giữa có một khoảng trống. Một dòng sông chảy giữa người đó và những chiếc cốc.",
+  "symbols": [
+    {
+      "name": "Quay lưng bước đi",
+      "meaning": "Rời bỏ điều không còn phù hợp, dù đã đầu tư nhiều."
+    },
+    {
+      "name": "Tám cốc xếp có khoảng trống",
+      "meaning": "Những gì đã xây dựng nhưng vẫn thiếu một điều quan trọng."
+    },
+    {
+      "name": "Mặt trăng che mặt trời",
+      "meaning": "Hành trình đi theo trực giác, cảm xúc thay vì lý trí; thời điểm chuyển giao."
+    },
+    {
+      "name": "Gậy chống",
+      "meaning": "Sự kiên trì cho hành trình dài."
+    },
+    {
+      "name": "Núi non phía trước",
+      "meaning": "Thử thách và mục đích cao hơn đang chờ."
+    }
+  ],
   "upright": {
     "general": "Bạn đang rời bỏ điều đã không còn thỏa mãn mình, dù nó trông có vẻ ổn. Đây là hành trình tìm kiếm ý nghĩa sâu sắc hơn.",
     "love": "Rời khỏi mối quan hệ không còn hạnh phúc.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 8 = chuyển động. Bóng người đi dưới trăng = \"đi tìm điều còn thiếu\".",
   "image": "assets/cards/eight-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tám Cốc là lá của sự rời đi để tìm ý nghĩa sâu sắc hơn. Người mặc áo đỏ chống gậy bỏ lại tám chiếc cốc xếp ngay ngắn và đi về phía núi dưới ánh trăng. Những gì để lại không hề tệ — nhưng chúng không còn làm trái tim thỏa mãn.",
+    "Số 8 là chuyển động. Sau ảo tưởng của Bảy Cốc, người hỏi nhận ra những gì mình đã xây chưa trọn vẹn — khoảng trống giữa các chiếc cốc cho thấy điều đó. Hành trình dưới trăng là hành trình hướng nội, giống tinh thần của Ẩn Sĩ.",
+    "Trong trải bài, Tám Cốc cho thấy việc rời bỏ một mối quan hệ, công việc hay hoàn cảnh không còn hạnh phúc, dù nhìn bề ngoài có vẻ ổn. Lá khuyên đủ can đảm đi khi trái tim đã biết câu trả lời. Khi ra ngược, lá cho thấy sự do dự, sợ rời đi, hoặc quay lại điều cũ."
+  ],
+  "reflection": [
+    "Điều gì tưởng là đủ nhưng trái tim tôi vẫn thấy thiếu?",
+    "Tôi đang ở lại vì yêu thích, hay vì sợ hãi?",
+    "Nếu rời đi, tôi đang đi tìm điều gì?"
+  ]
 }

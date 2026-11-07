@@ -21,8 +21,29 @@
       "Kiệt sức"
     ]
   },
-  "imagery": "Người đàn ông còng lưng ôm mười cây gậy nặng nề, che cả tầm nhìn, cố mang về ngôi nhà phía xa.",
-  "symbols": [],
+  "imagery": "Một người đàn ông mặc áo cam nâu cúi gập người, hai tay ôm cả bó mười cây gậy trước ngực. Bó gậy dày đến mức che khuất mặt và tầm nhìn của anh. Anh lê bước trên cánh đồng đã cày xới, hướng về phía một ngôi nhà và những hàng cây phía xa.",
+  "symbols": [
+    {
+      "name": "Bó mười gậy",
+      "meaning": "Quá nhiều trách nhiệm, công việc, nghĩa vụ dồn lại."
+    },
+    {
+      "name": "Lưng còng",
+      "meaning": "Áp lực, kiệt sức, sự chịu đựng."
+    },
+    {
+      "name": "Tầm nhìn bị che",
+      "meaning": "Quá tải khiến ta không còn thấy đường đi hay mục đích."
+    },
+    {
+      "name": "Ngôi nhà phía xa",
+      "meaning": "Đích đến đã gần; sự nghỉ ngơi đang chờ."
+    },
+    {
+      "name": "Cánh đồng đã cày",
+      "meaning": "Công sức đã bỏ ra, thành quả đã gặt."
+    }
+  ],
   "upright": {
     "general": "Bạn đang gánh quá nhiều trách nhiệm. Thành công đã đến nhưng kèm gánh nặng. Hãy xem cái gì thật sự cần mang.",
     "love": "Một người gánh hết trách nhiệm trong mối quan hệ; mệt mỏi.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 10 = kết thúc chu kỳ. Lửa đã cháy hết cỡ và trở thành gánh nặng.",
   "image": "assets/cards/ten-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mười Gậy là lá của gánh nặng và trách nhiệm quá tải. Người đàn ông còng lưng ôm mười cây gậy che cả tầm nhìn, lê bước về phía ngôi nhà. Ngọn lửa đam mê ban đầu giờ đã trở thành những nghĩa vụ nặng nề.",
+    "Số 10 là kết thúc chu kỳ, khi nguyên tố đã đi đến cực điểm. Với bộ Gậy, cực điểm của Lửa là kiệt sức: thành công kéo theo ngày càng nhiều trách nhiệm, cho đến khi ta quên mất vì sao mình bắt đầu. Tin tốt là đích đến (ngôi nhà) đã ở trong tầm mắt.",
+    "Trong trải bài, Mười Gậy cho thấy bạn đang ôm quá nhiều việc, quá nhiều trách nhiệm, hoặc gánh vác thay người khác. Lá khuyên xem lại cái gì thật sự cần mang, ủy thác hoặc buông bớt. Khi ra ngược, bạn có thể đang học cách đặt gánh nặng xuống — hoặc đã chạm đến giới hạn chịu đựng."
+  ],
+  "reflection": [
+    "Trách nhiệm nào tôi đang mang mà thật ra không phải của mình?",
+    "Điều gì tôi có thể nhờ người khác hoặc buông bớt?",
+    "Tôi còn nhớ vì sao mình bắt đầu việc này không?"
+  ]
 }

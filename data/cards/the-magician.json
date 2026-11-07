@@ -23,23 +23,39 @@
       "Thiếu kế hoạch"
     ]
   },
-  "imagery": "Nhà Ảo Thuật đứng trước chiếc bàn có đủ bốn biểu tượng: gậy, cốc, kiếm, đồng tiền. Một tay chỉ lên trời, một tay chỉ xuống đất; trên đầu là biểu tượng vô cực.",
+  "imagery": "Một người đàn ông trẻ đứng thẳng sau chiếc bàn, mặc áo choàng đỏ khoác ngoài áo dài trắng. Tay phải giơ cao một cây gậy trắng hai đầu hướng lên trời, tay trái chỉ thẳng xuống đất. Phía trên đầu là biểu tượng vô cực nằm ngang; quanh eo là một con rắn tự cắn đuôi làm thắt lưng. Trên bàn bày đủ bốn vật: chiếc cốc, thanh kiếm, đồng tiền khắc ngôi sao năm cánh và cây gậy. Phía trên và dưới chân là giàn hoa hồng đỏ và hoa ly trắng, trên nền trời vàng rực.",
   "symbols": [
     {
-      "name": "Tay chỉ trời – đất",
-      "meaning": "\"Trên sao, dưới vậy\": dẫn năng lượng ý tưởng xuống thế giới vật chất."
-    },
-    {
-      "name": "Bốn công cụ trên bàn",
-      "meaning": "Bạn có đủ nguồn lực: đam mê, cảm xúc, trí tuệ và vật chất."
+      "name": "Tay chỉ trời – tay chỉ đất",
+      "meaning": "Nguyên lý \"trên sao, dưới vậy\": ông là kênh dẫn năng lượng từ ý tưởng xuống thế giới vật chất."
     },
     {
       "name": "Biểu tượng vô cực",
-      "meaning": "Tiềm năng không giới hạn, sức mạnh tâm trí."
+      "meaning": "Tiềm năng không giới hạn, sức mạnh của tâm trí và sự tập trung."
     },
     {
-      "name": "Hoa hồng và hoa ly",
-      "meaning": "Đam mê (đỏ) và sự thuần khiết (trắng) hòa quyện."
+      "name": "Rắn tự cắn đuôi (Ouroboros)",
+      "meaning": "Vòng tuần hoàn vĩnh cửu, sự tự làm mới và trọn vẹn."
+    },
+    {
+      "name": "Bốn công cụ trên bàn",
+      "meaning": "Bốn nguyên tố và bốn bộ Ẩn Phụ: Lửa (Gậy), Nước (Cốc), Khí (Kiếm), Đất (Tiền) — mọi nguồn lực đều sẵn sàng."
+    },
+    {
+      "name": "Cây gậy hai đầu",
+      "meaning": "Sự kết nối giữa tinh thần và vật chất; năng lượng đi cả hai chiều."
+    },
+    {
+      "name": "Áo đỏ – áo trắng",
+      "meaning": "Đỏ là đam mê và hành động, trắng là sự trong sáng của mục đích."
+    },
+    {
+      "name": "Hoa hồng đỏ và hoa ly trắng",
+      "meaning": "Ham muốn và sự thuần khiết cùng tồn tại; ý chí được nuôi bằng cả hai."
+    },
+    {
+      "name": "Nền trời vàng",
+      "meaning": "Trí tuệ, ý thức tỉnh táo, năng lượng mặt trời."
     }
   ],
   "upright": {
@@ -57,5 +73,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 1 = khởi phát. Chàng Khờ (0) có giấc mơ, Nhà Ảo Thuật (1) có công cụ để thực hiện nó.",
   "image": "assets/cards/the-magician.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nhà Ảo Thuật là lá bài của ý chí có ý thức: khả năng biến một ý tưởng thành hiện thực bằng sự tập trung, kỹ năng và hành động. Nếu Chàng Khờ là tiềm năng, thì Nhà Ảo Thuật là lúc tiềm năng được nắm lấy và sử dụng. Ông không làm phép bằng thứ gì ngoài những công cụ sẵn có — điều quan trọng là biết mình có gì và dùng nó đúng lúc.",
+    "Đây là chặng đầu tiên trong hành trình của Chàng Khờ, đi cặp với Nữ Tư Tế (số 2): một bên là hành động hướng ra ngoài, một bên là sự lắng nghe hướng vào trong. Bốn công cụ trên bàn chính là biểu tượng của bốn bộ Ẩn Phụ — Gậy, Cốc, Kiếm, Tiền — nghĩa là mọi nguồn lực của đời sống (đam mê, cảm xúc, trí tuệ, vật chất) đều nằm trong tay người hỏi.",
+    "Trong trải bài, Nhà Ảo Thuật thường là tín hiệu \"đến lúc hành động\": khởi động dự án, thuyết trình, đàm phán, học kỹ năng mới. Lá cũng nói về giao tiếp và sức thuyết phục. Mặt tối của nó là thao túng: tài ăn nói và sự khéo léo có thể dùng để lừa người khác. Khi lá ra ngược, hãy tự hỏi năng lực đang bị lãng phí, phân tán, hay đang bị dùng sai mục đích."
+  ],
+  "reflection": [
+    "Tôi đã có những nguồn lực nào mà mình chưa dùng đến?",
+    "Mục tiêu của tôi đã đủ rõ ràng để bắt đầu hành động chưa?",
+    "Tôi đang dùng khả năng của mình vì điều gì?"
+  ]
 }

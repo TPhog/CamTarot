@@ -23,23 +23,35 @@
       "Lệch giá trị"
     ]
   },
-  "imagery": "Adam và Eva đứng trần trụi trong vườn địa đàng, phía trên là thiên thần Raphael dang tay ban phước. Sau người phụ nữ là cây tri thức có con rắn, sau người đàn ông là cây lửa.",
+  "imagery": "Dưới mặt trời rực rỡ, thiên thần Raphael với đôi cánh tím đỏ hiện ra từ đám mây, dang tay ban phước cho hai người bên dưới. Người đàn ông trần trụi đứng bên phải, phía sau là cây có mười hai ngọn lửa; người phụ nữ trần trụi bên trái, phía sau là cây trĩu quả có con rắn quấn quanh thân. Người đàn ông nhìn người phụ nữ, còn người phụ nữ ngước nhìn thiên thần. Giữa họ, xa xa là một ngọn núi cao.",
   "symbols": [
     {
       "name": "Thiên thần Raphael",
-      "meaning": "Sự chữa lành và phước lành thiêng liêng cho sự kết hợp."
+      "meaning": "Thiên thần của sự chữa lành; phước lành thiêng liêng cho sự kết hợp."
     },
     {
-      "name": "Cây có con rắn",
-      "meaning": "Cám dỗ và những lựa chọn có hệ quả."
+      "name": "Ánh nhìn: nam → nữ → thiên thần",
+      "meaning": "Ý thức nhìn vào tiềm thức, tiềm thức hướng về siêu thức — lựa chọn đúng cần cả ba tầng."
+    },
+    {
+      "name": "Cây tri thức có rắn",
+      "meaning": "Cám dỗ, ham muốn, và những lựa chọn có hệ quả."
+    },
+    {
+      "name": "Cây 12 ngọn lửa",
+      "meaning": "Đam mê, 12 cung hoàng đạo, năng lượng sống."
     },
     {
       "name": "Sự trần trụi",
-      "meaning": "Thành thật, không che giấu, chấp nhận con người thật."
+      "meaning": "Thành thật, không che giấu, chấp nhận con người thật của nhau."
     },
     {
-      "name": "Ngọn núi giữa hai người",
-      "meaning": "Thử thách cần cùng nhau vượt qua."
+      "name": "Ngọn núi ở giữa",
+      "meaning": "Thử thách cần cùng nhau vượt qua; mục tiêu cao hơn của sự kết hợp."
+    },
+    {
+      "name": "Mặt trời",
+      "meaning": "Sự rõ ràng, ý thức; tình yêu được soi sáng."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 6 = sự hài hòa của hai tam giác. Nhớ: \"Tình Nhân\" = \"Lựa Chọn bằng trái tim\".",
   "image": "assets/cards/the-lovers.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tình Nhân nói về tình yêu, nhưng sâu hơn, nó nói về sự lựa chọn dựa trên giá trị. Lá bài mô tả khoảnh khắc khi bạn phải chọn điều thật sự quan trọng với mình — và sự hòa hợp xuất hiện khi lựa chọn ấy đến từ cả trái tim lẫn lý trí. Đó có thể là chọn một người, một con đường, hoặc chọn sống đúng với con người thật của mình.",
+    "Là số 6 — con số của sự hài hòa — Tình Nhân đánh dấu lúc Chàng Khờ rời khỏi những quy tắc được dạy (Giáo Hoàng) để tự quyết định theo giá trị riêng. Trong các bộ bài cổ, lá này vẽ một chàng trai đứng giữa hai người phụ nữ, phải chọn một; bộ Rider–Waite chuyển thành hình ảnh Adam và Eva, nhấn mạnh sự kết hợp và trách nhiệm cho lựa chọn. Lá có liên hệ chặt với Ác Quỷ (số 15): cùng hai con người, nhưng ở đó họ bị xiềng xích.",
+    "Trong trải bài tình cảm, Tình Nhân là dấu hiệu rất tốt: sự hấp dẫn sâu sắc, kết nối tâm hồn, quyết định cam kết. Trong các câu hỏi khác, lá chỉ một ngã rẽ quan trọng hoặc một mối hợp tác ăn ý. Khi ra ngược, hãy xem có sự lệch giá trị, mất cân bằng cho – nhận, cám dỗ, hoặc việc né tránh trách nhiệm cho lựa chọn của mình."
+  ],
+  "reflection": [
+    "Giá trị cốt lõi nào đang dẫn dắt lựa chọn của tôi?",
+    "Trong mối quan hệ này, tôi có được là chính mình không?",
+    "Tôi sẵn sàng chịu trách nhiệm cho quyết định nào?"
+  ]
 }

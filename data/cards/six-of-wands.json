@@ -21,8 +21,29 @@
       "Thất bại công khai"
     ]
   },
-  "imagery": "Người kỵ sĩ đội vòng nguyệt quế cưỡi ngựa trắng giữa đám đông, giơ cao cây gậy cũng quấn vòng nguyệt quế.",
-  "symbols": [],
+  "imagery": "Một kỵ sĩ đội vòng nguyệt quế cưỡi con ngựa trắng được phủ tấm vải xanh lá, tay giơ cao cây gậy có buộc vòng nguyệt quế thứ hai. Xung quanh là đám đông bước đi cùng, tay cầm những cây gậy dựng thẳng, như một đoàn diễu hành chiến thắng.",
+  "symbols": [
+    {
+      "name": "Vòng nguyệt quế",
+      "meaning": "Chiến thắng, vinh quang, sự công nhận."
+    },
+    {
+      "name": "Ngựa trắng",
+      "meaning": "Sự thuần khiết của thành công; tiến lên tự tin."
+    },
+    {
+      "name": "Tấm phủ xanh lá",
+      "meaning": "Sự phát triển, thịnh vượng, may mắn."
+    },
+    {
+      "name": "Đám đông đi theo",
+      "meaning": "Sự ủng hộ của cộng đồng; danh tiếng."
+    },
+    {
+      "name": "Người cưỡi ngựa cao hơn mọi người",
+      "meaning": "Vị trí dẫn đầu, nổi bật."
+    }
+  ],
   "upright": {
     "general": "Chiến thắng và được công nhận trước mọi người. Nỗ lực của bạn được đền đáp — hãy tự hào nhưng khiêm tốn.",
     "love": "Tình cảm được mọi người ủng hộ; bạn cảm thấy tự hào về người kia.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 6 = hài hòa sau xung đột (5). Đoàn diễu hành chiến thắng.",
   "image": "assets/cards/six-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Sáu Gậy là lá của chiến thắng và sự công nhận trước mọi người. Người kỵ sĩ cưỡi ngựa trắng giữa đám đông, đội vòng nguyệt quế — anh đã vượt qua xung đột và được tôn vinh. Đây là thành công công khai, sự tự tin và niềm tự hào chính đáng.",
+    "Số 6 là sự hài hòa trở lại sau khủng hoảng của số 5. Từ cuộc cạnh tranh hỗn loạn của Năm Gậy, một người đã nổi lên dẫn đầu. Đám đông đi theo anh cũng cầm gậy — chiến thắng này là của cả tập thể, và người lãnh đạo được ủng hộ.",
+    "Trong trải bài, Sáu Gậy báo hiệu thăng tiến, khen thưởng, thắng cuộc thi, tin tốt, được mọi người ủng hộ. Lá khuyên đón nhận thành công nhưng giữ khiêm tốn. Khi ra ngược, lá có thể nói về công sức chưa được ghi nhận, sợ thất bại trước đám đông, hoặc cái tôi quá lớn sau chiến thắng."
+  ],
+  "reflection": [
+    "Tôi có cho phép mình tự hào về thành quả của mình không?",
+    "Ai đã cùng tôi tạo nên thành công này?",
+    "Làm sao để giữ khiêm tốn khi được tung hô?"
+  ]
 }

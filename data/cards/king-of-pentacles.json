@@ -21,8 +21,33 @@
       "Cứng nhắc"
     ]
   },
-  "imagery": "Vị vua mặc áo choàng thêu nho, ngồi trên ngai trang trí đầu bò, tay cầm đồng tiền và quyền trượng.",
-  "symbols": [],
+  "imagery": "Một vị vua ngồi thư thái trên ngai đen chạm khắc đầu bò đực, khoác áo choàng phủ đầy hoa văn chùm nho và lá nho, hòa lẫn vào những giàn nho xung quanh. Tay phải ông cầm quyền trượng có quả cầu, tay trái đặt trên đồng tiền. Dưới áo choàng lộ ra bộ giáp ở chân. Phía sau là tòa lâu đài vững chãi.",
+  "symbols": [
+    {
+      "name": "Áo choàng hoa văn nho",
+      "meaning": "Sự sung túc tràn đầy; ông và tài sản đã hòa làm một."
+    },
+    {
+      "name": "Đầu bò đực trên ngai",
+      "meaning": "Cung Kim Ngưu: sự ổn định, kiên định, tận hưởng vật chất."
+    },
+    {
+      "name": "Quyền trượng và quả cầu",
+      "meaning": "Quyền lực trong thế giới vật chất."
+    },
+    {
+      "name": "Bộ giáp dưới áo",
+      "meaning": "Sự bảo vệ những gì đã xây dựng."
+    },
+    {
+      "name": "Lâu đài phía sau",
+      "meaning": "Thành tựu vững chắc, tài sản lâu dài."
+    },
+    {
+      "name": "Giàn nho",
+      "meaning": "Thành quả của sự chăm sóc lâu năm."
+    }
+  ],
   "upright": {
     "general": "Thành công và giàu có nhờ nỗ lực bền bỉ. Bạn có thể xây dựng sự thịnh vượng lâu dài.",
     "love": "Người bạn đời ổn định, chu cấp tốt.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Vua Tiền = \"vị đại gia thành đạt\".",
   "image": "assets/cards/king-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Vua Tiền là hình mẫu của sự thành đạt và thịnh vượng nhờ nỗ lực bền bỉ. Ông là doanh nhân thành công, người biết cách xây dựng và duy trì tài sản, đồng thời dùng nó để bảo vệ và chu cấp cho những người xung quanh.",
+    "Vua Tiền là Khí của Đất: sự thịnh vượng được quản lý bằng chiến lược. Áo choàng của ông phủ đầy hoa văn nho, hòa vào khu vườn — ông và sự giàu có của mình đã trở thành một. Đầu bò trên ngai là biểu tượng của cung Kim Ngưu: sự ổn định và tận hưởng vật chất.",
+    "Trong trải bài, lá có thể chỉ một người thành đạt, ổn định, chu cấp tốt, hoặc khuyên bạn xây dựng sự thịnh vượng một cách khôn ngoan, đầu tư dài hạn. Khi ra ngược, lá cho thấy sự tham lam, quá coi trọng tiền bạc, dùng tiền để kiểm soát người khác, hoặc bảo thủ."
+  ],
+  "reflection": [
+    "Thành công với tôi có nghĩa là gì?",
+    "Tôi dùng tài sản và nguồn lực của mình để làm gì?",
+    "Tiền bạc có đang chi phối các mối quan hệ của tôi?"
+  ]
 }

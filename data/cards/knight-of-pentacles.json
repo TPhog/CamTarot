@@ -21,8 +21,29 @@
       "Cứng nhắc"
     ]
   },
-  "imagery": "Hiệp sĩ ngồi yên trên con ngựa đen đứng im, tay cầm đồng tiền, nhìn ra cánh đồng đã cày.",
-  "symbols": [],
+  "imagery": "Một hiệp sĩ mặc giáp ngồi trên con ngựa đen to khỏe đang đứng yên. Anh cầm đồng tiền bằng tay phải, ánh mắt nhìn chăm chú vào nó. Mũ và đầu ngựa gắn cành lá sồi xanh. Phía trước là cánh đồng đã được cày xới thành từng luống ngay ngắn.",
+  "symbols": [
+    {
+      "name": "Ngựa đứng yên",
+      "meaning": "Sự kiên nhẫn, ổn định, không vội vàng."
+    },
+    {
+      "name": "Ngựa đen to khỏe",
+      "meaning": "Sức bền, sự đáng tin cậy, nguyên tố Đất."
+    },
+    {
+      "name": "Lá sồi",
+      "meaning": "Sức mạnh, sự bền bỉ, phát triển chậm mà vững."
+    },
+    {
+      "name": "Cánh đồng đã cày",
+      "meaning": "Sự chuẩn bị kỹ lưỡng, công việc có phương pháp."
+    },
+    {
+      "name": "Nhìn chăm chú vào đồng tiền",
+      "meaning": "Tập trung vào mục tiêu thực tế."
+    }
+  ],
   "upright": {
     "general": "Sự kiên trì, đáng tin và có trách nhiệm. Chậm mà chắc.",
     "love": "Người yêu đáng tin cậy.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Hiệp Sĩ Tiền là hiệp sĩ duy nhất đứng yên = \"chậm mà chắc\".",
   "image": "assets/cards/knight-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hiệp Sĩ Tiền là sự kiên trì, đáng tin cậy và có trách nhiệm. Khác với các hiệp sĩ khác, anh và con ngựa đều đứng yên — anh không vội vàng mà cẩn thận quan sát cánh đồng, lên kế hoạch kỹ lưỡng trước mỗi bước.",
+    "Hiệp Sĩ Tiền là Lửa của Đất: hành động được đặt trên nền tảng thực tế. Anh là hiệp sĩ chậm nhất nhưng chắc chắn nhất — làm việc đều đặn, giữ lời hứa, hoàn thành những gì đã bắt đầu. Cánh đồng đã cày cho thấy công việc đã được chuẩn bị.",
+    "Trong trải bài, Hiệp Sĩ Tiền chỉ một người đáng tin cậy, kiên trì, hoặc khuyên bạn tiến từng bước chắc chắn, chăm chỉ làm việc, tiết kiệm đều đặn. Lá khuyên: chậm mà chắc. Khi ra ngược, lá cho thấy trì trệ, nhàm chán, quá cứng nhắc hoặc cầu toàn đến mức không tiến lên."
+  ],
+  "reflection": [
+    "Mục tiêu nào cần sự kiên trì lâu dài của tôi?",
+    "Tôi có đang quá thận trọng đến mức không tiến lên?",
+    "Thói quen nhỏ nào nếu duy trì đều sẽ tạo ra khác biệt lớn?"
+  ]
 }

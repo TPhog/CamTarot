@@ -21,8 +21,29 @@
       "Lạnh lùng"
     ]
   },
-  "imagery": "Vị vua ngồi trên ngai nổi giữa biển động, tay cầm cốc và quyền trượng. Cá nhảy lên và con thuyền phía sau.",
-  "symbols": [],
+  "imagery": "Một vị vua ngồi trên ngai đá vuông nổi giữa mặt biển xanh có sóng. Tay phải ông cầm chiếc cốc vàng, tay trái cầm quyền trượng ngắn; trên cổ đeo dây chuyền hình con cá. Bên trái phía sau, một con cá nhảy lên khỏi mặt nước; bên phải, một con thuyền buồm lướt trên sóng.",
+  "symbols": [
+    {
+      "name": "Ngai nổi giữa biển",
+      "meaning": "Giữ vững bình tĩnh giữa sóng gió cảm xúc."
+    },
+    {
+      "name": "Dây chuyền hình cá",
+      "meaning": "Sự sáng tạo, tâm linh, kết nối với thế giới cảm xúc."
+    },
+    {
+      "name": "Cá nhảy lên",
+      "meaning": "Cảm xúc và tiềm thức sống động."
+    },
+    {
+      "name": "Con thuyền",
+      "meaning": "Thế giới vật chất, sự điều hướng thực tế."
+    },
+    {
+      "name": "Cốc và quyền trượng",
+      "meaning": "Cảm xúc (cốc) và quyền lực (trượng) được cân bằng."
+    }
+  ],
   "upright": {
     "general": "Sự trưởng thành về cảm xúc: điềm tĩnh giữa sóng gió, bao dung và sáng suốt.",
     "love": "Người bạn đời chín chắn, điềm đạm.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Ngai vua nổi trên biển động mà không chìm = \"làm chủ cảm xúc\".",
   "image": "assets/cards/king-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Vua Cốc là sự trưởng thành về cảm xúc: điềm tĩnh, bao dung và sáng suốt ngay giữa sóng gió. Ngai của ông nổi giữa biển động mà không chìm — ông cảm nhận đầy đủ mọi cảm xúc nhưng không để chúng điều khiển mình.",
+    "Vua Cốc là Khí của Nước: cảm xúc được dẫn dắt bằng lý trí. Ông là người lắng nghe giỏi, nhà ngoại giao, người cố vấn khôn ngoan. Con thuyền và con cá ở hai bên tượng trưng cho thế giới vật chất và thế giới cảm xúc — ông cân bằng cả hai.",
+    "Trong trải bài, lá có thể chỉ một người đàn ông chín chắn, ấm áp, hoặc khuyên bạn giữ bình tĩnh và xử lý tình huống bằng sự thấu hiểu. Trong công việc là khả năng giải quyết xung đột. Khi ra ngược, lá cho thấy kìm nén cảm xúc đến mức lạnh lùng, hoặc dùng cảm xúc để thao túng."
+  ],
+  "reflection": [
+    "Tôi phản ứng thế nào khi cảm xúc dâng cao?",
+    "Tôi có đang che giấu cảm xúc để tỏ ra mạnh mẽ?",
+    "Làm sao để vừa thấu hiểu người khác vừa giữ được sự sáng suốt?"
+  ]
 }

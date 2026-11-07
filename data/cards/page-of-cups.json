@@ -21,8 +21,29 @@
       "Bế tắc sáng tạo"
     ]
   },
-  "imagery": "Chàng trai trẻ mặc áo hoa cầm chiếc cốc, ngạc nhiên nhìn chú cá nhỏ thò đầu lên từ trong cốc.",
-  "symbols": [],
+  "imagery": "Một chàng trai trẻ đứng trên bờ biển, mặc áo khoác in hoa sen xanh, đội mũ nồi xanh có dải khăn dài. Anh cầm một chiếc cốc vàng bằng tay phải và ngạc nhiên nhìn chú cá nhỏ đang thò đầu lên khỏi cốc như muốn nói chuyện. Phía sau là những con sóng biển nhấp nhô.",
+  "symbols": [
+    {
+      "name": "Chú cá trong cốc",
+      "meaning": "Ý tưởng, cảm xúc, trực giác bất ngờ trồi lên từ tiềm thức."
+    },
+    {
+      "name": "Biển phía sau",
+      "meaning": "Thế giới cảm xúc rộng lớn, tiềm thức."
+    },
+    {
+      "name": "Áo in hoa sen",
+      "meaning": "Sự nở hoa của cảm xúc, sự thanh khiết."
+    },
+    {
+      "name": "Ánh mắt ngạc nhiên",
+      "meaning": "Sự hồn nhiên, sẵn lòng đón nhận điều kỳ diệu."
+    },
+    {
+      "name": "Trang phục mềm mại",
+      "meaning": "Tính cách dịu dàng, nghệ sĩ."
+    }
+  ],
   "upright": {
     "general": "Một bất ngờ dễ thương, tin vui về tình cảm hoặc ý tưởng sáng tạo. Hãy mở lòng với trực giác và sự hồn nhiên.",
     "love": "Lời tỏ tình, tin nhắn đáng yêu; cảm xúc mới chớm.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Con cá trong cốc = \"ý tưởng từ tiềm thức bất ngờ nhảy lên\".",
   "image": "assets/cards/page-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tiểu Đồng Cốc là tâm hồn nhạy cảm, mơ mộng và đầy trí tưởng tượng. Chàng trai ngạc nhiên nhìn chú cá nhỏ nhô lên từ chiếc cốc — một điều bất ngờ, đáng yêu từ thế giới cảm xúc và tiềm thức.",
+    "Tiểu Đồng Cốc là Đất của Nước: cảm xúc và trực giác bắt đầu tìm cách biểu hiện ra ngoài. Lá có thể chỉ một người trẻ dịu dàng, giàu cảm xúc, có năng khiếu nghệ thuật, hoặc phần trẻ thơ, hồn nhiên trong mỗi người.",
+    "Trong trải bài, Tiểu Đồng Cốc báo hiệu tin vui về tình cảm, lời tỏ tình, tin nhắn dễ thương, ý tưởng sáng tạo bất ngờ, hoặc trực giác lên tiếng. Lá khuyên mở lòng với sự ngạc nhiên và trí tưởng tượng. Khi ra ngược, lá cho thấy cảm xúc non nớt, dễ tổn thương, hành xử trẻ con hoặc bế tắc sáng tạo."
+  ],
+  "reflection": [
+    "Điều gì gần đây làm tôi ngạc nhiên một cách dễ thương?",
+    "Trí tưởng tượng của tôi đang muốn tạo ra điều gì?",
+    "Tôi có dám bày tỏ cảm xúc của mình không?"
+  ]
 }

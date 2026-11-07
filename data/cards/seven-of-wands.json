@@ -21,8 +21,29 @@
       "Mệt mỏi phòng thủ"
     ]
   },
-  "imagery": "Người đàn ông đứng trên đỉnh đồi, cầm gậy chống lại sáu cây gậy từ bên dưới. Anh đi hai chiếc giày khác nhau.",
-  "symbols": [],
+  "imagery": "Một người đàn ông mặc áo xanh lá đứng trên đỉnh đồi, hai tay nắm chặt một cây gậy chắn ngang, sẵn sàng chống lại sáu cây gậy đang chĩa lên từ phía dưới sườn đồi (không thấy người cầm). Gương mặt anh căng thẳng, quyết tâm. Nhìn kỹ, anh đi hai chiếc giày khác nhau — một chiếc ủng và một chiếc giày thấp.",
+  "symbols": [
+    {
+      "name": "Vị trí trên cao",
+      "meaning": "Lợi thế; đã đạt được thành công cần bảo vệ."
+    },
+    {
+      "name": "Sáu gậy từ bên dưới",
+      "meaning": "Thách thức, đối thủ, chỉ trích, áp lực từ nhiều phía."
+    },
+    {
+      "name": "Hai chiếc giày khác nhau",
+      "meaning": "Bị bất ngờ, chưa chuẩn bị kỹ nhưng vẫn phải đứng lên."
+    },
+    {
+      "name": "Gậy chắn ngang",
+      "meaning": "Phòng thủ chủ động, giữ vững lập trường."
+    },
+    {
+      "name": "Áo xanh lá",
+      "meaning": "Sự phát triển đang được bảo vệ."
+    }
+  ],
   "upright": {
     "general": "Bạn đang ở vị trí cao và phải bảo vệ nó trước thách thức. Hãy tin vào bản thân và giữ vững lập trường.",
     "love": "Bảo vệ mối quan hệ trước sự can thiệp từ bên ngoài.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 7 = thử thách. Một người trên đồi chống sáu người bên dưới = \"lợi thế địa hình\".",
   "image": "assets/cards/seven-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bảy Gậy là lá của sự kiên định và bảo vệ lập trường. Sau chiến thắng của Sáu Gậy, giờ là lúc phải giữ vị trí trước những thách thức từ bên dưới. Người đàn ông đứng trên cao, một mình chống lại sáu cây gậy — khó khăn nhưng anh đang có lợi thế.",
+    "Số 7 là thử thách, đánh giá lại. Thành công luôn kéo theo cạnh tranh: khi đã ở trên đỉnh, sẽ có người muốn kéo bạn xuống. Hai chiếc giày khác nhau cho thấy anh bị bất ngờ, chưa kịp chuẩn bị, nhưng vẫn quyết không lùi bước.",
+    "Trong trải bài, Bảy Gậy khuyên bạn tin vào bản thân, bảo vệ điều mình tin, không nhượng bộ khi mình đúng. Lá thường xuất hiện khi có cạnh tranh gay gắt, phải chứng minh giá trị, hoặc bị chỉ trích. Khi ra ngược, lá cho thấy mệt mỏi vì phải phòng thủ liên tục, cảm giác bị áp đảo, muốn bỏ cuộc."
+  ],
+  "reflection": [
+    "Điều gì xứng đáng để tôi đứng lên bảo vệ?",
+    "Tôi đang chiến đấu vì giá trị thật hay vì cái tôi?",
+    "Trận chiến nào tôi có thể buông bỏ để giữ sức?"
+  ]
 }

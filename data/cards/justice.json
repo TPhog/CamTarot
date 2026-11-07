@@ -23,23 +23,35 @@
       "Thiên vị"
     ]
   },
-  "imagery": "Nữ thần Công Lý ngồi giữa hai cột trụ, tay phải cầm thanh kiếm dựng thẳng, tay trái cầm cán cân. Một bàn chân trắng lộ ra dưới áo choàng đỏ.",
+  "imagery": "Một người phụ nữ ngồi thẳng, nhìn thẳng ra phía trước, giữa hai cột trụ xám có tấm màn tím căng ngang phía sau. Bà mặc áo choàng đỏ, khoác áo choàng ngoài xanh lá, đội vương miện có viên ngọc vuông. Tay phải giơ thẳng một thanh kiếm hai lưỡi, mũi kiếm hướng lên; tay trái cầm cán cân vàng. Một bàn chân mang giày trắng lộ ra dưới vạt áo. Nền phía trên tấm màn màu vàng.",
   "symbols": [
     {
       "name": "Cán cân",
-      "meaning": "Cân nhắc khách quan, cân bằng mọi phía."
+      "meaning": "Cân nhắc khách quan, xem xét mọi phía trước khi kết luận."
     },
     {
-      "name": "Thanh kiếm hai lưỡi",
-      "meaning": "Sự thật sắc bén, quyết định dứt khoát; hành động nào cũng có hệ quả."
+      "name": "Thanh kiếm hai lưỡi dựng thẳng",
+      "meaning": "Sự thật sắc bén, quyết định dứt khoát; lưỡi kiếm cắt cả hai chiều — mọi hành động đều có hệ quả."
+    },
+    {
+      "name": "Không bịt mắt",
+      "meaning": "Công lý nhìn rõ sự thật, không mù quáng."
+    },
+    {
+      "name": "Viên ngọc vuông trên vương miện",
+      "meaning": "Suy nghĩ rõ ràng, có trật tự."
     },
     {
       "name": "Bàn chân trắng lộ ra",
-      "meaning": "Hành động dựa trên sự cân nhắc thuần khiết."
+      "meaning": "Hành động sắp được đưa ra sau khi đã cân nhắc thấu đáo."
     },
     {
-      "name": "Hai cột trụ",
-      "meaning": "Ranh giới của luật lệ và trật tự."
+      "name": "Hai cột trụ và tấm màn tím",
+      "meaning": "Ranh giới của luật lệ; màu tím là sự khôn ngoan và lòng trắc ẩn."
+    },
+    {
+      "name": "Áo đỏ, áo xanh lá",
+      "meaning": "Hành động (đỏ) được cân bằng bởi lòng trắc ẩn (xanh lá)."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Trong Rider–Waite, Công Lý là số 11 (đổi chỗ với Sức Mạnh). Nhớ: \"gieo gì gặt nấy\".",
   "image": "assets/cards/justice.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Công Lý là lá bài của sự thật, công bằng và luật nhân quả. Mọi hành động đều có hệ quả, và lá bài nhắc rằng đến lúc những gì đã gieo sẽ được gặt. Khác với Phán Xét (lá 20) mang tính tâm linh, Công Lý nói về sự công bằng ở thế giới này: lý trí, đạo đức, trách nhiệm cá nhân và cả luật pháp.",
+    "Trong Rider–Waite, Công Lý mang số 11 — giữa chuỗi Ẩn Chính — tượng trưng cho điểm cân bằng của toàn bộ hành trình. Sau khi chứng kiến Vòng Quay Số Phận, Chàng Khờ học rằng dù không kiểm soát được hoàn cảnh, mình vẫn chịu trách nhiệm cho lựa chọn của mình. Khác với hình ảnh phổ biến, nữ thần ở đây không bịt mắt: công lý trong Tarot là nhìn rõ sự thật, không phải làm ngơ.",
+    "Trong trải bài, Công Lý thường liên quan đến quyết định quan trọng, hợp đồng, giấy tờ, tranh chấp pháp lý; nếu bạn trung thực, kết quả sẽ công bằng. Lá khuyên cân nhắc khách quan và chịu trách nhiệm. Khi ra ngược, lá cho thấy sự bất công, thiếu trung thực (với người khác hoặc chính mình), né tránh hậu quả, hoặc phán xét thiên vị."
+  ],
+  "reflection": [
+    "Tôi có đang thành thật hoàn toàn với chính mình về tình huống này?",
+    "Phần trách nhiệm của tôi trong chuyện này là gì?",
+    "Nếu đứng ở vị trí người kia, tôi sẽ thấy điều gì?"
+  ]
 }

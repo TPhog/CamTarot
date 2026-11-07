@@ -21,8 +21,29 @@
       "Học mà không làm"
     ]
   },
-  "imagery": "Chàng trai đứng giữa đồng cỏ, nâng đồng tiền ngang mắt, chăm chú quan sát.",
-  "symbols": [],
+  "imagery": "Một chàng trai trẻ đứng giữa đồng cỏ xanh đầy hoa, hai tay nâng đồng tiền ngang tầm mắt, chăm chú nhìn nó. Anh đội mũ đỏ, mặc áo xanh lá. Phía sau là cánh đồng đã được cày xới, những hàng cây và một ngọn núi xa.",
+  "symbols": [
+    {
+      "name": "Nâng đồng tiền ngang mắt",
+      "meaning": "Sự tập trung, nghiên cứu kỹ cơ hội."
+    },
+    {
+      "name": "Cánh đồng đã cày",
+      "meaning": "Nền tảng đã sẵn sàng để gieo hạt."
+    },
+    {
+      "name": "Đồng cỏ xanh và hoa",
+      "meaning": "Sự phát triển, tiềm năng."
+    },
+    {
+      "name": "Áo xanh lá",
+      "meaning": "Sự tăng trưởng, thịnh vượng."
+    },
+    {
+      "name": "Núi xa",
+      "meaning": "Mục tiêu lớn cần thời gian."
+    }
+  ],
   "upright": {
     "general": "Một cơ hội học hỏi hoặc khởi đầu thực tế. Hãy kiên trì từng bước.",
     "love": "Mối quan hệ khởi đầu chậm mà chắc.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Tiểu Đồng Tiền = \"sinh viên chăm chỉ\".",
   "image": "assets/cards/page-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tiểu Đồng Tiền là người học trò chăm chỉ, nghiêm túc và thực tế. Chàng trai nâng đồng tiền ngang mắt, chăm chú quan sát — anh muốn hiểu cách biến cơ hội thành kết quả thật, từng bước một.",
+    "Tiểu Đồng Tiền là Đất của Đất — thực tế nhất trong các Tiểu Đồng. Anh không mơ mộng như Tiểu Đồng Cốc hay bốc đồng như Tiểu Đồng Gậy, mà kiên nhẫn học hỏi. Cánh đồng đã cày phía sau cho thấy mảnh đất đã sẵn sàng để gieo hạt.",
+    "Trong trải bài, Tiểu Đồng Tiền báo hiệu học tập, khóa đào tạo, công việc mới, cơ hội tài chính nhỏ nhưng tiềm năng, bắt đầu tiết kiệm. Lá khuyên bắt đầu từ những bước nhỏ và kiên trì. Khi ra ngược, lá cho thấy thiếu tập trung, trì hoãn, học mà không làm."
+  ],
+  "reflection": [
+    "Tôi muốn học điều gì để cải thiện cuộc sống thực tế?",
+    "Bước nhỏ nào tôi có thể làm đều đặn mỗi ngày?",
+    "Tôi có đang học mà chưa áp dụng?"
+  ]
 }

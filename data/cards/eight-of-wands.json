@@ -21,8 +21,29 @@
       "Mất phương hướng"
     ]
   },
-  "imagery": "Tám cây gậy bay song song trên bầu trời trong xanh, hướng xuống mặt đất — không có người.",
-  "symbols": [],
+  "imagery": "Tám cây gậy song song bay chéo qua bầu trời xanh trong, từ trên cao xuống thấp như đang sắp hạ cánh. Bên dưới là phong cảnh yên bình: một dòng sông uốn lượn, những ngọn đồi xanh và một ngôi nhà nhỏ trên đồi. Không có nhân vật nào.",
+  "symbols": [
+    {
+      "name": "Tám gậy bay song song",
+      "meaning": "Năng lượng tập trung, cùng hướng, tốc độ cao."
+    },
+    {
+      "name": "Hướng chúc xuống",
+      "meaning": "Sự việc sắp đến đích, sắp hạ cánh — kết quả gần kề."
+    },
+    {
+      "name": "Bầu trời quang đãng",
+      "meaning": "Không còn trở ngại; con đường thông suốt."
+    },
+    {
+      "name": "Dòng sông",
+      "meaning": "Dòng chảy tự nhiên, thuận lợi."
+    },
+    {
+      "name": "Không có người",
+      "meaning": "Sự kiện tự diễn ra; năng lượng thuần túy."
+    }
+  ],
   "upright": {
     "general": "Mọi thứ đang chuyển động nhanh. Tin tức, cơ hội hoặc sự kiện ập đến dồn dập. Hãy sẵn sàng hành động.",
     "love": "Tình cảm tiến triển nhanh; tin nhắn, lời tỏ tình, yêu từ cái nhìn đầu tiên.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Lá duy nhất trong bộ Gậy không có người: chỉ có năng lượng thuần túy đang bay.",
   "image": "assets/cards/eight-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tám Gậy là lá của tốc độ và chuyển động. Tám cây gậy bay vút qua bầu trời — mọi thứ diễn ra nhanh, tin tức ập đến, sự việc tiến triển dồn dập. Năng lượng Lửa ở đây không còn bị cản trở mà lao thẳng tới đích.",
+    "Số 8 là chuyển động và làm chủ. Sau khi đứng vững ở Bảy Gậy, mọi cản trở được dọn sạch, và năng lượng tuôn chảy tự do. Đây là lá duy nhất trong bộ Gậy không có người: chỉ có năng lượng thuần túy, cho thấy sự việc tự vận hành, nằm ngoài sự can thiệp.",
+    "Trong trải bài, Tám Gậy báo hiệu tin nhắn, cuộc gọi, tin tức nhanh; đi lại, công tác; dự án tăng tốc; trong tình cảm có thể là yêu nhanh, \"tiếng sét ái tình\". Lá khuyên sẵn sàng hành động nhanh khi thời cơ đến. Khi ra ngược, lá cho thấy chậm trễ, mọi thứ bị kẹt, hoặc vội vàng dẫn đến sai sót."
+  ],
+  "reflection": [
+    "Cơ hội nào đang đến nhanh mà tôi cần sẵn sàng đón?",
+    "Tôi có đang quá vội và bỏ sót điều gì không?",
+    "Thông điệp nào tôi đang chờ đợi — hoặc cần gửi đi?"
+  ]
 }

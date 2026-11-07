@@ -21,8 +21,41 @@
       "Thực tế"
     ]
   },
-  "imagery": "Một người đứng nhìn bảy chiếc cốc lơ lửng trên mây, mỗi cốc chứa một thứ khác nhau: châu báu, rắn, lâu đài, vòng nguyệt quế...",
-  "symbols": [],
+  "imagery": "Một người đứng quay lưng, chỉ thấy dáng hình tối như cái bóng, giơ tay ngạc nhiên trước bảy chiếc cốc lơ lửng trên những đám mây. Mỗi cốc chứa một thứ khác nhau: một cái đầu người, một hình người phủ khăn tỏa sáng, một con rắn, một tòa lâu đài, châu báu, một vòng nguyệt quế (trên cốc có hình đầu lâu mờ), và một con rồng.",
+  "symbols": [
+    {
+      "name": "Cái bóng đứng nhìn",
+      "meaning": "Người mơ mộng chưa hành động; chưa biết mình thật sự là ai."
+    },
+    {
+      "name": "Đầu người",
+      "meaning": "Tình yêu, người bạn đời lý tưởng — hoặc cái tôi."
+    },
+    {
+      "name": "Hình người phủ khăn sáng",
+      "meaning": "Sự giác ngộ, con người thật bị che giấu."
+    },
+    {
+      "name": "Con rắn",
+      "meaning": "Cám dỗ, trí khôn hoặc sự ganh tị."
+    },
+    {
+      "name": "Lâu đài",
+      "meaning": "Sự ổn định, quyền lực, nhà cửa."
+    },
+    {
+      "name": "Châu báu",
+      "meaning": "Giàu có vật chất."
+    },
+    {
+      "name": "Vòng nguyệt quế và đầu lâu",
+      "meaning": "Chiến thắng — nhưng có cái giá phải trả."
+    },
+    {
+      "name": "Con rồng",
+      "meaning": "Nỗi sợ, đam mê nguy hiểm, quyền năng huyền bí."
+    }
+  ],
   "upright": {
     "general": "Bạn có nhiều lựa chọn nhưng không phải cái nào cũng thật. Đừng để ảo tưởng che mắt — hãy phân biệt mơ ước và thực tế.",
     "love": "Mơ mộng về tình yêu lý tưởng; nhiều lựa chọn gây bối rối.",
@@ -38,5 +71,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 7 = thử thách. Bảy cốc trên mây = \"lâu đài trên cát\".",
   "image": "assets/cards/seven-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bảy Cốc là lá của ảo tưởng, mơ mộng và quá nhiều lựa chọn. Bảy chiếc cốc lơ lửng trên mây, mỗi cốc chứa một thứ hấp dẫn hoặc đáng sợ — nhưng tất cả đều ở trên mây, chưa có gì là thật.",
+    "Số 7 là thử thách, đánh giá. Trong bộ Cốc, thử thách là phân biệt giữa mơ ước và ảo tưởng, giữa mong muốn thật và cám dỗ. Người đứng trước những chiếc cốc chỉ hiện lên như một cái bóng — anh chưa hành động, chỉ đang mơ.",
+    "Trong trải bài, Bảy Cốc cảnh báo bạn đang bị phân tán bởi nhiều lựa chọn, mơ mộng không thực tế, hoặc bị lời hứa hẹn hấp dẫn đánh lừa. Lá khuyên chọn một điều có thật và hành động. Khi ra ngược, lá cho thấy bạn đang nhìn rõ hơn, biết mình thật sự muốn gì và sẵn sàng quyết định."
+  ],
+  "reflection": [
+    "Trong những lựa chọn trước mắt, cái nào là thật và cái nào là ảo tưởng?",
+    "Điều gì tôi thật sự muốn, khi bỏ đi những thứ hào nhoáng?",
+    "Tôi đang mơ mộng để tránh phải hành động?"
+  ]
 }

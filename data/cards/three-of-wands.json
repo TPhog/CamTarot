@@ -21,8 +21,29 @@
       "Thất vọng vì kỳ vọng"
     ]
   },
-  "imagery": "Người đàn ông đứng trên vách đá, quay lưng lại, nhìn những con thuyền trên biển. Ba cây gậy cắm quanh anh.",
-  "symbols": [],
+  "imagery": "Một người đàn ông mặc áo đỏ, khoác áo choàng xanh lá và vàng, đứng quay lưng trên đỉnh vách đá. Anh nắm một cây gậy bằng tay phải; hai cây gậy khác cắm thẳng xuống đất bên cạnh. Anh nhìn xuống vùng biển vàng óng, nơi có vài con thuyền buồm đang lướt đi, phía xa là dãy núi.",
+  "symbols": [
+    {
+      "name": "Quay lưng về người xem",
+      "meaning": "Hoàn toàn hướng về tương lai, không nhìn lại."
+    },
+    {
+      "name": "Những con thuyền",
+      "meaning": "Nỗ lực đã được gửi đi; thương mại, giao thương với nơi xa; thành quả đang trên đường về."
+    },
+    {
+      "name": "Vách đá cao",
+      "meaning": "Vị trí có tầm nhìn rộng; đã đạt được một nấc thành công."
+    },
+    {
+      "name": "Ba cây gậy cắm vững",
+      "meaning": "Nền tảng đã được thiết lập chắc chắn."
+    },
+    {
+      "name": "Biển vàng",
+      "meaning": "Cơ hội rộng mở, đầy hứa hẹn."
+    }
+  ],
   "upright": {
     "general": "Kế hoạch đã được thực hiện và bắt đầu có kết quả. Bạn đang nhìn xa, chờ những \"con thuyền\" mang về thành quả và chuẩn bị mở rộng.",
     "love": "Mối quan hệ phát triển; có thể là yêu xa hoặc cùng hướng đến tương lai.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 3 = sự phát triển ban đầu. Người đứng nhìn thuyền về = \"chờ quả ngọt\".",
   "image": "assets/cards/three-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ba Gậy là lúc kế hoạch bắt đầu được triển khai và cho thấy kết quả đầu tiên. Người đàn ông đứng trên vách đá nhìn những con thuyền ra khơi — anh đã gửi đi những nỗ lực của mình và giờ chờ chúng mang về thành quả, đồng thời nhìn xa hơn về cơ hội mở rộng.",
+    "Số 3 là sự phát triển, sinh sôi. Nếu Hai Gậy là đứng trên tường thành lập kế hoạch, thì Ba Gậy là đã bước ra ngoài, đứng ở nơi cao hơn và xa hơn. Anh quay lưng về phía người xem — ánh mắt hoàn toàn hướng về tương lai.",
+    "Trong trải bài, Ba Gậy báo hiệu tiến triển tốt, mở rộng kinh doanh, hợp tác với nơi xa, du lịch hay du học; trong tình cảm có thể là yêu xa hoặc cùng hướng tới tương lai. Lá khuyên kiên nhẫn chờ kết quả và tiếp tục nhìn xa. Khi ra ngược, lá cho thấy chậm trễ, trở ngại bất ngờ hoặc kỳ vọng không được đáp ứng."
+  ],
+  "reflection": [
+    "Nỗ lực nào của tôi đang bắt đầu đơm hoa kết trái?",
+    "Bước mở rộng tiếp theo của tôi là gì?",
+    "Tôi có đủ kiên nhẫn chờ kết quả không?"
+  ]
 }

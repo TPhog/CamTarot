@@ -21,8 +21,29 @@
       "Hành lý cảm xúc"
     ]
   },
-  "imagery": "Người lái đò chở một người phụ nữ và đứa trẻ sang bờ bên kia. Sáu thanh kiếm cắm trên thuyền, mặt nước phía trước phẳng lặng.",
-  "symbols": [],
+  "imagery": "Một người lái đò đứng ở đuôi chiếc thuyền gỗ, dùng sào đẩy thuyền qua sông. Trong thuyền, một người phụ nữ trùm khăn ngồi cúi đầu, bên cạnh là một đứa trẻ. Sáu thanh kiếm được cắm thẳng đứng ở mũi thuyền. Mặt nước bên phải thuyền gợn sóng, còn phía trước bên trái thì phẳng lặng. Bờ bên kia có cây cối.",
+  "symbols": [
+    {
+      "name": "Con thuyền sang sông",
+      "meaning": "Sự chuyển tiếp từ hoàn cảnh này sang hoàn cảnh khác."
+    },
+    {
+      "name": "Người lái đò",
+      "meaning": "Người giúp đỡ, sự hướng dẫn trong giai đoạn khó khăn."
+    },
+    {
+      "name": "Sáu kiếm cắm trên thuyền",
+      "meaning": "Ký ức và bài học được mang theo — có thể là gánh nặng."
+    },
+    {
+      "name": "Nước gợn sóng – nước phẳng lặng",
+      "meaning": "Rời xa sóng gió để đến nơi bình yên."
+    },
+    {
+      "name": "Người phụ nữ và đứa trẻ",
+      "meaning": "Sự tổn thương, những người cần được bảo vệ trong hành trình."
+    }
+  ],
   "upright": {
     "general": "Bạn đang rời khỏi giai đoạn khó khăn để đến nơi bình yên hơn. Sự chuyển tiếp có thể buồn nhưng cần thiết.",
     "love": "Mối quan hệ đi qua giai đoạn khó khăn.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Con thuyền sang sông = \"chuyển từ khó khăn sang bình yên\".",
   "image": "assets/cards/six-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Sáu Kiếm là lá của sự chuyển tiếp: rời xa giai đoạn khó khăn để đến nơi bình yên hơn. Người lái đò chở người phụ nữ và đứa trẻ sang sông — mặt nước bên phải còn gợn sóng, nhưng phía trước đã phẳng lặng.",
+    "Số 6 là sự hài hòa trở lại. Sau xung đột của Năm Kiếm, người hỏi chọn rời đi. Hành trình có thể buồn — họ cúi đầu, quấn khăn — và họ mang theo những thanh kiếm (ký ức, bài học), nhưng con thuyền đang tiến về phía trước.",
+    "Trong trải bài, Sáu Kiếm báo hiệu chuyển đi, thay đổi môi trường, vượt qua giai đoạn khó khăn, tình hình dần cải thiện; đôi khi là chuyến đi bằng đường thủy. Lá khuyên tiếp tục tiến lên. Khi ra ngược, lá cho thấy bị mắc kẹt, không thể rời đi, hoặc mang theo quá nhiều gánh nặng cảm xúc cũ."
+  ],
+  "reflection": [
+    "Tôi đang rời xa điều gì?",
+    "Tôi mang theo những \"thanh kiếm\" nào — cái nào nên bỏ lại?",
+    "Ai đang giúp tôi qua sông?"
+  ]
 }

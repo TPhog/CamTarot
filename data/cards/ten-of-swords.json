@@ -21,8 +21,33 @@
       "Bắt đầu lại"
     ]
   },
-  "imagery": "Người đàn ông nằm sấp, lưng bị mười thanh kiếm đâm. Bầu trời đen nhưng phía chân trời bắt đầu ló bình minh.",
-  "symbols": [],
+  "imagery": "Một người đàn ông nằm sấp trên bờ nước, tấm vải đỏ phủ trên thân, mười thanh kiếm cắm thẳng dọc lưng. Bàn tay phải của anh đặt trên đất với hai ngón tay duỗi ra như cử chỉ ban phước. Bầu trời phía trên đen kịt, nhưng ở đường chân trời, một dải vàng của bình minh đang ló dạng trên mặt nước tĩnh lặng và những ngọn núi xa.",
+  "symbols": [
+    {
+      "name": "Mười kiếm sau lưng",
+      "meaning": "Chạm đáy, kết thúc hoàn toàn; sự phản bội (bị đâm sau lưng)."
+    },
+    {
+      "name": "Bình minh ở chân trời",
+      "meaning": "Hy vọng: sau điều tồi tệ nhất là khởi đầu mới."
+    },
+    {
+      "name": "Bầu trời đen",
+      "meaning": "Giai đoạn đen tối nhất."
+    },
+    {
+      "name": "Cử chỉ ban phước",
+      "meaning": "Sự chấp nhận; ngay cả thất bại cũng mang bài học tâm linh."
+    },
+    {
+      "name": "Mặt nước tĩnh lặng",
+      "meaning": "Sau cơn bão, mọi thứ đã lắng xuống."
+    },
+    {
+      "name": "Tấm vải đỏ",
+      "meaning": "Nỗi đau, sự mất mát — và cũng là sinh lực còn sót lại."
+    }
+  ],
   "upright": {
     "general": "Một kết thúc đau đớn — bạn đã chạm đáy. Nhưng khi đã ở đáy, con đường duy nhất là đi lên. Bình minh đang ló dạng.",
     "love": "Kết thúc mối quan hệ một cách đau đớn.",
@@ -38,5 +63,15 @@
   "yesNo": "Không",
   "memoryTip": "Mười kiếm = \"tệ đến mức không thể tệ hơn\" — nhưng bình minh ở chân trời.",
   "image": "assets/cards/ten-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mười Kiếm là lá của sự kết thúc đau đớn, chạm đáy. Người đàn ông nằm sấp với mười thanh kiếm đâm sau lưng — một hình ảnh có phần cường điệu, như muốn nói: không thể tệ hơn được nữa. Nhưng ở chân trời, bình minh đang ló dạng.",
+    "Số 10 là kết thúc chu kỳ. Hành trình của bộ Kiếm khép lại bằng điểm tận cùng của nỗi đau tinh thần. Khi đã chạm đáy, con đường duy nhất là đi lên. Bàn tay phải của người đàn ông làm cử chỉ ban phước, giống Giáo Hoàng — ngay cả trong sụp đổ vẫn có bài học tâm linh.",
+    "Trong trải bài, Mười Kiếm cho thấy một kết thúc dứt khoát (thường đau đớn): chia tay, mất việc, phản bội, thất bại. Lá khuyên chấp nhận rằng điều tồi tệ nhất đã qua và đứng dậy. Khi ra ngược, lá cho thấy sự hồi phục, sống sót sau giai đoạn tồi tệ, bắt đầu lại."
+  ],
+  "reflection": [
+    "Điều gì đã thật sự kết thúc mà tôi cần chấp nhận?",
+    "Tôi học được gì từ sự sụp đổ này?",
+    "Bước đầu tiên để đứng dậy là gì?"
+  ]
 }

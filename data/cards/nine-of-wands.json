@@ -21,8 +21,29 @@
       "Muốn bỏ cuộc"
     ]
   },
-  "imagery": "Người đàn ông băng bó đầu đứng tựa vào cây gậy, nhìn ra với vẻ cảnh giác. Phía sau là tám cây gậy dựng thành hàng rào.",
-  "symbols": [],
+  "imagery": "Một người đàn ông với dải băng quấn quanh đầu đứng tựa vào cây gậy, hai tay nắm chặt, ánh mắt liếc sang một bên đầy cảnh giác. Phía sau anh là tám cây gậy dựng thẳng hàng như một hàng rào. Nền là những ngọn đồi xanh và bầu trời xám nhạt.",
+  "symbols": [
+    {
+      "name": "Băng quấn đầu",
+      "meaning": "Vết thương từ những trận chiến trước; kinh nghiệm đau thương."
+    },
+    {
+      "name": "Ánh mắt cảnh giác",
+      "meaning": "Sự đề phòng, luôn sẵn sàng cho thử thách tiếp theo."
+    },
+    {
+      "name": "Hàng rào tám gậy",
+      "meaning": "Hệ thống phòng thủ đã xây; cũng có thể là bức tường ngăn cách."
+    },
+    {
+      "name": "Tựa vào gậy",
+      "meaning": "Mệt mỏi nhưng vẫn đứng; dựa vào nguồn lực cuối cùng."
+    },
+    {
+      "name": "Đồi xanh phía sau",
+      "meaning": "Vùng đất đã được bảo vệ, thành quả của sự kiên trì."
+    }
+  ],
   "upright": {
     "general": "Bạn đã đi một chặng đường dài và chịu nhiều tổn thương, nhưng gần đến đích. Hãy kiên trì thêm chút nữa.",
     "love": "Thận trọng vì tổn thương cũ; cần học cách tin tưởng lại.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 9 = gần hoàn thành. Người băng đầu = \"bị thương nhưng chưa gục\".",
   "image": "assets/cards/nine-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Chín Gậy là lá của sự kiên cường. Người đàn ông băng bó đầu, tựa vào cây gậy, ánh mắt cảnh giác — anh đã trải qua nhiều trận chiến và mang vết thương, nhưng vẫn đứng vững. Đích đến đã rất gần; chỉ cần gắng thêm một chút.",
+    "Số 9 là gần hoàn tất, đỉnh điểm của nguyên tố. Sau tốc độ của Tám Gậy, giờ là lúc mệt mỏi xuất hiện. Hàng rào tám cây gậy phía sau cho thấy anh đã xây dựng hệ thống phòng thủ — nhưng cũng có thể đang quá đề phòng vì tổn thương cũ.",
+    "Trong trải bài, Chín Gậy khuyên bạn kiên trì vượt qua thử thách cuối cùng, tin rằng mình mạnh mẽ hơn mình nghĩ. Trong tình cảm, lá có thể cho thấy sự dè dặt vì từng bị tổn thương. Khi ra ngược, lá nói về sự kiệt sức, đa nghi, phòng thủ quá mức, hoặc muốn bỏ cuộc khi chỉ còn cách đích một bước."
+  ],
+  "reflection": [
+    "Tôi đã vượt qua những gì để đến được đây?",
+    "Sự đề phòng của tôi đang bảo vệ hay cô lập tôi?",
+    "Tôi cần gì để có sức đi nốt chặng cuối?"
+  ]
 }

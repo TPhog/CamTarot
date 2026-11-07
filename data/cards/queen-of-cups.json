@@ -21,8 +21,29 @@
       "Hy sinh bản thân"
     ]
   },
-  "imagery": "Nữ hoàng ngồi trên ngai bên bờ biển, chăm chú nhìn chiếc cốc khép kín, được trang trí tinh xảo.",
-  "symbols": [],
+  "imagery": "Một nữ hoàng mặc áo choàng trắng và xanh ngồi trên ngai bằng đá đặt ngay bờ biển, chạm khắc hình những em bé nửa người nửa cá (nàng tiên cá nhỏ). Bà chăm chú nhìn chiếc cốc vàng trang trí cầu kỳ, có nắp đậy và hai thiên thần làm tay cầm. Dưới chân bà là sỏi đá và những con sóng nhẹ vỗ vào bờ.",
+  "symbols": [
+    {
+      "name": "Chiếc cốc có nắp",
+      "meaning": "Cảm xúc sâu kín, bí mật; thế giới tiềm thức được gìn giữ."
+    },
+    {
+      "name": "Ngai bên bờ biển",
+      "meaning": "Sống giữa ranh giới ý thức (đất) và cảm xúc (nước)."
+    },
+    {
+      "name": "Em bé nửa người nửa cá",
+      "meaning": "Trí tưởng tượng, sự kết nối với thế giới cảm xúc."
+    },
+    {
+      "name": "Ánh mắt chăm chú vào cốc",
+      "meaning": "Sự nội quan, lắng nghe trực giác."
+    },
+    {
+      "name": "Hai thiên thần trên cốc",
+      "meaning": "Cảm xúc được nâng lên tầm tinh thần, thiêng liêng."
+    }
+  ],
   "upright": {
     "general": "Sự thấu cảm sâu sắc và trực giác mạnh mẽ. Bạn có khả năng lắng nghe và chữa lành người khác bằng tình yêu thương.",
     "love": "Người yêu dịu dàng, thấu hiểu; tình cảm sâu sắc.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Chiếc cốc khép kín duy nhất trong bộ = \"cảm xúc sâu kín bên trong\".",
   "image": "assets/cards/queen-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nữ Hoàng Cốc là hình ảnh của sự thấu cảm sâu sắc, trực giác mạnh mẽ và tình yêu thương vô điều kiện. Bà ngồi bên bờ biển, chăm chú nhìn chiếc cốc khép kín — bà hiểu cảm xúc của mình và của người khác ở tầng sâu nhất.",
+    "Nữ Hoàng Cốc là Nước của Nước — cảm xúc thuần túy nhất. Chiếc cốc của bà là chiếc duy nhất trong bộ có nắp đậy, tượng trưng cho thế giới cảm xúc sâu kín, những gì đến từ tiềm thức. Bà lắng nghe, chữa lành và nuôi dưỡng bằng sự hiện diện.",
+    "Trong trải bài, lá có thể chỉ một người dịu dàng, thấu hiểu, một người chữa lành, hoặc khuyên bạn lắng nghe trái tim và trực giác. Phù hợp với các nghề chăm sóc, tư vấn, nghệ thuật. Khi ra ngược, lá cho thấy quá nhạy cảm, phụ thuộc cảm xúc, bất an, hoặc chăm sóc người khác mà quên bản thân."
+  ],
+  "reflection": [
+    "Trái tim tôi đang muốn nói điều gì?",
+    "Tôi có đang hấp thụ cảm xúc của người khác quá nhiều?",
+    "Làm sao để tôi chăm sóc người khác mà không đánh mất mình?"
+  ]
 }

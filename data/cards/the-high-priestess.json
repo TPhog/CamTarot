@@ -23,23 +23,35 @@
       "Hời hợt"
     ]
   },
-  "imagery": "Một người phụ nữ ngồi tĩnh lặng giữa hai cột trụ đen (B) và trắng (J), tay cầm cuộn sách Tora khép hờ, dưới chân là vầng trăng lưỡi liềm. Phía sau là tấm màn thêu quả lựu.",
+  "imagery": "Một người phụ nữ ngồi bất động, nhìn thẳng ra phía trước, giữa hai cột trụ: cột đen bên trái khắc chữ B, cột trắng bên phải khắc chữ J. Bà mặc áo choàng xanh lam như dòng nước chảy xuống chân, đội vương miện hình ba pha mặt trăng, trên ngực đeo thánh giá nhỏ cân đối. Trong lòng bà là cuộn giấy có chữ TORA, được áo choàng che khuất một phần. Dưới chân là vầng trăng lưỡi liềm. Phía sau là tấm màn thêu quả lựu và lá cọ, sau tấm màn thấp thoáng mặt nước.",
   "symbols": [
     {
-      "name": "Hai cột trụ B và J",
-      "meaning": "Boaz và Jachin — đối cực: sáng/tối, ý thức/vô thức."
+      "name": "Cột B (Boaz) và J (Jachin)",
+      "meaning": "Hai cột trụ trong đền Solomon: sức mạnh và sự thiết lập; đen/trắng, âm/dương, vô thức/ý thức."
     },
     {
       "name": "Tấm màn quả lựu",
-      "meaning": "Ranh giới giữa thế giới hữu hình và bí ẩn; sự phong nhiêu tiềm ẩn."
+      "meaning": "Ranh giới đến thế giới bí ẩn; quả lựu gợi đến sự phong nhiêu và thần thoại Persephone đi giữa hai cõi."
     },
     {
-      "name": "Cuộn sách khép hờ",
-      "meaning": "Tri thức thiêng liêng chỉ hé lộ cho người biết lắng nghe."
+      "name": "Cuộn giấy TORA",
+      "meaning": "Luật thiêng liêng, tri thức sâu xa; bị che một phần vì chỉ hé lộ cho người sẵn sàng."
     },
     {
-      "name": "Trăng lưỡi liềm",
-      "meaning": "Chu kỳ, cảm xúc và trực giác nữ tính."
+      "name": "Vương miện ba pha trăng",
+      "meaning": "Trăng non, trăng tròn, trăng khuyết: chu kỳ của nữ tính, trực giác và thời gian."
+    },
+    {
+      "name": "Trăng lưỡi liềm dưới chân",
+      "meaning": "Bà làm chủ thế giới cảm xúc và tiềm thức."
+    },
+    {
+      "name": "Áo choàng xanh lam",
+      "meaning": "Nước, cảm xúc, sự tĩnh lặng sâu thẳm."
+    },
+    {
+      "name": "Mặt nước sau màn",
+      "meaning": "Vô thức sâu thẳm, nguồn của trực giác và giấc mơ."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 2 = đối cực và sự tiếp nhận. Nhà Ảo Thuật hành động ra ngoài, Nữ Tư Tế hướng vào trong.",
   "image": "assets/cards/the-high-priestess.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nữ Tư Tế là người canh giữ tri thức bên trong: trực giác, tiềm thức, giấc mơ, những điều được cảm nhận chứ không được giải thích. Lá bài không thúc giục hành động mà mời bạn im lặng, quan sát và lắng nghe. Sự hiểu biết của bà không đến từ sách vở hay lý luận mà từ chiều sâu nội tâm.",
+    "Là số 2, bà là cặp đối xứng với Nhà Ảo Thuật: ông chủ động, bà tiếp nhận; ông nói, bà lắng nghe; ông ở ánh sáng ý thức, bà ở vùng tối của tiềm thức. Bà ngồi giữa hai cột trụ đen và trắng — vị trí của người không đứng về phe nào mà giữ sự cân bằng giữa các đối cực. Tấm màn sau lưng bà ngăn cách thế giới hữu hình với bí ẩn, và chỉ người biết tĩnh lặng mới nhìn qua được.",
+    "Trong trải bài, Nữ Tư Tế thường nói rằng câu trả lời chưa nằm ở dữ kiện bên ngoài: hãy tin vào cảm giác, chờ thêm, đừng vội quyết. Lá cũng có thể chỉ những bí mật, thông tin chưa được tiết lộ, hoặc một người phụ nữ khôn ngoan, kín đáo. Khi ra ngược, lá thường cho thấy bạn đang phớt lờ trực giác, sống quá ồn ào, hoặc có điều đang bị che giấu."
+  ],
+  "reflection": [
+    "Trực giác của tôi đang nói gì mà tôi chưa chịu lắng nghe?",
+    "Tôi có đang vội tìm câu trả lời khi chưa đủ thông tin?",
+    "Điều gì cần được giữ kín thay vì nói ra lúc này?"
+  ]
 }

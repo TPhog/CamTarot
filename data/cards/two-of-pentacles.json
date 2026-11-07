@@ -21,8 +21,29 @@
       "Rối loạn tài chính"
     ]
   },
-  "imagery": "Chàng trai nhảy múa tung hứng hai đồng tiền nối với nhau bằng dải vô cực. Phía sau là thuyền lắc lư trên sóng lớn.",
-  "symbols": [],
+  "imagery": "Một chàng trai đội chiếc mũ cao kỳ lạ đang nhảy múa, hai tay tung hứng hai đồng tiền. Hai đồng tiền được nối với nhau bằng một dải ruy băng xanh uốn thành hình số 8 nằm ngang (vô cực). Phía sau, trên mặt biển có những con sóng lớn, hai con thuyền đang nhấp nhô vượt sóng.",
+  "symbols": [
+    {
+      "name": "Tung hứng hai đồng tiền",
+      "meaning": "Xoay xở, cân bằng nhiều trách nhiệm cùng lúc."
+    },
+    {
+      "name": "Dải vô cực",
+      "meaning": "Dòng chảy liên tục của nguồn lực; sự cân bằng vô tận cần được duy trì."
+    },
+    {
+      "name": "Nhảy múa",
+      "meaning": "Sự linh hoạt, vui vẻ trong khi xoay xở."
+    },
+    {
+      "name": "Thuyền vượt sóng lớn",
+      "meaning": "Thăng trầm của cuộc sống; vẫn tiến lên dù sóng gió."
+    },
+    {
+      "name": "Mũ cao",
+      "meaning": "Sự tự tin, có phần phô trương."
+    }
+  ],
   "upright": {
     "general": "Bạn đang khéo léo cân bằng nhiều việc. Hãy linh hoạt và giữ nhịp.",
     "love": "Cân bằng giữa tình yêu và trách nhiệm khác.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Tung hứng hai đồng tiền = \"xoay xở\".",
   "image": "assets/cards/two-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hai Tiền là lá của sự cân bằng linh hoạt. Chàng trai vừa nhảy múa vừa tung hứng hai đồng tiền nối nhau bằng dải vô cực — anh đang khéo léo xoay xở nhiều việc cùng lúc, giữ nhịp giữa những đòi hỏi khác nhau của cuộc sống.",
+    "Số 2 là sự lựa chọn và cân bằng. Trong bộ Tiền, đó là việc quản lý nguồn lực có hạn: thời gian, tiền bạc, năng lượng. Những con thuyền vượt sóng lớn phía sau nhắc rằng cuộc sống luôn có thăng trầm, và sự linh hoạt giúp ta không bị lật.",
+    "Trong trải bài, Hai Tiền cho thấy bạn đang đa nhiệm, xoay xở tài chính, cân bằng công việc và cuộc sống, hoặc thích nghi với thay đổi. Lá khuyên giữ nhịp và biết ưu tiên. Khi ra ngược, lá cho thấy quá tải, mất cân bằng, rối loạn tài chính, hoặc ôm quá nhiều việc."
+  ],
+  "reflection": [
+    "Tôi đang phải cân bằng những gì?",
+    "Việc nào thật sự là ưu tiên, việc nào có thể chờ?",
+    "Tôi có đang ôm quá nhiều không?"
+  ]
 }

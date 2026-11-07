@@ -21,8 +21,29 @@
       "Yêu bản thân chưa đủ"
     ]
   },
-  "imagery": "Bàn tay từ đám mây nâng chiếc cốc tràn năm dòng nước xuống hồ hoa sen. Chim bồ câu ngậm bánh thánh bay xuống cốc.",
-  "symbols": [],
+  "imagery": "Từ đám mây bên phải, một bàn tay nâng một chiếc cốc vàng. Năm dòng nước tuôn ra từ cốc, đổ xuống hồ nước mọc đầy hoa sen (hoa súng). Một con chim bồ câu trắng ngậm chiếc bánh thánh có hình chữ thập bay chúc xuống miệng cốc. Những giọt nước nhỏ rơi lả tả xung quanh như mưa.",
+  "symbols": [
+    {
+      "name": "Cốc tràn năm dòng",
+      "meaning": "Cảm xúc dồi dào chảy qua năm giác quan, không thể giữ cho riêng mình."
+    },
+    {
+      "name": "Chim bồ câu và bánh thánh",
+      "meaning": "Tình yêu thiêng liêng, sự bình an, phước lành tinh thần đi vào trái tim."
+    },
+    {
+      "name": "Hồ hoa sen",
+      "meaning": "Sự thức tỉnh cảm xúc, vẻ đẹp nở ra từ nước."
+    },
+    {
+      "name": "Bàn tay từ mây",
+      "meaning": "Tình yêu như một món quà được trao tặng."
+    },
+    {
+      "name": "Giọt nước rơi",
+      "meaning": "Ân sủng, cảm xúc tuôn chảy nuôi dưỡng mọi thứ."
+    }
+  ],
   "upright": {
     "general": "Một dòng cảm xúc mới đang tuôn chảy: tình yêu, lòng biết ơn, sự kết nối tâm hồn. Hãy mở lòng đón nhận.",
     "love": "Tình yêu mới chớm nở, cảm xúc sâu sắc, có thể là tin vui.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Cốc = Nước = cảm xúc, tình yêu. Át Cốc = chiếc cốc tràn đầy cảm xúc.",
   "image": "assets/cards/ace-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Át Cốc là hạt giống của nguyên tố Nước: tình yêu, cảm xúc, lòng trắc ẩn, sự kết nối tâm hồn. Chiếc cốc tràn đầy đến mức nước chảy ra năm dòng — cảm xúc dồi dào đến mức muốn được chia sẻ.",
+    "Át Cốc mở đầu câu chuyện cảm xúc của bộ Cốc: từ một trái tim rộng mở, đến kết nối đôi lứa (2), niềm vui cộng đồng (3), sự thờ ơ (4), mất mát (5), hoài niệm (6), ảo tưởng (7), rời đi (8), mãn nguyện (9), và hạnh phúc gia đình trọn vẹn (10).",
+    "Trong trải bài, Át Cốc báo hiệu tình yêu mới, cảm xúc mới, tình bạn, sự hòa giải; đôi khi là tin vui về con cái hoặc trải nghiệm tâm linh. Lá khuyên mở lòng đón nhận — và yêu thương chính mình. Khi ra ngược, lá cho thấy cảm xúc bị kìm nén, cảm giác trống rỗng, hoặc tình cảm chưa được đáp lại."
+  ],
+  "reflection": [
+    "Trái tim tôi đang mở ra với điều gì hoặc với ai?",
+    "Tôi đã yêu thương bản thân đủ chưa?",
+    "Có cảm xúc nào tôi đang kìm nén không chịu cho chảy ra?"
+  ]
 }

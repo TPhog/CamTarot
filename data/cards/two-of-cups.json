@@ -21,8 +21,29 @@
       "Hiểu lầm"
     ]
   },
-  "imagery": "Một đôi nam nữ trao cốc cho nhau, phía trên là biểu tượng gậy Caduceus với đầu sư tử có cánh.",
-  "symbols": [],
+  "imagery": "Một chàng trai trẻ và một cô gái trẻ đứng đối diện nhau, mỗi người cầm một chiếc cốc, như đang trao nhau hoặc nâng cốc thề ước. Cô gái đội vòng hoa, chàng trai đội vòng lá. Phía trên giữa họ là biểu tượng gậy Caduceus (gậy có hai con rắn quấn quanh) với đầu sư tử có cánh. Phía sau là ngôi nhà trên đồi xanh.",
+  "symbols": [
+    {
+      "name": "Trao cốc cho nhau",
+      "meaning": "Cho và nhận cảm xúc ngang bằng; lời hứa, sự cam kết."
+    },
+    {
+      "name": "Gậy Caduceus",
+      "meaning": "Biểu tượng của thần Hermes và sự chữa lành; hai nguồn năng lượng hòa quyện."
+    },
+    {
+      "name": "Đầu sư tử có cánh",
+      "meaning": "Đam mê (sư tử) được nâng lên tầm tinh thần (đôi cánh)."
+    },
+    {
+      "name": "Ánh mắt nhìn nhau",
+      "meaning": "Sự thấu hiểu, tôn trọng, kết nối chân thành."
+    },
+    {
+      "name": "Ngôi nhà trên đồi",
+      "meaning": "Tương lai chung, mái ấm có thể xây dựng."
+    }
+  ],
   "upright": {
     "general": "Sự kết nối bình đẳng, tôn trọng giữa hai người — có thể là tình yêu, tình bạn hoặc hợp tác.",
     "love": "Tình yêu đôi lứa, sự hấp dẫn lẫn nhau; khởi đầu mối quan hệ.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 2 = hai người. Hai Cốc = phiên bản nhỏ của lá Tình Nhân.",
   "image": "assets/cards/two-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hai Cốc là lá của sự kết nối giữa hai con người: tình yêu, tình bạn thân, hay hợp tác dựa trên sự tôn trọng và đồng cảm. Hai người trao cốc cho nhau, nhìn thẳng vào mắt nhau — một mối quan hệ bình đẳng, cho và nhận ngang nhau.",
+    "Số 2 là sự kết hợp. Trong bộ Cốc, cảm xúc của Át giờ tìm thấy một người để chia sẻ. Lá được xem là phiên bản nhỏ của Tình Nhân trong Ẩn Phụ. Biểu tượng gậy Caduceus phía trên — vốn là biểu tượng của sự chữa lành — cho thấy sự kết hợp này giúp cả hai trở nên trọn vẹn hơn.",
+    "Trong trải bài, Hai Cốc rất tốt cho tình cảm: sự hấp dẫn lẫn nhau, khởi đầu mối quan hệ, đính ước, hòa giải. Trong công việc là một đối tác ăn ý. Khi ra ngược, lá cho thấy mất cân bằng, hiểu lầm, rạn nứt hoặc một bên cho đi nhiều hơn."
+  ],
+  "reflection": [
+    "Mối quan hệ nào trong đời tôi đang có sự cho – nhận cân bằng?",
+    "Tôi tìm kiếm điều gì ở một người đồng hành?",
+    "Có mối quan hệ nào cần được hàn gắn không?"
+  ]
 }

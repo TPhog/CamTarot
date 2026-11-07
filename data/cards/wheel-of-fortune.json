@@ -23,23 +23,35 @@
       "Lặp lại vòng cũ"
     ]
   },
-  "imagery": "Bánh xe lớn khắc chữ TARO và các ký hiệu giả kim treo giữa trời mây. Rắn trườn xuống bên trái, Anubis đi lên bên phải, nhân sư cầm kiếm ngồi trên đỉnh. Bốn góc là bốn sinh vật có cánh đang đọc sách.",
+  "imagery": "Một bánh xe lớn màu cam lơ lửng giữa trời mây xanh. Vành ngoài có các chữ T-A-R-O xen với bốn chữ cái Hebrew (YHVH, tên của Thượng Đế); vòng trong có các ký hiệu giả kim: thủy ngân, lưu huỳnh, muối và nước. Trên đỉnh bánh xe là con nhân sư xanh cầm kiếm. Bên trái, một con rắn vàng trườn xuống; bên phải, thần Anubis đầu chó rừng màu đỏ đi lên theo vòng quay. Bốn góc là bốn sinh vật có cánh đang đọc sách trên mây: thiên thần, đại bàng, sư tử và bò đực.",
   "symbols": [
     {
       "name": "Bánh xe",
-      "meaning": "Mọi thứ luôn xoay vòng: lên rồi xuống, xuống rồi lên."
+      "meaning": "Chu kỳ của số phận, thời gian, sự thay đổi không ngừng."
     },
     {
-      "name": "Bốn sinh vật có cánh",
-      "meaning": "Bốn cung cố định (Bảo Bình, Sư Tử, Bọ Cạp, Kim Ngưu) — sự ổn định giữa biến động."
+      "name": "Chữ TARO / ROTA và YHVH",
+      "meaning": "Đọc vòng quanh thành TARO, ROTA (bánh xe), ORAT: \"Bánh xe Tarot nói lên luật của Thượng Đế\"."
     },
     {
-      "name": "Nhân sư",
-      "meaning": "Trí tuệ đứng vững trên đỉnh thay đổi."
+      "name": "Nhân sư cầm kiếm",
+      "meaning": "Trí tuệ và sự bình thản đứng vững trên đỉnh mọi biến động."
     },
     {
-      "name": "Rắn và Anubis",
-      "meaning": "Sự đi xuống và đi lên trong chu kỳ sống."
+      "name": "Rắn đi xuống",
+      "meaning": "Sự suy thoái, đi xuống vật chất (rắn Typhon trong thần thoại Ai Cập)."
+    },
+    {
+      "name": "Anubis đi lên",
+      "meaning": "Sự thăng tiến, linh hồn được dẫn dắt đi lên."
+    },
+    {
+      "name": "Bốn sinh vật đọc sách",
+      "meaning": "Bốn cung cố định (Bảo Bình, Bọ Cạp, Sư Tử, Kim Ngưu) và bốn nguyên tố — sự ổn định giữa biến động; chúng đọc sách vì đang học bài học của thời gian."
+    },
+    {
+      "name": "Ký hiệu giả kim",
+      "meaning": "Sự chuyển hóa: mọi thay đổi đều là quá trình tinh luyện."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 10 = kết thúc một vòng, bắt đầu vòng mới (1 + 0). Bánh xe nhắc rằng \"cái gì đi lên ắt sẽ đi xuống\".",
   "image": "assets/cards/wheel-of-fortune.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Vòng Quay Số Phận nói về chu kỳ của cuộc sống: lên rồi xuống, may rồi rủi, mở rồi đóng. Không có gì đứng yên mãi — kể cả thành công lẫn khó khăn. Lá bài nhắc đến những sự kiện nằm ngoài tầm kiểm soát của cá nhân, những bước ngoặt định mệnh, và mời bạn nhìn cuộc đời từ góc độ rộng hơn.",
+    "Là số 10, lá đứng giữa chuỗi Ẩn Chính, đánh dấu sự kết thúc một chu kỳ (1–9) và bắt đầu chu kỳ mới (1 + 0 = 1). Sau khi Ẩn Sĩ tìm ra sự thật bên trong, Chàng Khờ nhận ra mình là một phần của vòng quay lớn hơn. Sao Mộc gắn với lá — hành tinh của may mắn và mở rộng — cho thấy lá thường nghiêng về tích cực, nhưng bài học cốt lõi là sự chấp nhận và thích nghi.",
+    "Trong trải bài, Vòng Quay thường báo hiệu thay đổi, cơ hội bất ngờ, gặp gỡ định mệnh, vận may đang lên. Lá khuyên bạn nắm bắt thời cơ khi bánh xe quay đến. Khi ra ngược, lá có thể chỉ giai đoạn đi xuống, trở ngại ngoài ý muốn, hoặc việc bạn đang cố chống lại thay đổi hay lặp lại một khuôn mẫu cũ."
+  ],
+  "reflection": [
+    "Tôi đang ở pha lên hay pha xuống của vòng quay?",
+    "Điều gì nằm ngoài tầm kiểm soát mà tôi cần chấp nhận?",
+    "Khuôn mẫu nào trong đời tôi cứ lặp đi lặp lại?"
+  ]
 }

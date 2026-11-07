@@ -21,8 +21,29 @@
       "Bất bình đẳng"
     ]
   },
-  "imagery": "Người thương gia cầm cân, bố thí tiền cho hai người ăn xin đang quỳ.",
-  "symbols": [],
+  "imagery": "Một người thương gia ăn mặc sang trọng đứng giữa, tay trái cầm chiếc cân cân bằng, tay phải thả những đồng xu cho một trong hai người ăn xin đang quỳ dưới chân. Người ăn xin còn lại đang chờ. Sáu đồng tiền lơ lửng phía trên. Phía xa là một thành phố.",
+  "symbols": [
+    {
+      "name": "Chiếc cân",
+      "meaning": "Sự công bằng, cân nhắc trong việc cho đi; cũng là quyền quyết định của người có của."
+    },
+    {
+      "name": "Thả tiền cho người quỳ",
+      "meaning": "Sự hào phóng, giúp đỡ người khó khăn."
+    },
+    {
+      "name": "Hai người ăn xin",
+      "meaning": "Người nhận; có lúc ta ở vị trí của họ."
+    },
+    {
+      "name": "Người thương gia đứng cao hơn",
+      "meaning": "Mối quan hệ quyền lực giữa người cho và người nhận."
+    },
+    {
+      "name": "Sáu đồng tiền",
+      "meaning": "Dòng chảy của nguồn lực trong cộng đồng."
+    }
+  ],
   "upright": {
     "general": "Sự cân bằng giữa cho và nhận. Bạn có thể đang giúp đỡ hoặc được giúp đỡ.",
     "love": "Tình cảm hào phóng, quan tâm.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Cái cân trong tay thương gia = \"cho đi có cân nhắc\".",
   "image": "assets/cards/six-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Sáu Tiền là lá của sự hào phóng, cho và nhận. Người thương gia một tay cầm cân, một tay bố thí tiền cho hai người ăn xin — sự cho đi ở đây có cân nhắc, công bằng và đúng người đúng lúc.",
+    "Số 6 là sự hài hòa trở lại. Sau khó khăn của Năm Tiền, dòng chảy vật chất được khôi phục. Lá nhắc rằng cuộc sống có lúc ta cho, có lúc ta nhận. Chiếc cân cũng đặt câu hỏi về quyền lực: người cho và người nhận có bình đẳng không?",
+    "Trong trải bài, Sáu Tiền báo hiệu nhận được giúp đỡ, quà tặng, tiền thưởng, khoản vay, hoặc khuyên bạn chia sẻ với người khác. Trong công việc có thể là được hỗ trợ, thăng tiến. Khi ra ngược, lá cho thấy nợ nần, lòng tốt có điều kiện, bị lợi dụng hoặc mất cân bằng quyền lực."
+  ],
+  "reflection": [
+    "Gần đây tôi đã cho đi và nhận lại điều gì?",
+    "Tôi có thoải mái khi nhận sự giúp đỡ không?",
+    "Sự cho đi của tôi có kèm theo điều kiện?"
+  ]
 }

@@ -21,8 +21,33 @@
       "Bất ổn"
     ]
   },
-  "imagery": "Ông lão ngồi với hai con chó, một đôi vợ chồng và đứa trẻ dưới cổng vòm. Mười đồng tiền xếp hình Cây Sự Sống.",
-  "symbols": [],
+  "imagery": "Dưới một cổng vòm đá chạm khắc huy hiệu, một ông lão râu tóc bạc mặc áo choàng thêu hoa văn nho ngồi bên trái, tay vuốt ve hai con chó trắng. Phía bên trong cổng, một đôi vợ chồng đang trò chuyện; một đứa trẻ đứng cạnh họ, tay chạm vào con chó. Phía sau là tòa lâu đài và thị trấn. Mười đồng tiền phủ khắp lá bài, xếp theo hình Cây Sự Sống.",
+  "symbols": [
+    {
+      "name": "Ba thế hệ",
+      "meaning": "Gia đình, sự tiếp nối, di sản được truyền lại."
+    },
+    {
+      "name": "Cây Sự Sống (mười đồng tiền)",
+      "meaning": "Sự hòa hợp vật chất và tinh thần; sự trọn vẹn."
+    },
+    {
+      "name": "Hai con chó trắng",
+      "meaning": "Lòng trung thành, sự bảo vệ, tình thân."
+    },
+    {
+      "name": "Cổng vòm có huy hiệu",
+      "meaning": "Truyền thống, dòng dõi, danh tiếng gia đình."
+    },
+    {
+      "name": "Áo thêu nho",
+      "meaning": "Sự sung túc, thành quả lâu dài."
+    },
+    {
+      "name": "Lâu đài và thị trấn",
+      "meaning": "Sự ổn định, cộng đồng vững chắc."
+    }
+  ],
   "upright": {
     "general": "Sự thịnh vượng lâu dài, di sản gia đình và ổn định qua nhiều thế hệ.",
     "love": "Cam kết lâu dài, gia đình vững chắc.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Ba thế hệ trong một lá = \"di sản gia đình\".",
   "image": "assets/cards/ten-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mười Tiền là lá của sự thịnh vượng lâu dài, di sản và gia đình nhiều thế hệ. Ông lão, đôi vợ chồng và đứa trẻ cùng có mặt dưới cổng vòm — sự giàu có ở đây không chỉ là tiền bạc mà còn là truyền thống, nền tảng và tình thân được truyền lại.",
+    "Số 10 là kết thúc chu kỳ. Hành trình của bộ Tiền khép lại với sự ổn định trọn vẹn nhất: những gì được xây dựng đủ vững để tồn tại sau một đời người. Mười đồng tiền được xếp theo hình Cây Sự Sống của Kabbalah — sự hòa hợp giữa vật chất và tinh thần.",
+    "Trong trải bài, Mười Tiền báo hiệu ổn định tài chính lâu dài, tài sản, thừa kế, doanh nghiệp gia đình, cam kết lâu dài trong tình cảm. Lá khuyên xây dựng những gì tồn tại lâu bền. Khi ra ngược, lá cho thấy tranh chấp tài sản, mâu thuẫn gia đình, bất ổn tài chính."
+  ],
+  "reflection": [
+    "Tôi muốn để lại điều gì cho thế hệ sau?",
+    "Gia đình và truyền thống đóng vai trò gì trong cuộc sống của tôi?",
+    "Điều tôi đang xây dựng có đủ bền vững không?"
+  ]
 }

@@ -21,8 +21,29 @@
       "Bước tiếp"
     ]
   },
-  "imagery": "Người mặc áo choàng đen cúi đầu nhìn ba chiếc cốc đổ, không thấy hai chiếc cốc còn đứng phía sau. Xa xa là cây cầu dẫn về nhà.",
-  "symbols": [],
+  "imagery": "Một người mặc áo choàng đen dài trùm kín, cúi đầu buồn bã, nhìn xuống ba chiếc cốc đã đổ trên đất, nước (hoặc rượu) đỏ và xanh tràn ra. Phía sau lưng người đó, hai chiếc cốc vẫn đứng nguyên. Xa xa là dòng sông có cây cầu đá dẫn sang một ngôi nhà hoặc lâu đài nhỏ dưới bầu trời xám.",
+  "symbols": [
+    {
+      "name": "Áo choàng đen",
+      "meaning": "Tang tóc, đau buồn, sự u uất."
+    },
+    {
+      "name": "Ba cốc đổ",
+      "meaning": "Những gì đã mất, sai lầm, thất vọng."
+    },
+    {
+      "name": "Hai cốc còn đứng",
+      "meaning": "Những gì vẫn còn: hy vọng, tình thương, cơ hội — chỉ cần quay lại nhìn."
+    },
+    {
+      "name": "Dòng sông",
+      "meaning": "Dòng cảm xúc, nước mắt; ngăn cách hiện tại với nơi bình yên."
+    },
+    {
+      "name": "Cây cầu",
+      "meaning": "Con đường vượt qua nỗi buồn để trở về."
+    }
+  ],
   "upright": {
     "general": "Bạn đang đau buồn vì mất mát hoặc thất vọng. Cảm xúc ấy là thật — nhưng vẫn còn hai chiếc cốc đứng vững phía sau.",
     "love": "Chia tay, thất vọng, tiếc nuối.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 5 = khủng hoảng. Ba cốc đổ – hai cốc còn = \"mất nhưng không mất hết\".",
   "image": "assets/cards/five-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Năm Cốc là lá của mất mát, đau buồn và tiếc nuối. Người mặc áo choàng đen cúi đầu nhìn ba chiếc cốc đã đổ — nhưng không nhận ra phía sau vẫn còn hai chiếc cốc đứng vững. Nỗi buồn là thật, nhưng không phải tất cả đã mất.",
+    "Số 5 luôn là khủng hoảng. Trong bộ Cốc, đó là nỗi đau của trái tim: chia tay, thất vọng, mất mát. Cây cầu phía xa dẫn về ngôi nhà cho thấy có lối đi tiếp — khi bạn sẵn sàng quay lại.",
+    "Trong trải bài, Năm Cốc cho thấy bạn đang đau buồn, tập trung vào điều đã mất. Lá khuyên cho phép mình buồn, nhưng rồi hãy quay lại nhìn những gì vẫn còn. Khi ra ngược, lá cho thấy bạn đang dần chấp nhận, tha thứ và sẵn sàng bước tiếp."
+  ],
+  "reflection": [
+    "Tôi đang tiếc nuối điều gì?",
+    "Điều gì quý giá vẫn còn lại với tôi?",
+    "Tôi cần gì để có thể bước qua cây cầu và đi tiếp?"
+  ]
 }

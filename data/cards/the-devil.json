@@ -23,23 +23,39 @@
       "Lấy lại tự do"
     ]
   },
-  "imagery": "Ác quỷ sừng dê có cánh dơi ngồi trên khối đá, giơ tay phải, tay trái cầm đuốc chúc xuống. Dưới chân là một nam một nữ bị xích cổ — nhưng chiếc xích rất lỏng.",
+  "imagery": "Một ác quỷ sừng dê, cánh dơi, chân chim ngồi trên một khối đá đen hình nửa khối lập phương, trên nền đen tối. Giữa hai sừng là ngôi sao năm cánh lộn ngược. Tay phải giơ lên, lòng bàn tay có ký hiệu sao Thổ; tay trái cầm ngọn đuốc chúc xuống đất. Xích vào khối đá là một người đàn ông và một người phụ nữ trần trụi, mọc sừng nhỏ và đuôi — đuôi người nữ là chùm nho, đuôi người nam là ngọn lửa. Chiếc xích quanh cổ họ lỏng lẻo.",
   "symbols": [
     {
       "name": "Xích lỏng quanh cổ",
-      "meaning": "Sự ràng buộc là do tự nguyện — bạn có thể tháo ra."
+      "meaning": "Sự ràng buộc là tự nguyện; con người có thể tháo xích bất cứ lúc nào nếu nhận ra."
     },
     {
       "name": "Ngôi sao năm cánh ngược",
-      "meaning": "Vật chất đè lên tinh thần."
+      "meaning": "Vật chất đè lên tinh thần; bản năng chiếm quyền lý trí."
     },
     {
       "name": "Đuốc chúc xuống",
-      "meaning": "Ham muốn bản năng, đam mê lệch hướng."
+      "meaning": "Đam mê, ham muốn bị dẫn sai hướng, đốt cháy thay vì soi sáng."
     },
     {
-      "name": "Sừng và đuôi",
-      "meaning": "Con người đánh mất phần cao đẹp, sa vào bản năng."
+      "name": "Ký hiệu sao Thổ trên tay",
+      "meaning": "Giới hạn, sự trói buộc, thời gian và vật chất."
+    },
+    {
+      "name": "Khối đá nửa lập phương",
+      "meaning": "Hiểu biết chỉ một nửa — chỉ thấy thế giới vật chất."
+    },
+    {
+      "name": "Sừng và đuôi trên hai người",
+      "meaning": "Họ đang dần trở nên giống ác quỷ: đánh mất phần cao đẹp của mình."
+    },
+    {
+      "name": "Đuôi chùm nho và ngọn lửa",
+      "meaning": "Ham muốn khoái lạc (rượu nho) và đam mê (lửa) — cũng là trái cây và lửa từ lá Tình Nhân."
+    },
+    {
+      "name": "Nền đen",
+      "meaning": "Sự thiếu ánh sáng, vô minh."
     }
   ],
   "upright": {
@@ -57,5 +73,15 @@
   "yesNo": "Không",
   "memoryTip": "Ác Quỷ là hình ảnh phản chiếu của Tình Nhân (6): cùng hai người, nhưng giờ bị xích. 15 → 1+5 = 6.",
   "image": "assets/cards/the-devil.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ác Quỷ là lá bài của sự ràng buộc: nghiện ngập, ham muốn vật chất, mối quan hệ độc hại, nỗi sợ và những thói quen khiến ta mất tự do. Nó cũng là \"cái bóng\" — những phần trong ta mà ta không muốn thừa nhận. Lá bài không nói về một thế lực tà ác bên ngoài, mà về cách con người tự trói buộc mình.",
+    "Là số 15, Ác Quỷ mở đầu hàng thứ ba của Ẩn Chính, hành trình đối diện bóng tối để đạt ánh sáng. 15 = 1 + 5 = 6: lá này là hình ảnh méo mó của Tình Nhân. Cùng một đôi nam nữ, nhưng thiên thần được thay bằng ác quỷ, và họ bị xích. Tuy nhiên, chiếc xích quanh cổ rất lỏng — họ hoàn toàn có thể tự tháo ra. Cung Ma Kết gắn với lá nhấn mạnh tham vọng vật chất và sự cứng nhắc.",
+    "Trong trải bài, Ác Quỷ cảnh báo về sự phụ thuộc, cám dỗ, quan hệ dựa trên kiểm soát, nợ nần hoặc chủ nghĩa vật chất. Điều quan trọng là nhận ra: bạn có lựa chọn. Lá cũng có thể nói về đam mê và sức hút thể xác mãnh liệt. Khi ra ngược, lá thường mang nghĩa tích cực: nhận ra điều đang trói buộc mình và bắt đầu giải thoát."
+  ],
+  "reflection": [
+    "Điều gì đang có quyền lực với tôi nhiều hơn mức tôi muốn?",
+    "Tôi đang tự nhủ \"không có lựa chọn\" ở đâu — có thật vậy không?",
+    "Phần \"bóng tối\" nào của bản thân tôi cần thừa nhận?"
+  ]
 }

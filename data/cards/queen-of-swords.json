@@ -21,8 +21,29 @@
       "Thiếu bao dung"
     ]
   },
-  "imagery": "Nữ hoàng ngồi trên ngai nhìn thẳng, tay phải cầm kiếm dựng đứng, tay trái đưa ra như mời. Mây ở phía dưới.",
-  "symbols": [],
+  "imagery": "Một nữ hoàng ngồi nghiêng nhìn về phía bên phải trên ngai đá đặt cao giữa mây. Tay phải bà giơ thẳng thanh kiếm, tay trái đưa ra phía trước như mời hoặc ra hiệu. Ngai của bà chạm khắc hình bướm, trăng lưỡi liềm và một thiên thần nhỏ có cánh. Vương miện của bà cũng có hình bướm. Phía trên bầu trời có một con chim bay cao một mình; mây trôi bên dưới.",
+  "symbols": [
+    {
+      "name": "Kiếm dựng thẳng",
+      "meaning": "Sự thật, công tâm, suy nghĩ rõ ràng."
+    },
+    {
+      "name": "Tay đưa ra",
+      "meaning": "Sẵn lòng lắng nghe, mời gọi đối thoại chân thành."
+    },
+    {
+      "name": "Bướm trên ngai và vương miện",
+      "meaning": "Sự chuyển hóa, linh hồn; nguyên tố Khí."
+    },
+    {
+      "name": "Một con chim bay cao",
+      "meaning": "Tầm nhìn xa, sự độc lập, cô độc."
+    },
+    {
+      "name": "Mây bên dưới",
+      "meaning": "Đứng trên những rối rắm của tâm trí, nhìn rõ mọi việc."
+    }
+  ],
   "upright": {
     "general": "Sự sắc sảo, độc lập và thẳng thắn. Bạn nhìn nhận sự việc bằng lý trí, không bị cảm xúc chi phối.",
     "love": "Cần sự trung thực trong tình cảm; ranh giới rõ ràng.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Nữ Hoàng Kiếm = \"người phụ nữ thông minh, thẳng thắn\".",
   "image": "assets/cards/queen-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nữ Hoàng Kiếm là người phụ nữ sắc sảo, độc lập và thẳng thắn. Bà nhìn sự việc bằng lý trí, không bị cảm xúc chi phối, và nói sự thật một cách rõ ràng. Vẻ nghiêm nghị của bà thường đến từ những trải nghiệm đau thương đã giúp bà trở nên khôn ngoan.",
+    "Nữ Hoàng Kiếm là Nước của Khí: trí tuệ được làm dịu bởi sự thấu hiểu. Tay phải bà cầm kiếm dựng thẳng (sự thật), tay trái đưa ra như mời gọi — bà sẵn sàng lắng nghe, nhưng sẽ không chấp nhận sự giả dối. Con chim bay cao một mình phản ánh tầm nhìn xa và sự độc lập của bà.",
+    "Trong trải bài, lá có thể chỉ một người phụ nữ thông minh, công tâm, hoặc khuyên bạn nói sự thật với lòng trắc ẩn, đặt ranh giới rõ ràng, quyết định bằng lý trí. Khi ra ngược, lá cho thấy sự lạnh lùng, cay nghiệt, phê phán quá mức, hoặc khép lòng vì tổn thương cũ."
+  ],
+  "reflection": [
+    "Sự thật nào tôi cần nói — và làm sao nói với lòng trắc ẩn?",
+    "Tôi có đang đặt ranh giới rõ ràng không?",
+    "Tổn thương cũ có đang khiến tôi khép lòng?"
+  ]
 }

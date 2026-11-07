@@ -21,8 +21,33 @@
       "Thiếu hụt"
     ]
   },
-  "imagery": "Bàn tay từ mây nâng đồng tiền vàng phía trên khu vườn tươi tốt, có cổng vòm hoa dẫn ra ngoài.",
-  "symbols": [],
+  "imagery": "Từ đám mây bên phải, một bàn tay tỏa sáng nâng một đồng tiền vàng lớn khắc ngôi sao năm cánh. Bên dưới là một khu vườn xanh tươi đầy hoa ly trắng. Một con đường dẫn qua cổng vòm kết bằng bụi hoa hồng, mở ra phía những ngọn núi xa.",
+  "symbols": [
+    {
+      "name": "Đồng tiền ngôi sao năm cánh",
+      "meaning": "Thế giới vật chất được thánh hóa; năm cánh là bốn nguyên tố cộng tinh thần."
+    },
+    {
+      "name": "Bàn tay từ mây",
+      "meaning": "Cơ hội được trao tặng — cần đưa tay ra đón nhận."
+    },
+    {
+      "name": "Khu vườn tươi tốt",
+      "meaning": "Sự sung túc, đất màu mỡ để gieo trồng."
+    },
+    {
+      "name": "Cổng vòm hoa hồng",
+      "meaning": "Lối đi dẫn từ an toàn ra thế giới; cơ hội để bước ra xây dựng."
+    },
+    {
+      "name": "Núi xa",
+      "meaning": "Mục tiêu lớn, thành tựu lâu dài có thể đạt được."
+    },
+    {
+      "name": "Hoa ly trắng",
+      "meaning": "Sự trong sáng của mục đích."
+    }
+  ],
   "upright": {
     "general": "Một cơ hội mới về tài chính, công việc hoặc sức khỏe. Hạt giống của sự thịnh vượng đã được trao.",
     "love": "Mối quan hệ có nền tảng vững chắc.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Tiền = Đất = vật chất, công việc, sức khỏe. Át Tiền = hạt giống thịnh vượng.",
   "image": "assets/cards/ace-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Át Tiền là hạt giống của nguyên tố Đất: cơ hội hữu hình về tiền bạc, công việc, sức khỏe hay vật chất. Đây không phải ý tưởng hay cảm xúc mà là thứ cầm nắm được — một lời mời làm việc, một khoản thu nhập, một nền tảng vững chắc để xây dựng.",
+    "Át Tiền mở đầu câu chuyện của bộ Tiền — bộ của thế giới vật chất và những gì cần thời gian vun đắp: từ cơ hội (Át), cân bằng nguồn lực (2), làm việc nhóm (3), giữ của (4), thiếu thốn (5), cho và nhận (6), kiên nhẫn chờ thu hoạch (7), rèn luyện tay nghề (8), tự lập (9), đến di sản gia đình (10).",
+    "Trong trải bài, Át Tiền báo hiệu công việc mới, cơ hội kinh doanh, thu nhập mới, đầu tư tốt, hoặc cải thiện sức khỏe. Lá khuyên nắm bắt cơ hội thực tế và gieo hạt cẩn thận. Khi ra ngược, lá cho thấy cơ hội bị bỏ lỡ, kế hoạch tài chính kém, hoặc thiếu nền tảng."
+  ],
+  "reflection": [
+    "Cơ hội thực tế nào đang ở trước mắt tôi?",
+    "Tôi muốn xây dựng điều gì bền vững?",
+    "Bước đầu tiên cụ thể để biến cơ hội này thành hiện thực là gì?"
+  ]
 }

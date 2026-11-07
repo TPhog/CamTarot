@@ -21,8 +21,29 @@
       "Lời hứa suông"
     ]
   },
-  "imagery": "Hiệp sĩ cưỡi ngựa trắng chậm rãi, tay nâng chiếc cốc như đang trao tặng. Mũ và giày có cánh.",
-  "symbols": [],
+  "imagery": "Một hiệp sĩ mặc áo giáp, khoác áo choàng in hình cá đỏ, cưỡi con ngựa trắng đang bước đi chậm rãi. Tay phải anh nâng chiếc cốc vàng về phía trước như đang trao tặng. Mũ và gót giày của anh gắn đôi cánh nhỏ. Phía trước là một dòng suối nhỏ, xa xa là núi và cây cối.",
+  "symbols": [
+    {
+      "name": "Nâng cốc trao tặng",
+      "meaning": "Lời đề nghị, lời mời, sự bày tỏ cảm xúc."
+    },
+    {
+      "name": "Ngựa trắng đi chậm",
+      "meaning": "Sự thuần khiết, hành động nhẹ nhàng, không vội vã."
+    },
+    {
+      "name": "Đôi cánh trên mũ và gót",
+      "meaning": "Thần Hermes: sứ giả, trí tưởng tượng bay bổng."
+    },
+    {
+      "name": "Áo in hình cá",
+      "meaning": "Nguyên tố Nước, cảm xúc, sáng tạo."
+    },
+    {
+      "name": "Dòng suối phía trước",
+      "meaning": "Cảm xúc sắp được vượt qua hoặc đi vào."
+    }
+  ],
   "upright": {
     "general": "Một lời đề nghị lãng mạn hoặc sáng tạo. Hiệp sĩ Cốc đi theo trái tim — đầy duyên dáng và mơ mộng.",
     "love": "Lời cầu hôn, tỏ tình; người yêu lãng mạn.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Hiệp Sĩ Cốc là \"bạch mã hoàng tử\": chậm rãi, lãng mạn.",
   "image": "assets/cards/knight-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hiệp Sĩ Cốc là người lãng mạn, đi theo tiếng gọi của trái tim. Anh cưỡi ngựa trắng chậm rãi, nâng chiếc cốc như đang trao tặng — hình ảnh \"bạch mã hoàng tử\" mang đến lời mời, lời tỏ tình hay một đề nghị đầy cảm xúc.",
+    "Hiệp Sĩ Cốc là Lửa của Nước: cảm xúc được đưa vào hành động. Khác với Hiệp Sĩ Gậy lao vút đi, anh di chuyển chậm và duyên dáng. Đôi cánh trên mũ và gót chân gợi đến thần Hermes — sứ giả — cho thấy anh mang theo thông điệp từ trái tim.",
+    "Trong trải bài, Hiệp Sĩ Cốc báo hiệu lời cầu hôn, lời tỏ tình, một người yêu lãng mạn, hoặc lời mời làm việc sáng tạo. Lá khuyên đi theo trái tim nhưng giữ chân trên mặt đất. Khi ra ngược, lá cho thấy sự mơ mộng không thực tế, hứa nhiều làm ít, cảm xúc thất thường."
+  ],
+  "reflection": [
+    "Trái tim tôi đang muốn theo đuổi điều gì?",
+    "Tôi có đang lý tưởng hóa một người hay một tình huống?",
+    "Lời hứa nào của tôi cần được thực hiện bằng hành động?"
+  ]
 }

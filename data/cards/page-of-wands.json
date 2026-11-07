@@ -21,8 +21,29 @@
       "Trì hoãn ý tưởng"
     ]
   },
-  "imagery": "Chàng trai trẻ đứng giữa sa mạc, ngắm nhìn cây gậy đang đâm chồi với sự tò mò, áo in họa tiết kỳ nhông.",
-  "symbols": [],
+  "imagery": "Một chàng trai trẻ đứng giữa vùng sa mạc, hai tay cầm cây gậy cao hơn đầu và chăm chú ngắm những chồi lá trên đó. Anh đội mũ có lông vũ đỏ như ngọn lửa, mặc áo vàng in hình những con kỳ nhông (salamander) đen, khoác áo choàng ngắn. Phía sau là những đụn cát hoặc kim tự tháp xa xa.",
+  "symbols": [
+    {
+      "name": "Ngắm cây gậy đâm chồi",
+      "meaning": "Sự tò mò, khám phá tiềm năng mới."
+    },
+    {
+      "name": "Kỳ nhông trên áo",
+      "meaning": "Sinh vật huyền thoại sống trong lửa: biểu tượng của nguyên tố Lửa và sự biến đổi."
+    },
+    {
+      "name": "Lông vũ đỏ",
+      "meaning": "Năng lượng nhiệt huyết, sự hăng hái."
+    },
+    {
+      "name": "Sa mạc",
+      "meaning": "Vùng đất chưa được khai phá; nơi đam mê cần được gieo trồng."
+    },
+    {
+      "name": "Kim tự tháp",
+      "meaning": "Tri thức cổ xưa, những thành tựu lớn có thể đạt được."
+    }
+  ],
   "upright": {
     "general": "Một tinh thần trẻ trung, nhiệt huyết, đầy tò mò. Có thể là tin tốt, một ý tưởng mới hoặc một người trẻ nhiệt tình.",
     "love": "Tình cảm mới mẻ, vui tươi; một lời mời hẹn hò.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Tiểu Đồng = người học trò/người đưa tin. Tiểu Đồng Gậy mang tin về đam mê mới.",
   "image": "assets/cards/page-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tiểu Đồng Gậy là tinh thần tò mò, nhiệt huyết của người mới bắt đầu khám phá đam mê. Chàng trai trẻ ngắm nhìn cây gậy đâm chồi đầy thích thú — anh chưa biết sẽ làm gì với nó, nhưng mọi khả năng đều hấp dẫn.",
+    "Các lá Tiểu Đồng là \"người đưa tin\" và \"người học trò\" của mỗi bộ, đại diện cho phần Đất của nguyên tố. Tiểu Đồng Gậy là Đất của Lửa: đam mê bắt đầu tìm cách hiện thực hóa. Lá có thể chỉ một người trẻ năng động, một tin tốt, hoặc chính tinh thần ham khám phá trong bạn.",
+    "Trong trải bài, Tiểu Đồng Gậy báo hiệu tin vui, ý tưởng mới, mong muốn học kỹ năng mới hay thử một hướng đi khác; trong tình cảm là lời mời hẹn hò, sự tán tỉnh vui vẻ. Khi ra ngược, lá cho thấy nhiệt tình nhưng thiếu định hướng, bắt đầu nhiều việc mà không hoàn thành, hoặc sự non nớt."
+  ],
+  "reflection": [
+    "Điều gì đang khơi dậy sự tò mò của tôi?",
+    "Tôi muốn học điều gì mới?",
+    "Làm sao để biến sự hào hứng này thành hành động bền bỉ?"
+  ]
 }

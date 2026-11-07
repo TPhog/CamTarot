@@ -22,8 +22,29 @@
       "Đòi hỏi"
     ]
   },
-  "imagery": "Nữ hoàng ngồi trên ngai có hình sư tử, tay phải cầm gậy, tay trái cầm hoa hướng dương. Dưới chân là con mèo đen.",
-  "symbols": [],
+  "imagery": "Một nữ hoàng mặc áo vàng, khoác áo choàng, ngồi trên ngai có tay vịn chạm khắc hình sư tử; trên lưng ngai cũng có hình sư tử và hoa hướng dương. Tay phải bà cầm cây gậy đâm chồi, tay trái cầm một bông hoa hướng dương. Bà ngồi dạng chân thoải mái, tự tin. Dưới chân là một con mèo đen ngồi nhìn thẳng ra ngoài. Phía sau là bầu trời xanh và những ngọn đồi.",
+  "symbols": [
+    {
+      "name": "Sư tử trên ngai",
+      "meaning": "Cung Sư Tử, sức mạnh, lòng can đảm, sự tự tin."
+    },
+    {
+      "name": "Hoa hướng dương",
+      "meaning": "Niềm vui, sức sống, sự ấm áp, luôn hướng về ánh sáng."
+    },
+    {
+      "name": "Con mèo đen",
+      "meaning": "Trực giác, sự độc lập, mặt bí ẩn và có phần hoang dã của bà."
+    },
+    {
+      "name": "Tư thế ngồi dạng chân",
+      "meaning": "Sự tự tin, thoải mái với bản thân, không e dè."
+    },
+    {
+      "name": "Áo vàng",
+      "meaning": "Năng lượng mặt trời, sự lạc quan."
+    }
+  ],
   "upright": {
     "general": "Sự tự tin, ấm áp và sức hút tự nhiên. Bạn có thể vừa mạnh mẽ vừa duyên dáng, truyền cảm hứng cho người xung quanh.",
     "love": "Tự tin, quyến rũ; mối quan hệ đầy năng lượng và chân thành.",
@@ -39,5 +60,15 @@
   "yesNo": "Có",
   "memoryTip": "Nữ Hoàng = làm chủ nguyên tố từ bên trong. Con mèo đen = trực giác và sự độc lập.",
   "image": "assets/cards/queen-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nữ Hoàng Gậy là hình ảnh người phụ nữ tự tin, ấm áp, quyến rũ và độc lập. Bà biết mình muốn gì, làm được nhiều việc cùng lúc, và truyền cảm hứng cho người xung quanh bằng năng lượng tích cực của mình.",
+    "Các lá Nữ Hoàng đại diện cho phần Nước của nguyên tố: làm chủ nguyên tố từ bên trong, nuôi dưỡng. Nữ Hoàng Gậy là Nước của Lửa — đam mê được dung hòa với sự ấm áp, quan tâm. Con mèo đen dưới chân cho thấy bà còn có trực giác sắc bén và một mặt bí ẩn, độc lập.",
+    "Trong trải bài, lá có thể chỉ một người như vậy hoặc khuyên bạn thể hiện những phẩm chất đó: tự tin, chủ động, thể hiện con người thật. Trong công việc là khả năng lãnh đạo bằng cảm hứng. Khi ra ngược, lá cho thấy thiếu tự tin, hoặc tự tin biến thành kiểm soát, ghen tuông, đòi hỏi; hoặc kiệt sức vì ôm đồm."
+  ],
+  "reflection": [
+    "Khi nào tôi cảm thấy tự tin và tỏa sáng nhất?",
+    "Tôi có đang thể hiện con người thật của mình không?",
+    "Sự tự tin của tôi có lúc nào biến thành kiểm soát?"
+  ]
 }

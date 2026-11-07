@@ -21,8 +21,29 @@
       "Buông bỏ tranh chấp"
     ]
   },
-  "imagery": "Người đàn ông cười đắc thắng ôm ba thanh kiếm, hai người khác bỏ đi buồn bã, hai kiếm nằm trên đất.",
-  "symbols": [],
+  "imagery": "Ở tiền cảnh, một người đàn ông tóc đỏ nhếch mép cười, ôm ba thanh kiếm, ngoái nhìn hai người đang bỏ đi. Hai thanh kiếm khác nằm trên mặt đất. Một người quay lưng đi về phía bờ biển, người kia cúi đầu ôm mặt như đang khóc. Bầu trời có những đám mây bị gió xé rách lởm chởm.",
+  "symbols": [
+    {
+      "name": "Người cười đắc thắng",
+      "meaning": "Chiến thắng của cái tôi; thắng nhưng không vẻ vang."
+    },
+    {
+      "name": "Kiếm nằm trên đất",
+      "meaning": "Vũ khí bị bỏ lại; người thua đã buông bỏ cuộc chiến."
+    },
+    {
+      "name": "Hai người bỏ đi",
+      "meaning": "Mất mát, nhục nhã; mối quan hệ đổ vỡ."
+    },
+    {
+      "name": "Mây bị xé rách",
+      "meaning": "Căng thẳng, xung đột, bầu không khí nặng nề."
+    },
+    {
+      "name": "Biển xám",
+      "meaning": "Cảm xúc lạnh lẽo sau cuộc chiến."
+    }
+  ],
   "upright": {
     "general": "Một cuộc tranh chấp mà chiến thắng có thể phải trả giá đắt. Hỏi bản thân: thắng trận này có đáng không?",
     "love": "Cãi vã khiến cả hai tổn thương.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 5 = xung đột. Người cười ôm kiếm = \"thắng nhưng mất bạn\".",
   "image": "assets/cards/five-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Năm Kiếm là lá của xung đột mà chiến thắng phải trả giá đắt. Người đàn ông cười đắc thắng ôm ba thanh kiếm, trong khi hai người kia bỏ đi buồn bã. Anh thắng trận cãi vã — nhưng mất đi sự tôn trọng và các mối quan hệ.",
+    "Số 5 là khủng hoảng. Trong bộ Kiếm, đó là cuộc chiến của lời nói và cái tôi. Sau khoảng nghỉ của Bốn Kiếm, tâm trí quay lại chiến đấu, nhưng theo cách không lành mạnh: thắng bằng mọi giá, kể cả bằng mưu mẹo.",
+    "Trong trải bài, Năm Kiếm cho thấy tranh cãi, cạnh tranh không lành mạnh, thắng thua gây tổn thương, hoặc cảm giác bị hạ nhục. Lá khuyên tự hỏi: trận chiến này có đáng không? Đôi khi rút lui mới là thắng. Khi ra ngược, lá nói về mong muốn hòa giải, sự hối hận, hoặc buông bỏ tranh chấp."
+  ],
+  "reflection": [
+    "Tôi đang muốn thắng hay muốn giải quyết vấn đề?",
+    "Chiến thắng này sẽ khiến tôi mất gì?",
+    "Có lúc nào rút lui là lựa chọn khôn ngoan hơn?"
+  ]
 }

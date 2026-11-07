@@ -21,8 +21,29 @@
       "Bắt đầu lại"
     ]
   },
-  "imagery": "Người đàn ông ngồi dưới gốc cây khoanh tay, nhìn ba chiếc cốc trước mặt, không để ý đến cốc thứ tư được bàn tay từ mây đưa ra.",
-  "symbols": [],
+  "imagery": "Một chàng trai ngồi khoanh tay, tựa lưng vào gốc cây trên ngọn đồi xanh, gương mặt cau có, trầm ngâm. Trước mặt anh là ba chiếc cốc xếp hàng trên cỏ. Từ đám mây bên trái, một bàn tay đưa ra chiếc cốc thứ tư, nhưng anh không nhìn thấy hoặc không quan tâm.",
+  "symbols": [
+    {
+      "name": "Khoanh tay",
+      "meaning": "Khép kín, từ chối, phòng thủ cảm xúc."
+    },
+    {
+      "name": "Ba cốc trước mặt",
+      "meaning": "Những gì đã có nhưng không còn thấy thỏa mãn."
+    },
+    {
+      "name": "Cốc thứ tư từ mây",
+      "meaning": "Cơ hội mới, món quà đang bị phớt lờ."
+    },
+    {
+      "name": "Ngồi dưới gốc cây",
+      "meaning": "Thiền định, nội quan — giống hình ảnh Đức Phật dưới cội bồ đề, nhưng ở đây có thể là trì trệ."
+    },
+    {
+      "name": "Gương mặt cau có",
+      "meaning": "Chán nản, bất mãn."
+    }
+  ],
   "upright": {
     "general": "Bạn đang chán nản, thờ ơ, và có thể bỏ lỡ cơ hội ngay trước mắt. Hãy mở mắt nhìn lại.",
     "love": "Thờ ơ trong tình cảm; không trân trọng những gì đang có.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 4 = ổn định đến mức trì trệ. Chiếc cốc thứ tư bị phớt lờ = cơ hội bị bỏ qua.",
   "image": "assets/cards/four-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bốn Cốc là lá của sự thờ ơ, chán nản và tự thu mình. Người đàn ông ngồi khoanh tay dưới gốc cây, nhìn ba chiếc cốc trước mặt mà không hứng thú — và không nhận ra chiếc cốc thứ tư đang được trao cho mình.",
+    "Số 4 là sự ổn định, nhưng trong thế giới cảm xúc, ổn định quá lâu dễ thành trì trệ. Sau niềm vui của Ba Cốc, cảm giác \"thế thôi sao?\" xuất hiện. Lá này cũng có mặt tích cực: một khoảng lặng để nhìn vào bên trong, xem mình thật sự muốn gì.",
+    "Trong trải bài, Bốn Cốc cảnh báo bạn có thể đang bỏ lỡ cơ hội vì mải chán nản hay không biết trân trọng những gì đang có. Lá khuyên mở mắt nhìn lại. Khi ra ngược, lá cho thấy bạn đang thoát khỏi sự trì trệ, nhận ra cơ hội và sẵn sàng hành động trở lại."
+  ],
+  "reflection": [
+    "Tôi đang thờ ơ với điều gì mà có thể rất quý giá?",
+    "Cơ hội nào có thể đang ở ngay trước mặt mà tôi chưa thấy?",
+    "Sự chán nản này đang muốn nói gì về điều tôi thật sự cần?"
+  ]
 }

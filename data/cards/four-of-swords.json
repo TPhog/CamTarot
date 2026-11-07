@@ -21,8 +21,29 @@
       "Trở lại hoạt động"
     ]
   },
-  "imagery": "Hiệp sĩ nằm nghỉ trên quan tài trong nhà thờ, hai tay chắp lại. Ba kiếm treo trên tường, một kiếm nằm bên dưới.",
-  "symbols": [],
+  "imagery": "Bên trong một nhà thờ, tượng một hiệp sĩ mặc giáp nằm trên nắp quan tài đá, hai tay chắp trước ngực như cầu nguyện, mắt nhắm. Một thanh kiếm được khắc nằm ngang dọc thân quan tài. Trên tường phía sau treo ba thanh kiếm chĩa mũi xuống. Góc trên bên trái là ô cửa sổ kính màu vẽ hình người quỳ trước một nhân vật thánh.",
+  "symbols": [
+    {
+      "name": "Hiệp sĩ nằm yên",
+      "meaning": "Nghỉ ngơi, phục hồi; tạm rút khỏi cuộc chiến."
+    },
+    {
+      "name": "Tay chắp cầu nguyện",
+      "meaning": "Thiền định, tĩnh tâm, tìm sự bình an bên trong."
+    },
+    {
+      "name": "Ba kiếm trên tường",
+      "meaning": "Những nỗi đau, lo lắng đã được treo lên, tạm gác lại."
+    },
+    {
+      "name": "Kiếm nằm ngang",
+      "meaning": "Một vấn đề còn đó nhưng đang được tạm hoãn."
+    },
+    {
+      "name": "Cửa sổ kính màu",
+      "meaning": "Sự chữa lành tinh thần, nơi trú ẩn an toàn."
+    }
+  ],
   "upright": {
     "general": "Sau căng thẳng, đây là lúc nghỉ ngơi và hồi phục. Hãy cho tâm trí và cơ thể được tĩnh lặng.",
     "love": "Cần thời gian riêng để suy nghĩ.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 4 = ổn định. Hiệp sĩ nằm yên = \"nghỉ ngơi để hồi phục\".",
   "image": "assets/cards/four-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bốn Kiếm là lá của nghỉ ngơi và hồi phục. Sau nỗi đau của Ba Kiếm, hiệp sĩ nằm yên trong nhà thờ, tay chắp lại — tâm trí cần được tĩnh lặng để lấy lại sức.",
+    "Số 4 là sự ổn định. Trong bộ Kiếm, ổn định có nghĩa là tạm ngừng cuộc chiến của tâm trí. Thanh kiếm nằm ngang dưới người hiệp sĩ, ba thanh treo trên tường — anh tạm gác vũ khí sang một bên. Cửa sổ kính màu cho thấy sự chữa lành ở tầng tinh thần.",
+    "Trong trải bài, Bốn Kiếm khuyên nghỉ ngơi, nghỉ phép, thiền định, tạm dừng trước khi quyết định lớn; đôi khi liên quan đến dưỡng bệnh. Nghỉ ngơi không phải lười biếng — đó là chuẩn bị. Khi ra ngược, lá cho thấy bạn đã nghỉ đủ và sẵn sàng quay lại, hoặc ngược lại: đang kiệt sức vì không chịu nghỉ."
+  ],
+  "reflection": [
+    "Tâm trí tôi đang cần nghỉ ngơi khỏi điều gì?",
+    "Lần cuối tôi thật sự tĩnh lặng là khi nào?",
+    "Tôi có cảm thấy tội lỗi khi nghỉ ngơi không — vì sao?"
+  ]
 }

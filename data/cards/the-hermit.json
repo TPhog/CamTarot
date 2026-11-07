@@ -23,23 +23,31 @@
       "Lạc lối"
     ]
   },
-  "imagery": "Ông lão râu bạc đứng một mình trên đỉnh núi tuyết, tay phải giơ cao chiếc đèn lồng có ngôi sao sáu cánh, tay trái chống gậy.",
+  "imagery": "Một ông lão râu tóc bạc trắng, mặc áo choàng xám dài trùm đầu, đứng một mình trên đỉnh núi phủ tuyết dưới bầu trời xám xanh. Ông hơi cúi đầu nhìn xuống. Tay phải giơ cao một chiếc đèn lồng, bên trong là ngôi sao sáu cánh tỏa sáng; tay trái chống cây gậy dài màu vàng.",
   "symbols": [
     {
-      "name": "Đèn lồng sao sáu cánh",
-      "meaning": "Ánh sáng trí tuệ soi đường — cho mình và người khác."
+      "name": "Đèn lồng có sao sáu cánh",
+      "meaning": "Ánh sáng trí tuệ; ngôi sao sáu cánh (Ấn Solomon) là sự hòa hợp của trên và dưới."
     },
     {
       "name": "Đỉnh núi tuyết",
-      "meaning": "Thành tựu tâm linh đạt được qua hành trình cô độc."
+      "meaning": "Thành tựu tâm linh đạt được qua hành trình gian khổ, cô độc."
     },
     {
       "name": "Cây gậy",
-      "meaning": "Kinh nghiệm và sự kiên trì."
+      "meaning": "Kinh nghiệm, sự kiên trì, chỗ dựa trên hành trình."
     },
     {
       "name": "Áo choàng xám",
-      "meaning": "Sự khiêm nhường, ẩn mình khỏi ồn ào."
+      "meaning": "Khiêm nhường, ẩn mình khỏi sự chú ý; màu của sự trung dung."
+    },
+    {
+      "name": "Ánh nhìn xuống dưới",
+      "meaning": "Ông soi đường cho những người đang leo lên sau mình."
+    },
+    {
+      "name": "Bầu trời xám tối",
+      "meaning": "Thời điểm đêm tối, khi ánh sáng phải đến từ bên trong."
     }
   ],
   "upright": {
@@ -57,5 +65,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 9 = gần hoàn tất, nhìn lại. Hình ảnh: ngọn đèn nhỏ giữa đêm — ánh sáng tìm từ bên trong.",
   "image": "assets/cards/the-hermit.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ẩn Sĩ là lá bài của sự rút lui có chủ đích để tìm kiếm sự thật bên trong. Sau những ồn ào của thế giới, ông lão đi lên đỉnh núi một mình, cầm ngọn đèn soi đường. Sự cô độc ở đây không phải là bị bỏ rơi mà là lựa chọn: tách khỏi đám đông để nghe rõ tiếng nói của chính mình.",
+    "Là số 9 — gần cuối chu kỳ một chữ số — Ẩn Sĩ là lúc nhìn lại, chiêm nghiệm và đúc kết. Sau khi thuần hóa bản năng (Sức Mạnh), Chàng Khờ đi tìm ý nghĩa. Cung Xử Nữ gắn với lá mang tính phân tích, tỉ mỉ và khiêm nhường. Ngọn đèn của Ẩn Sĩ không chỉ soi cho ông mà còn cho những người đi sau: ông cũng là hình ảnh người thầy, người dẫn đường từng trải.",
+    "Trong trải bài, Ẩn Sĩ khuyên bạn lùi lại, dành thời gian một mình, suy ngẫm trước khi hành động; đôi khi là tìm đến một người cố vấn khôn ngoan. Trong tình cảm, lá có thể cho thấy giai đoạn muốn ở một mình hoặc cần hiểu bản thân trước. Khi ra ngược, hãy để ý sự cô lập, cô đơn, trốn tránh thế giới — hoặc ngược lại, sợ ở một mình nên không bao giờ dừng lại để suy nghĩ."
+  ],
+  "reflection": [
+    "Tôi cần dành thời gian một mình để hiểu điều gì?",
+    "Điều gì thật sự có ý nghĩa với tôi khi bỏ đi ý kiến của người khác?",
+    "Ai là người dẫn đường mà tôi có thể học hỏi — hoặc tôi có thể soi đường cho ai?"
+  ]
 }

@@ -21,8 +21,29 @@
       "Hy vọng"
     ]
   },
-  "imagery": "Người phụ nữ ngồi bật dậy trên giường giữa đêm, hai tay ôm mặt. Chín thanh kiếm treo trên tường đen.",
-  "symbols": [],
+  "imagery": "Một người phụ nữ mặc áo ngủ trắng ngồi bật dậy trên giường giữa đêm, hai tay ôm lấy mặt. Phía sau trên nền tường đen là chín thanh kiếm xếp ngang song song. Tấm chăn đắp của cô có hình hoa hồng đỏ xen với các ký hiệu chiêm tinh. Thành giường chạm khắc cảnh một người đang tấn công người khác.",
+  "symbols": [
+    {
+      "name": "Ngồi bật dậy ôm mặt",
+      "meaning": "Thức tỉnh giữa đêm vì lo âu, ác mộng, tuyệt vọng."
+    },
+    {
+      "name": "Chín kiếm treo ngang",
+      "meaning": "Suy nghĩ tiêu cực chồng chất; chúng không đâm vào cô — nỗi đau nằm trong tâm trí."
+    },
+    {
+      "name": "Bức tường đen",
+      "meaning": "Đêm tối của tâm hồn; khi mọi thứ trông tồi tệ hơn thực tế."
+    },
+    {
+      "name": "Chăn hoa hồng và ký hiệu chiêm tinh",
+      "meaning": "Vẫn còn những điều đẹp đẽ và sự che chở quanh cô."
+    },
+    {
+      "name": "Chạm khắc trên giường",
+      "meaning": "Xung đột, sự công kích — có thể là những ký ức ám ảnh."
+    }
+  ],
   "upright": {
     "general": "Lo âu và suy nghĩ tiêu cực khiến bạn mất ngủ. Thường thì điều bạn sợ tệ hơn trong tâm trí so với thực tế.",
     "love": "Lo lắng, ghen tuông, suy nghĩ quá nhiều về mối quan hệ.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Ngồi bật dậy giữa đêm = \"ác mộng\". Kiếm treo trên tường, không đâm vào ai.",
   "image": "assets/cards/nine-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Chín Kiếm là lá của lo âu, mất ngủ và suy nghĩ tiêu cực. Người phụ nữ ngồi bật dậy giữa đêm, ôm mặt trong tuyệt vọng — chín thanh kiếm treo trên bức tường đen, nhưng không có thanh nào đâm vào cô. Nỗi đau ở đây nằm chủ yếu trong tâm trí.",
+    "Số 9 là đỉnh điểm của nguyên tố. Với bộ Kiếm (tâm trí), đỉnh điểm là sự lo âu quá độ: suy nghĩ lặp đi lặp lại, tưởng tượng điều tồi tệ, cảm giác tội lỗi. Lá nhắc rằng điều ta sợ thường đáng sợ trong đầu hơn là ngoài thực tế.",
+    "Trong trải bài, Chín Kiếm cho thấy căng thẳng, ác mộng, lo lắng về tiền bạc, tình cảm hay công việc, hoặc cảm giác tội lỗi. Lá khuyên chia sẻ nỗi lo với ai đó, đừng chịu đựng một mình. Khi ra ngược, lá cho thấy bạn đang thoát dần khỏi lo âu, hoặc đã sẵn sàng tìm sự giúp đỡ."
+  ],
+  "reflection": [
+    "Nỗi lo nào đang khiến tôi mất ngủ?",
+    "Điều tôi sợ có thật sự đang xảy ra, hay chỉ trong đầu tôi?",
+    "Tôi có thể chia sẻ nỗi lo này với ai?"
+  ]
 }

@@ -23,23 +23,35 @@
       "Mất kết nối"
     ]
   },
-  "imagery": "Người phụ nữ trần trụi quỳ bên hồ nước dưới bầu trời có một ngôi sao lớn và bảy ngôi sao nhỏ. Cô rót nước từ hai bình: một xuống hồ, một xuống đất. Con chim ibis đậu trên cây.",
+  "imagery": "Dưới bầu trời có một ngôi sao vàng lớn tám cánh và bảy ngôi sao trắng nhỏ tám cánh, một người phụ nữ trần trụi quỳ bên hồ nước. Đầu gối trái chạm đất, chân phải đặt trên mặt nước. Cô cầm hai bình nước: một bình rót xuống hồ, một bình rót lên mặt đất, dòng nước chia thành năm nhánh chảy ngược về hồ. Phía sau, trên một cái cây bên phải, có con chim ibis đậu. Xa xa là ngọn núi xanh.",
   "symbols": [
     {
-      "name": "Ngôi sao lớn tám cánh",
-      "meaning": "Ánh sáng hy vọng dẫn đường."
+      "name": "Ngôi sao vàng lớn",
+      "meaning": "Ánh sáng hy vọng, sự dẫn đường; linh hồn tỏa sáng."
     },
     {
-      "name": "Rót nước xuống hồ và đất",
-      "meaning": "Nuôi dưỡng cả cảm xúc lẫn thực tại."
+      "name": "Bảy ngôi sao nhỏ",
+      "meaning": "Bảy luân xa hoặc bảy hành tinh cổ điển — năng lượng đã được cân bằng."
+    },
+    {
+      "name": "Rót nước xuống hồ",
+      "meaning": "Nuôi dưỡng tiềm thức, cảm xúc, nguồn sống bên trong."
+    },
+    {
+      "name": "Rót nước lên đất chia năm nhánh",
+      "meaning": "Nuôi dưỡng thế giới thực qua năm giác quan."
+    },
+    {
+      "name": "Chân trên nước, gối trên đất",
+      "meaning": "Cân bằng giữa trực giác và thực tế; cô tin vào cả hai."
     },
     {
       "name": "Sự trần trụi",
-      "meaning": "Bình yên, không còn gì phải che giấu."
+      "meaning": "Không còn gì để che giấu sau khi Tòa Tháp sụp đổ; sự chân thật và tổn thương được chấp nhận."
     },
     {
       "name": "Chim ibis",
-      "meaning": "Biểu tượng của trí tuệ và sự đổi mới."
+      "meaning": "Biểu tượng của thần Thoth — trí tuệ, chữ viết và sự đổi mới."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Ngôi Sao đứng ngay sau Tòa Tháp: sau sụp đổ là bình yên và hy vọng.",
   "image": "assets/cards/the-star.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ngôi Sao là lá bài của hy vọng, chữa lành và niềm tin. Sau giông bão, bầu trời đêm trong vắt hiện ra với những vì sao lấp lánh. Người phụ nữ trần trụi, không còn gì để che giấu hay mất đi, bình thản rót nước nuôi dưỡng đất và hồ. Đây là sự bình yên sau khủng hoảng và cảm hứng để bắt đầu lại.",
+    "Là số 17, Ngôi Sao đến ngay sau Tòa Tháp: khi mọi cấu trúc giả tạo đã đổ, cái còn lại là bản chất thật và niềm tin vào tương lai. Đây là lá đầu tiên trong ba \"ánh sáng trên trời\" (Ngôi Sao – Mặt Trăng – Mặt Trời), dẫn Chàng Khờ dần về sự giác ngộ. Cung Bảo Bình gắn với lá — cung của lý tưởng, nhân đạo và tầm nhìn tương lai — và người phụ nữ rót nước chính là hình ảnh của cung này.",
+    "Trong trải bài, Ngôi Sao là lá rất tích cực: hồi phục sức khỏe và tinh thần, hy vọng được đáp lại, cảm hứng sáng tạo, mục tiêu dài hạn rõ ràng. Lá khuyên giữ niềm tin và chăm sóc tâm hồn. Khi ra ngược, lá cho thấy mất hy vọng, nản lòng, nghi ngờ bản thân, hoặc cảm thấy mất kết nối với điều mình tin."
+  ],
+  "reflection": [
+    "Điều gì khiến tôi thấy hy vọng lúc này?",
+    "Tôi cần chữa lành điều gì sau giai đoạn vừa qua?",
+    "Ước mơ dài hạn nào xứng đáng để tôi tiếp tục tin tưởng?"
+  ]
 }

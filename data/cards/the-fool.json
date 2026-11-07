@@ -23,23 +23,39 @@
       "Ngây ngô bị lợi dụng"
     ]
   },
-  "imagery": "Một chàng trai trẻ mặc áo hoa sặc sỡ bước đi vô tư bên mép vực, tay cầm bông hồng trắng, vai đeo túi hành trang nhỏ. Chú chó nhỏ nhảy cẫng bên chân, mặt trời rực rỡ phía sau.",
+  "imagery": "Một chàng trai trẻ bước đi thong dong trên đỉnh núi, mắt ngước nhìn trời, chân trái sắp chạm mép vực mà dường như không hề hay biết. Anh mặc áo khoác ngoài thêu hoa văn tròn và hoa lá rực rỡ, đội mũ có lông vũ đỏ, đi ủng vàng. Tay trái cầm một bông hồng trắng; tay phải vác cây gậy trên vai, đầu gậy treo một túi hành trang nhỏ. Chú chó trắng nhảy lên bên chân như đang đùa giỡn hoặc báo động. Mặt trời trắng chiếu từ góc trên bên phải trên nền trời vàng; phía sau xa là dãy núi tuyết.",
   "symbols": [
     {
       "name": "Vách đá",
-      "meaning": "Bước nhảy vào điều chưa biết; rủi ro và niềm tin."
+      "meaning": "Bước nhảy vào điều chưa biết. Rủi ro là có thật, nhưng đó cũng là cách duy nhất để bắt đầu hành trình."
+    },
+    {
+      "name": "Ánh mắt nhìn lên trời",
+      "meaning": "Lý tưởng, niềm tin và sự mơ mộng; anh nhìn về khả năng hơn là nhìn xuống nguy hiểm."
     },
     {
       "name": "Bông hồng trắng",
-      "meaning": "Sự trong sáng, tâm hồn chưa vướng bận."
-    },
-    {
-      "name": "Chú chó",
-      "meaning": "Bản năng, lời cảnh báo hoặc người bạn trung thành."
+      "meaning": "Sự trong sáng, động cơ thuần khiết, tâm hồn chưa bị vấy bẩn bởi ham muốn."
     },
     {
       "name": "Túi hành trang",
-      "meaning": "Những kinh nghiệm tiềm ẩn mang theo, chưa được mở ra."
+      "meaning": "Những kinh nghiệm, tài năng tiềm ẩn mà anh mang theo nhưng chưa biết mình có."
+    },
+    {
+      "name": "Chú chó trắng",
+      "meaning": "Bản năng, lòng trung thành; có thể là người bạn đồng hành hoặc tiếng nói cảnh báo."
+    },
+    {
+      "name": "Mặt trời trắng",
+      "meaning": "Năng lượng tinh thần thuần khiết soi sáng hành trình; một khởi đầu được phù hộ."
+    },
+    {
+      "name": "Núi tuyết phía sau",
+      "meaning": "Những thử thách và đỉnh cao tri thức đang chờ ở phía trước của hành trình."
+    },
+    {
+      "name": "Trang phục sặc sỡ",
+      "meaning": "Sự hồn nhiên, vui tươi, không quan tâm đến khuôn phép xã hội."
     }
   ],
   "upright": {
@@ -57,5 +73,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 0 là vòng tròn trống — mọi khả năng đều có thể. Chàng Khờ là chính bạn ở đầu hành trình 21 lá còn lại.",
   "image": "assets/cards/the-fool.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Chàng Khờ là lá bài của khởi đầu thuần khiết. Mang số 0, anh không đứng ở đầu hay cuối chuỗi Ẩn Chính mà đứng ngoài nó: một khả năng chưa thành hình, một hạt giống trước khi nảy mầm. Năng lượng của lá là tò mò, cởi mở và sẵn sàng bước vào điều chưa biết mà không mang theo định kiến hay nỗi sợ của kinh nghiệm cũ.",
+    "Trong truyền thống Tarot, cả 21 lá Ẩn Chính còn lại được đọc như \"hành trình của Chàng Khờ\": anh lần lượt gặp Nhà Ảo Thuật, Nữ Tư Tế, Hoàng Hậu… và học bài học của từng người, cho đến khi trở thành vũ công viên mãn trong lá Thế Giới. Vì vậy Chàng Khờ cũng chính là người hỏi bài: bất kỳ ai đang đứng ở ngưỡng cửa của một trải nghiệm mới.",
+    "Khi xuất hiện trong trải bài, Chàng Khờ thường báo hiệu một chương mới: công việc mới, chuyến đi, mối quan hệ, một quyết định \"cứ thử xem sao\". Lá khuyến khích tin vào bản thân và vào cuộc đời. Tuy vậy, chú chó và vách đá nhắc rằng ngây thơ khác với liều lĩnh — người mới học nên đọc lá này cùng các lá xung quanh để biết đó là lời mời can đảm hay lời cảnh báo bất cẩn."
+  ],
+  "reflection": [
+    "Điều gì mới mẻ đang mời gọi tôi bước tới?",
+    "Nỗi sợ nào đang ngăn tôi bắt đầu — và nó có thật sự hợp lý không?",
+    "Tôi đang can đảm hay đang bất cẩn?"
+  ]
 }

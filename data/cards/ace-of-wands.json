@@ -21,8 +21,29 @@
       "Ý tưởng chưa chín"
     ]
   },
-  "imagery": "Một bàn tay hiện ra từ đám mây, nắm chặt cây gậy đang đâm chồi lá non. Xa xa là lâu đài trên đồi và dòng sông.",
-  "symbols": [],
+  "imagery": "Từ một đám mây xám bên phải, một bàn tay tỏa ánh sáng nắm chặt cây gậy gỗ dài, trên thân gậy đâm chồi những chiếc lá xanh non; vài chiếc lá đang rơi xuống như những giọt lửa. Bên dưới là phong cảnh yên bình: một tòa lâu đài trên ngọn đồi xa, cây xanh và dòng sông uốn quanh.",
+  "symbols": [
+    {
+      "name": "Bàn tay từ mây",
+      "meaning": "Món quà, cơ hội hoặc cảm hứng đến từ một nguồn lớn hơn bản thân."
+    },
+    {
+      "name": "Cây gậy đâm chồi",
+      "meaning": "Sự sống, sự tăng trưởng; năng lượng đang sinh sôi."
+    },
+    {
+      "name": "Lá non rơi",
+      "meaning": "Hạt giống của ý tưởng lan tỏa; hình chữ Yod của Lửa thiêng."
+    },
+    {
+      "name": "Lâu đài trên đồi",
+      "meaning": "Mục tiêu, thành tựu có thể đạt được trong tương lai."
+    },
+    {
+      "name": "Dòng sông",
+      "meaning": "Dòng chảy của cuộc sống nuôi dưỡng ý tưởng."
+    }
+  ],
   "upright": {
     "general": "Tia lửa của một ý tưởng hay đam mê mới vừa bùng lên. Đây là hạt giống của năng lượng sáng tạo — hãy nắm lấy nó trước khi nó tắt.",
     "love": "Sức hút mới, đam mê bùng cháy; mối quan hệ được tiếp thêm lửa.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Át = hạt giống thuần khiết của nguyên tố. Gậy = Lửa = đam mê, hành động.",
   "image": "assets/cards/ace-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Át Gậy là hạt giống thuần khiết của nguyên tố Lửa: tia cảm hứng, đam mê, ý chí sống và khát khao tạo ra điều gì đó. Đó là khoảnh khắc một ý tưởng bừng lên khiến bạn hào hứng muốn bắt tay vào ngay.",
+    "Mọi lá Át đều là \"món quà\" được trao từ một bàn tay trong đám mây — một cơ hội đến từ bên ngoài hoặc từ cảm hứng bất chợt. Át Gậy mở đầu câu chuyện của bộ Gậy: từ một tia lửa nhỏ, qua lập kế hoạch (2), mở rộng (3), ăn mừng (4), cạnh tranh (5)… cho đến khi ngọn lửa trở thành gánh nặng (10).",
+    "Trong trải bài, Át Gậy báo hiệu khởi đầu một dự án, công việc, sở thích hay mối tình đầy nhiệt huyết. Lá khuyên hành động khi cảm hứng còn nóng. Hạt giống chỉ là tiềm năng — nếu không được chăm sóc, nó sẽ tắt. Khi ra ngược, lá nói về sự trì hoãn, ý tưởng chưa chín, hoặc mất động lực."
+  ],
+  "reflection": [
+    "Ý tưởng nào đang khiến tôi thấy hào hứng nhất?",
+    "Bước nhỏ đầu tiên tôi có thể làm ngay hôm nay là gì?",
+    "Điều gì có thể dập tắt ngọn lửa này nếu tôi không chú ý?"
+  ]
 }

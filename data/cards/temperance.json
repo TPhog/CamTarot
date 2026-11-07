@@ -23,23 +23,35 @@
       "Xung đột"
     ]
   },
-  "imagery": "Thiên thần có cánh đứng một chân trên đất, một chân dưới nước, rót nước qua lại giữa hai chiếc cốc. Một con đường dẫn đến ngọn núi có vầng sáng như vương miện.",
+  "imagery": "Một thiên thần với đôi cánh đỏ, mặc áo dài trắng, đứng một chân trong hồ nước, một chân trên bờ đất. Thiên thần chăm chú rót nước từ chiếc cốc vàng này sang chiếc cốc vàng kia — dòng nước chảy chéo một cách khó tin. Trên ngực áo là hình tam giác nằm trong hình vuông; trên trán là biểu tượng mặt trời. Bên bờ hồ mọc những khóm hoa diên vĩ (iris). Một con đường dẫn từ hồ lên phía hai ngọn núi, nơi có vầng sáng như chiếc vương miện.",
   "symbols": [
     {
       "name": "Rót nước giữa hai cốc",
-      "meaning": "Pha trộn các yếu tố đối lập để tạo sự hài hòa."
+      "meaning": "Pha trộn các yếu tố đối lập (ý thức/vô thức, tinh thần/vật chất) thành sự hài hòa."
     },
     {
       "name": "Một chân đất, một chân nước",
       "meaning": "Cân bằng giữa thực tế và cảm xúc."
     },
     {
-      "name": "Tam giác trên ngực",
-      "meaning": "Tinh thần được neo trong vật chất."
+      "name": "Tam giác trong hình vuông",
+      "meaning": "Tinh thần (tam giác) được neo vững trong vật chất (hình vuông)."
+    },
+    {
+      "name": "Hoa diên vĩ",
+      "meaning": "Iris — nữ thần cầu vồng, sứ giả nối trời và đất; hy vọng."
     },
     {
       "name": "Con đường lên núi",
-      "meaning": "Hành trình dài hướng tới mục đích cao hơn."
+      "meaning": "Hành trình dài hướng tới mục đích cao hơn, cần kiên nhẫn."
+    },
+    {
+      "name": "Vầng sáng trên núi",
+      "meaning": "Sự giác ngộ, phần thưởng ở cuối con đường điều độ."
+    },
+    {
+      "name": "Đôi cánh đỏ",
+      "meaning": "Năng lượng sống, Lửa được dung hòa với Nước."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Đứng sau Cái Chết (13): sau thay đổi lớn là giai đoạn chữa lành và cân bằng lại.",
   "image": "assets/cards/temperance.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tiết Chế là lá bài của sự cân bằng, điều độ và hòa hợp. Thiên thần rót nước qua lại giữa hai chiếc cốc, pha trộn các yếu tố đối lập để tạo ra một thứ mới hài hòa. Đây là nghệ thuật của \"vừa đủ\": không quá nhiều, không quá ít, kiên nhẫn để mọi thứ hòa quyện đúng liều lượng.",
+    "Là số 14, Tiết Chế khép lại hàng thứ hai của Ẩn Chính (8–14). Sau sự chuyển hóa dữ dội của Cái Chết, Chàng Khờ bước vào giai đoạn chữa lành và tái thiết cân bằng. Cung Nhân Mã gắn với lá mang ý nghĩa hành trình tìm ý nghĩa và mục đích cao hơn — con đường phía sau thiên thần dẫn lên núi. Trong giả kim thuật, lá này tượng trưng cho quá trình pha trộn để tinh luyện.",
+    "Trong trải bài, Tiết Chế khuyên kiên nhẫn, điều độ, tìm điểm giữa giữa các thái cực; báo hiệu sự hồi phục, hòa giải, hợp tác tốt. Đây cũng là lá tốt cho sức khỏe. Khi ra ngược, lá cho thấy sự thái quá ở đâu đó (làm việc, ăn uống, chi tiêu, cảm xúc), nóng vội, xung đột, hoặc mất cân bằng giữa các phần của cuộc sống."
+  ],
+  "reflection": [
+    "Phần nào trong cuộc sống của tôi đang mất cân bằng?",
+    "Tôi có đang nóng vội muốn kết quả ngay?",
+    "Hai điều tưởng đối lập nào tôi có thể kết hợp với nhau?"
+  ]
 }

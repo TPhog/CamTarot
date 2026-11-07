@@ -21,8 +21,33 @@
       "Thiếu rõ ràng"
     ]
   },
-  "imagery": "Bàn tay từ mây nắm chặt thanh kiếm dựng thẳng, đỉnh kiếm xuyên qua chiếc vương miện có cành ô liu và lá cọ.",
-  "symbols": [],
+  "imagery": "Từ đám mây xám bên phải, một bàn tay tỏa sáng nắm chặt thanh kiếm dựng thẳng đứng. Mũi kiếm xuyên qua một chiếc vương miện vàng, từ vương miện rủ xuống một cành ô liu và một cành cọ. Sáu giọt sáng hình chữ Yod rơi xung quanh. Bên dưới là những ngọn núi đá xám nhọn, khô cằn.",
+  "symbols": [
+    {
+      "name": "Kiếm dựng thẳng",
+      "meaning": "Sự thật, công lý, tư duy rõ ràng hướng lên."
+    },
+    {
+      "name": "Vương miện",
+      "meaning": "Chiến thắng của trí tuệ; quyền làm chủ tâm trí."
+    },
+    {
+      "name": "Cành ô liu",
+      "meaning": "Hòa bình, lòng khoan dung."
+    },
+    {
+      "name": "Cành cọ",
+      "meaning": "Chiến thắng — nhưng cũng là sự khắc nghiệt; trí tuệ cần cả hai."
+    },
+    {
+      "name": "Núi đá khô cằn",
+      "meaning": "Lý trí thuần túy, lạnh lùng, thiếu cảm xúc; thử thách phía trước."
+    },
+    {
+      "name": "Giọt Yod",
+      "meaning": "Ân sủng thiêng liêng, cảm hứng từ trên cao."
+    }
+  ],
   "upright": {
     "general": "Một ý tưởng sắc bén, sự thật được làm sáng tỏ, hoặc khả năng nhìn rõ vấn đề. Đây là lúc đưa ra quyết định dứt khoát.",
     "love": "Nói thẳng sự thật; mối quan hệ cần sự rõ ràng.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Kiếm = Khí = trí tuệ, lời nói, sự thật. Át Kiếm = một ý tưởng sắc như dao.",
   "image": "assets/cards/ace-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Át Kiếm là hạt giống của nguyên tố Khí: sự rõ ràng của tâm trí, một ý tưởng sắc bén, sự thật được làm sáng tỏ. Thanh kiếm dựng thẳng xuyên qua vương miện — đó là khoảnh khắc \"à, mình hiểu rồi\", khi mọi mây mù tan đi.",
+    "Át Kiếm mở đầu câu chuyện của bộ Kiếm — bộ của tư duy, lời nói và xung đột. Đây là bộ có nhiều lá khó khăn nhất, vì tâm trí vừa giúp ta nhìn rõ, vừa có thể gây tổn thương (cho người khác và chính mình). Thanh kiếm hai lưỡi nhắc rằng sự thật cần được dùng một cách khôn ngoan.",
+    "Trong trải bài, Át Kiếm báo hiệu đột phá tư duy, quyết định dứt khoát, giao tiếp rõ ràng, chiến thắng nhờ lý lẽ, hoặc sự thật được nói ra. Lá khuyên nghĩ và nói rõ ràng. Khi ra ngược, lá cho thấy suy nghĩ rối loạn, thông tin sai lệch, hoặc dùng lời nói để làm tổn thương."
+  ],
+  "reflection": [
+    "Sự thật nào tôi cần nhìn thẳng vào?",
+    "Điều gì cần được nói ra một cách rõ ràng?",
+    "Tôi có đang dùng lý lẽ để soi sáng hay để làm tổn thương?"
+  ]
 }

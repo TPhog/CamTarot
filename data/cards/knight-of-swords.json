@@ -21,8 +21,29 @@
       "Thiếu suy nghĩ"
     ]
   },
-  "imagery": "Hiệp sĩ vung kiếm lao như bay trên ngựa trắng phi nước đại, mây và cây bị gió quật.",
-  "symbols": [],
+  "imagery": "Một hiệp sĩ mặc giáp, khoác áo choàng đỏ, giơ cao thanh kiếm, cưỡi con ngựa trắng đang phi nước đại. Bộ yên cương của ngựa trang trí hình bướm và chim. Gió thổi mạnh làm mây và cây cối nghiêng ngả, vài con chim bay hỗn loạn trên trời.",
+  "symbols": [
+    {
+      "name": "Ngựa phi nước đại",
+      "meaning": "Tốc độ, sự vội vàng, lao về phía trước bất chấp."
+    },
+    {
+      "name": "Kiếm giơ cao",
+      "meaning": "Quyết tâm, sẵn sàng chiến đấu cho ý tưởng của mình."
+    },
+    {
+      "name": "Bướm và chim trên yên cương",
+      "meaning": "Nguyên tố Khí, tư duy, sự chuyển hóa."
+    },
+    {
+      "name": "Gió quật cây",
+      "meaning": "Năng lượng mạnh mẽ, có thể gây xáo trộn xung quanh."
+    },
+    {
+      "name": "Áo choàng đỏ",
+      "meaning": "Đam mê, tham vọng."
+    }
+  ],
   "upright": {
     "general": "Hành động nhanh, quyết liệt để đạt mục tiêu. Năng lượng mạnh mẽ nhưng cần định hướng.",
     "love": "Người thẳng thắn, đôi khi vội vàng.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Hiệp Sĩ Kiếm là hiệp sĩ nhanh nhất — lao như gió.",
   "image": "assets/cards/knight-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hiệp Sĩ Kiếm là năng lượng hành động quyết liệt, nhanh như gió. Anh vung kiếm lao về phía trước trên con ngựa trắng phi nước đại, ngược chiều gió — đầy tham vọng, thẳng thắn và không gì cản nổi.",
+    "Hiệp Sĩ Kiếm là Lửa của Khí: tư duy được đẩy vào hành động với tốc độ tối đa. Anh là người dám nói, dám làm, theo đuổi mục tiêu với sự tập trung cao độ — nhưng thường không dừng lại để nghĩ về hậu quả hay cảm xúc của người khác.",
+    "Trong trải bài, Hiệp Sĩ Kiếm báo hiệu hành động nhanh và dứt khoát, theo đuổi mục tiêu quyết liệt, tranh luận, một người thẳng thắn đến mức thô. Lá khuyên hành động dứt khoát nhưng nghĩ trước khi nói. Khi ra ngược, lá cho thấy sự hấp tấp, hung hăng, nói lời làm tổn thương, quyết định vội vàng."
+  ],
+  "reflection": [
+    "Tôi đang lao về phía mục tiêu nào?",
+    "Tôi có đang bỏ qua cảm xúc của người khác vì quá vội?",
+    "Điều gì tôi nên nghĩ kỹ trước khi nói ra?"
+  ]
 }

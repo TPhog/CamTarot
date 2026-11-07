@@ -21,8 +21,29 @@
       "Cô lập"
     ]
   },
-  "imagery": "Ba người phụ nữ nâng cốc nhảy múa giữa vườn trái cây chín.",
-  "symbols": [],
+  "imagery": "Ba người phụ nữ mặc áo dài nhiều màu (trắng, đỏ, cam), đầu đội vòng hoa, đứng thành vòng tròn và cùng giơ cao những chiếc cốc vàng như đang nâng ly chúc mừng và nhảy múa. Dưới chân họ là mùa màng bội thu: bí ngô, nho và trái cây chín mọng.",
+  "symbols": [
+    {
+      "name": "Nâng cốc chúc mừng",
+      "meaning": "Niềm vui được chia sẻ, sự ăn mừng thành công chung."
+    },
+    {
+      "name": "Vòng tròn ba người",
+      "meaning": "Tình bạn, sự gắn kết, cộng đồng hỗ trợ lẫn nhau."
+    },
+    {
+      "name": "Trái cây bội thu",
+      "meaning": "Thành quả, sự sung túc, thời điểm thu hoạch."
+    },
+    {
+      "name": "Vòng hoa trên đầu",
+      "meaning": "Lễ hội, sự vui tươi."
+    },
+    {
+      "name": "Nhảy múa",
+      "meaning": "Niềm vui hồn nhiên, tự do thể hiện cảm xúc."
+    }
+  ],
   "upright": {
     "general": "Thời điểm ăn mừng cùng bạn bè, niềm vui của cộng đồng và sự hỗ trợ lẫn nhau.",
     "love": "Gặp gỡ qua bạn bè; tiệc tùng vui vẻ.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 3 = sự phát triển. Ba người nâng cốc = \"ba chị em bạn thân\".",
   "image": "assets/cards/three-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ba Cốc là lá của tình bạn, niềm vui cộng đồng và sự ăn mừng. Ba người phụ nữ nâng cốc nhảy múa giữa khu vườn bội thu — niềm hạnh phúc được nhân lên khi được chia sẻ với những người thân thiết.",
+    "Số 3 là sự phát triển. Từ mối quan hệ đôi lứa của Hai Cốc, cảm xúc giờ mở rộng ra một nhóm người. Ba người phụ nữ đôi khi được liên tưởng đến ba nữ thần Duyên Dáng trong thần thoại Hy Lạp — hiện thân của niềm vui, sự rực rỡ và sung túc.",
+    "Trong trải bài, Ba Cốc báo hiệu tiệc tùng, đoàn tụ, đám cưới, sự ủng hộ từ bạn bè, làm việc nhóm vui vẻ. Lá khuyên dành thời gian cho những người bạn thương. Khi ra ngược, lá có thể chỉ tiệc tùng quá đà, buôn chuyện, người thứ ba xen vào, hoặc cảm giác bị bỏ rơi khỏi nhóm."
+  ],
+  "reflection": [
+    "Ai là những người luôn ở bên tôi lúc vui lẫn lúc buồn?",
+    "Lần cuối tôi thật sự vui vẻ cùng bạn bè là khi nào?",
+    "Tôi có đang góp phần vào niềm vui của cộng đồng mình?"
+  ]
 }

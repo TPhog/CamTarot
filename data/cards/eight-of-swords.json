@@ -21,8 +21,29 @@
       "Nhìn rõ lối thoát"
     ]
   },
-  "imagery": "Người phụ nữ bị trói và bịt mắt đứng giữa tám thanh kiếm cắm xung quanh, nhưng lối đi vẫn mở.",
-  "symbols": [],
+  "imagery": "Một người phụ nữ mặc áo đỏ, thân trên bị quấn dây vải, mắt bị bịt kín, đứng trên vùng đất lầy lội có những vũng nước. Tám thanh kiếm cắm xuống đất xung quanh cô, nhưng không bao kín — phía trước vẫn có lối đi. Xa xa phía sau là một tòa lâu đài trên vách đá.",
+  "symbols": [
+    {
+      "name": "Khăn bịt mắt",
+      "meaning": "Không nhìn thấy lối thoát; nhận thức bị che khuất."
+    },
+    {
+      "name": "Dây trói lỏng",
+      "meaning": "Sự ràng buộc không chặt như cô nghĩ — cô có thể tự tháo."
+    },
+    {
+      "name": "Tám kiếm không vây kín",
+      "meaning": "Những giới hạn do suy nghĩ tạo ra; lối thoát vẫn mở."
+    },
+    {
+      "name": "Đất lầy",
+      "meaning": "Cảm giác sa lầy, khó di chuyển; cảm xúc ứ đọng."
+    },
+    {
+      "name": "Lâu đài phía xa",
+      "meaning": "Sự an toàn, quyền lực — điều cô có thể quay về nếu bước đi."
+    }
+  ],
   "upright": {
     "general": "Bạn cảm thấy bị mắc kẹt, bất lực — nhưng phần lớn giới hạn đến từ suy nghĩ của chính bạn. Lối thoát vẫn còn đó.",
     "love": "Cảm thấy bị ràng buộc trong mối quan hệ.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Dây trói lỏng, kiếm không bao kín = \"nhà tù do chính mình dựng\".",
   "image": "assets/cards/eight-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tám Kiếm là lá của cảm giác bị mắc kẹt và bất lực. Người phụ nữ bị trói, bịt mắt, đứng giữa tám thanh kiếm — nhưng nhìn kỹ, dây trói lỏng, các thanh kiếm không vây kín, và cô hoàn toàn có thể bước ra.",
+    "Số 8 là sự làm chủ, nhưng trong bộ Kiếm, đó là lúc tâm trí tự dựng nhà tù cho mình. Giới hạn chủ yếu đến từ suy nghĩ: \"mình không có lựa chọn\", \"mình không làm được\". Lá này có liên hệ với Ác Quỷ — sự ràng buộc là do niềm tin, không phải do thực tế.",
+    "Trong trải bài, Tám Kiếm cho thấy cảm giác bị mắc kẹt trong công việc, mối quan hệ hay hoàn cảnh, tự giới hạn bản thân, sợ hãi. Lá khuyên tháo khăn bịt mắt: thay đổi cách nghĩ, tìm sự giúp đỡ, lối thoát vẫn còn đó. Khi ra ngược, lá cho thấy bạn đang nhận ra mình có thể tự giải thoát và bắt đầu hành động."
+  ],
+  "reflection": [
+    "Niềm tin nào đang khiến tôi thấy mình bị mắc kẹt?",
+    "Nếu tháo khăn bịt mắt, tôi sẽ thấy những lựa chọn nào?",
+    "Ai có thể giúp tôi bước ra?"
+  ]
 }

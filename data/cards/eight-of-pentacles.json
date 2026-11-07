@@ -21,8 +21,29 @@
       "Làm qua loa"
     ]
   },
-  "imagery": "Người thợ ngồi chăm chú khắc đồng tiền, những đồng tiền đã hoàn thành treo trên cây cột.",
-  "symbols": [],
+  "imagery": "Một người thợ trẻ mặc tạp dề ngồi trên ghế dài, tay cầm búa và đục, chăm chú khắc hình ngôi sao lên một đồng tiền. Sáu đồng tiền đã hoàn thành được treo dọc trên một cây cột gỗ bên cạnh, một đồng khác đặt dưới đất. Xa xa phía sau, con đường dẫn về một thị trấn nhỏ.",
+  "symbols": [
+    {
+      "name": "Khắc từng đồng tiền",
+      "meaning": "Sự tỉ mỉ, chú tâm vào chi tiết."
+    },
+    {
+      "name": "Những đồng tiền đã hoàn thành",
+      "meaning": "Thành quả của sự kiên trì; tiến bộ có thể nhìn thấy."
+    },
+    {
+      "name": "Tạp dề và dụng cụ",
+      "meaning": "Người học nghề, sự lao động chân chính."
+    },
+    {
+      "name": "Thị trấn phía xa",
+      "meaning": "Tạm tách khỏi xã hội để tập trung."
+    },
+    {
+      "name": "Ánh mắt chăm chú",
+      "meaning": "Sự chuyên tâm, đắm mình trong công việc."
+    }
+  ],
   "upright": {
     "general": "Sự chăm chỉ và tận tâm trau dồi tay nghề. Bạn đang trở thành chuyên gia trong lĩnh vực của mình.",
     "love": "Nỗ lực vun đắp mối quan hệ.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Người thợ khắc từng đồng tiền = \"thợ học nghề chăm chỉ\".",
   "image": "assets/cards/eight-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tám Tiền là lá của sự chăm chỉ, chuyên tâm và rèn luyện tay nghề. Người thợ ngồi cặm cụi khắc từng đồng tiền, những đồng đã hoàn thành được treo lên trưng bày — mỗi đồng là một bước tiến trên con đường trở thành bậc thầy.",
+    "Số 8 là sự làm chủ thông qua rèn luyện. Sau khi đánh giá ở Bảy Tiền, người hỏi quyết định tập trung vào việc làm tốt hơn mỗi ngày. Thị trấn phía xa cho thấy anh tạm tách khỏi xã hội để dồn hết tâm sức vào công việc.",
+    "Trong trải bài, Tám Tiền báo hiệu học nghề, đào tạo, rèn luyện kỹ năng, làm việc chăm chỉ và tỉ mỉ; tiền đến từ sự cần cù. Lá khuyên tập trung trau dồi kỹ năng mỗi ngày. Khi ra ngược, lá cho thấy cầu toàn thái quá, làm qua loa, thiếu động lực, hoặc công việc nhàm chán lặp lại."
+  ],
+  "reflection": [
+    "Kỹ năng nào tôi muốn rèn luyện đến mức thành thạo?",
+    "Tôi có tìm thấy niềm vui trong quá trình, hay chỉ chờ kết quả?",
+    "Hôm nay tôi có thể làm tốt hơn hôm qua một chút ở điểm nào?"
+  ]
 }

@@ -21,8 +21,33 @@
       "Lương tâm"
     ]
   },
-  "imagery": "Người đàn ông rón rén ôm năm thanh kiếm rời khỏi trại, ngoái lại nhìn; hai thanh còn lại cắm phía sau.",
-  "symbols": [],
+  "imagery": "Một người đàn ông đội mũ đỏ, đi nhón chân, ôm năm thanh kiếm trong tay và rời khỏi một khu trại có nhiều lều vải sặc sỡ. Anh ngoái đầu nhìn lại với nụ cười ranh mãnh. Hai thanh kiếm khác vẫn cắm thẳng trên đất phía sau. Xa xa trong trại có vài người lính. Nền trời vàng.",
+  "symbols": [
+    {
+      "name": "Đi nhón chân",
+      "meaning": "Lén lút, không muốn bị phát hiện."
+    },
+    {
+      "name": "Ngoái nhìn lại",
+      "meaning": "Sự lo lắng bị bắt gặp; lương tâm cắn rứt."
+    },
+    {
+      "name": "Năm kiếm trong tay",
+      "meaning": "Lấy đi thứ không thuộc về mình; mang nhiều hơn mức có thể giữ."
+    },
+    {
+      "name": "Hai kiếm bỏ lại",
+      "meaning": "Kế hoạch chưa hoàn hảo; điều gì đó bị bỏ sót."
+    },
+    {
+      "name": "Khu trại",
+      "meaning": "Cộng đồng, tập thể — nơi hành động này đi ngược lại."
+    },
+    {
+      "name": "Nụ cười ranh mãnh",
+      "meaning": "Sự tự tin rằng mình thông minh hơn người khác."
+    }
+  ],
   "upright": {
     "general": "Có điều gì đó lén lút, không minh bạch — có thể là người khác hoặc chính bạn. Cũng có thể là dùng chiến lược khéo léo.",
     "love": "Có sự giấu giếm, không trung thực.",
@@ -38,5 +63,15 @@
   "yesNo": "Không",
   "memoryTip": "Người ôm kiếm rón rén = \"kẻ trộm trong trại\".",
   "image": "assets/cards/seven-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Bảy Kiếm là lá của sự lén lút, mưu mẹo và không minh bạch. Người đàn ông rón rén ôm năm thanh kiếm rời khỏi trại, ngoái lại nhìn — anh đang lấy đi thứ không thuộc về mình, hoặc đang cố thoát khỏi tình huống mà không phải đối mặt.",
+    "Số 7 là thử thách, đánh giá. Trong bộ Kiếm, thử thách là sự trung thực. Lá có hai mặt: có thể là lừa dối và gian lận, nhưng cũng có thể là chiến lược khéo léo, hành động độc lập. Lưu ý anh để lại hai thanh kiếm — kế hoạch chưa trọn vẹn.",
+    "Trong trải bài, Bảy Kiếm cảnh báo có ai đó (hoặc chính bạn) không thành thật, giấu giếm, đi đường tắt; cũng có thể khuyên dùng chiến lược thay vì đối đầu trực diện. Khi ra ngược, lá cho thấy sự thật bị phát hiện, lương tâm lên tiếng, hoặc mong muốn thú nhận."
+  ],
+  "reflection": [
+    "Ở đâu tôi đang không hoàn toàn trung thực?",
+    "Tôi có đang cố đi đường tắt để né tránh trách nhiệm?",
+    "Có ai quanh tôi không như vẻ ngoài?"
+  ]
 }

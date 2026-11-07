@@ -21,8 +21,29 @@
       "Vượt qua nỗi đau"
     ]
   },
-  "imagery": "Một trái tim đỏ bị ba thanh kiếm đâm xuyên giữa bầu trời mưa giông.",
-  "symbols": [],
+  "imagery": "Một trái tim lớn màu đỏ lơ lửng giữa không trung, bị ba thanh kiếm đâm xuyên từ trên xuống, chéo nhau. Phía sau là những đám mây xám nặng nề và những hạt mưa xiên chéo rơi xuống. Không có nhân vật nào.",
+  "symbols": [
+    {
+      "name": "Trái tim đỏ",
+      "meaning": "Cảm xúc, tình yêu — trung tâm của nỗi đau."
+    },
+    {
+      "name": "Ba thanh kiếm",
+      "meaning": "Lời nói, sự thật, suy nghĩ gây tổn thương; thường gợi đến mối quan hệ tay ba."
+    },
+    {
+      "name": "Mưa giông",
+      "meaning": "Nước mắt, nỗi buồn; nhưng mưa cũng gột rửa và nuôi dưỡng."
+    },
+    {
+      "name": "Mây xám",
+      "meaning": "Giai đoạn u ám, nặng nề."
+    },
+    {
+      "name": "Không có người",
+      "meaning": "Nỗi đau mang tính phổ quát; ai cũng từng trải qua."
+    }
+  ],
   "upright": {
     "general": "Nỗi đau, sự tổn thương hoặc thất vọng. Đây là cảm xúc cần được thừa nhận để chữa lành.",
     "love": "Tan vỡ, phản bội, người thứ ba.",
@@ -38,5 +59,15 @@
   "yesNo": "Không",
   "memoryTip": "Một trong những lá dễ nhớ nhất: trái tim bị ba kiếm đâm = \"đau lòng\".",
   "image": "assets/cards/three-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ba Kiếm là lá của nỗi đau lòng: tổn thương, mất mát, phản bội, chia ly. Hình ảnh trái tim bị ba thanh kiếm đâm xuyên giữa trời mưa giông là một trong những hình ảnh dễ hiểu nhất của bộ bài.",
+    "Số 3 thường là sự phát triển, nhưng trong bộ Kiếm, điều \"phát triển\" là sự thật đau lòng. Sau sự né tránh của Hai Kiếm, sự thật cuối cùng đến và làm tổn thương. Lá nhắc rằng nỗi đau thường đến từ lời nói, suy nghĩ, sự thật — chứ không phải vết thương thể xác.",
+    "Trong trải bài, Ba Kiếm cho thấy đổ vỡ tình cảm, người thứ ba, lời nói gây tổn thương, thất vọng hoặc đau buồn. Lá khuyên thừa nhận và cho phép mình đau — đó là bước đầu của chữa lành. Khi ra ngược, lá cho thấy quá trình chữa lành, tha thứ và buông bỏ nỗi đau đang diễn ra."
+  ],
+  "reflection": [
+    "Nỗi đau nào tôi cần thừa nhận thay vì chôn giấu?",
+    "Tôi có đang tự làm mình đau thêm bằng những suy nghĩ lặp đi lặp lại?",
+    "Điều gì giúp tôi chữa lành?"
+  ]
 }

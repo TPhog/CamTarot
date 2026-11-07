@@ -23,23 +23,35 @@
       "Bỏ bê bản thân"
     ]
   },
-  "imagery": "Hoàng Hậu ngồi thư thái trên ngai êm giữa cánh đồng lúa mì chín vàng và rừng cây, dòng suối chảy phía sau. Bà đội vương miện 12 ngôi sao, chiếc khiên bên cạnh mang biểu tượng sao Kim.",
+  "imagery": "Một người phụ nữ đầy đặn ngồi thư thái trên những chiếc gối đỏ êm ái giữa thiên nhiên. Bà đội vương miện gắn mười hai ngôi sao, mặc áo dài trắng in hình quả lựu, tay phải cầm quyền trượng có quả cầu trên đỉnh. Bên cạnh là chiếc khiên hình trái tim khắc biểu tượng sao Kim (♀). Trước mặt là cánh đồng lúa mì chín vàng; phía sau là rừng cây bách xanh thẫm và một dòng thác nhỏ đổ xuống thành suối.",
   "symbols": [
     {
-      "name": "Đồng lúa chín",
-      "meaning": "Mùa màng bội thu, kết quả của sự chăm sóc."
-    },
-    {
       "name": "Vương miện 12 sao",
-      "meaning": "12 cung hoàng đạo, sự hòa hợp với chu kỳ tự nhiên."
+      "meaning": "12 cung hoàng đạo, 12 tháng: bà hòa nhịp với chu kỳ tự nhiên của vũ trụ."
     },
     {
       "name": "Biểu tượng sao Kim",
-      "meaning": "Tình yêu, cái đẹp, nữ tính."
+      "meaning": "Tình yêu, sắc đẹp, nữ tính, khoái cảm và sự hòa hợp."
     },
     {
-      "name": "Dòng suối",
-      "meaning": "Cảm xúc tuôn chảy, sự sống được nuôi dưỡng."
+      "name": "Cánh đồng lúa chín",
+      "meaning": "Mùa màng bội thu — kết quả của sự gieo trồng và chăm sóc kiên nhẫn."
+    },
+    {
+      "name": "Áo in quả lựu",
+      "meaning": "Sự phong nhiêu, nhiều hạt giống, khả năng sinh sôi."
+    },
+    {
+      "name": "Thác nước và dòng suối",
+      "meaning": "Cảm xúc tuôn chảy tự do, sự sống được nuôi dưỡng liên tục."
+    },
+    {
+      "name": "Rừng cây bách",
+      "meaning": "Sức sống bền bỉ, sự che chở của thiên nhiên."
+    },
+    {
+      "name": "Gối đỏ êm ái",
+      "meaning": "Sự thoải mái, tận hưởng vật chất, kết nối với cơ thể."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 3 = sự sinh sôi (1 + 2 tạo ra cái mới). Hãy nghĩ đến hình ảnh người mẹ và Mẹ Thiên Nhiên.",
   "image": "assets/cards/the-empress.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hoàng Hậu là nguyên mẫu của người mẹ và của thiên nhiên: sự sinh sôi, nuôi dưỡng, cái đẹp, khoái cảm của các giác quan. Lá bài nói về những gì được vun trồng rồi nảy nở — một đứa trẻ, một dự án, một mối quan hệ, hay chính cơ thể và tâm hồn bạn. Năng lượng của bà mềm mại nhưng mạnh mẽ, như đất mẹ cho mọi thứ mọc lên.",
+    "Là số 3, Hoàng Hậu là sự kết hợp của 1 (Nhà Ảo Thuật – hành động) và 2 (Nữ Tư Tế – tiếp nhận) để tạo ra cái mới. Nếu Nữ Tư Tế là trinh nữ hướng nội, thì Hoàng Hậu là người mẹ hướng ra cuộc sống. Bà đi cặp với Hoàng Đế (số 4): bà nuôi dưỡng và để mọi thứ phát triển tự nhiên, ông tạo cấu trúc và bảo vệ.",
+    "Trong trải bài, Hoàng Hậu thường mang tin tốt về sự phát triển, sung túc, sáng tạo; trong câu hỏi về gia đình có thể nói đến mang thai hoặc chăm sóc con cái. Lá cũng nhắc bạn chăm sóc bản thân, kết nối với thiên nhiên và tận hưởng cuộc sống. Khi ra ngược, hãy nhìn vào sự mất cân bằng trong việc cho đi: chăm sóc người khác quá mức, ngột ngạt, hoặc bỏ bê chính mình, hay bế tắc sáng tạo."
+  ],
+  "reflection": [
+    "Điều gì trong cuộc sống tôi đang cần được nuôi dưỡng?",
+    "Tôi đã chăm sóc bản thân như cách tôi chăm sóc người khác chưa?",
+    "Lần gần nhất tôi thật sự tận hưởng một điều giản dị là khi nào?"
+  ]
 }

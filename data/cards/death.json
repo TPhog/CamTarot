@@ -23,23 +23,35 @@
       "Chuyển hóa dang dở"
     ]
   },
-  "imagery": "Bộ xương trong áo giáp đen cưỡi ngựa trắng, cầm lá cờ đen in bông hồng trắng. Trước mặt, vua đã ngã, người khác cầu xin; xa xa mặt trời mọc giữa hai tòa tháp.",
+  "imagery": "Thần Chết dưới dạng một bộ xương mặc áo giáp đen, đội mũ cắm lông đỏ, cưỡi con ngựa trắng đang bước tới. Tay cầm lá cờ đen in bông hồng trắng năm cánh. Dưới chân ngựa, một vị vua đã ngã xuống, vương miện rơi. Một giáo sĩ đội mũ mitre đứng chắp tay cầu xin; một thiếu nữ quỳ quay mặt đi; một đứa trẻ ngây thơ nhìn lên. Phía sau là dòng sông có con thuyền, xa xa mặt trời mọc giữa hai tòa tháp.",
   "symbols": [
     {
+      "name": "Bộ xương",
+      "meaning": "Phần còn lại khi mọi thứ tạm bợ đã mất; sự thật trần trụi không thể tránh."
+    },
+    {
+      "name": "Áo giáp đen",
+      "meaning": "Sự bất khả xâm phạm của cái chết và thay đổi."
+    },
+    {
       "name": "Bông hồng trắng năm cánh",
-      "meaning": "Sự sống và tái sinh ẩn trong cái chết."
+      "meaning": "Sự sống, sự thuần khiết và tái sinh ẩn trong kết thúc."
     },
     {
       "name": "Ngựa trắng",
-      "meaning": "Sự thuần khiết của chuyển hóa."
+      "meaning": "Sự thuần khiết của quá trình chuyển hóa."
     },
     {
-      "name": "Mặt trời mọc",
-      "meaning": "Sau đêm tối là bình minh mới."
+      "name": "Vua ngã, giáo sĩ, thiếu nữ, trẻ em",
+      "meaning": "Mọi tầng lớp đều phải đối diện thay đổi; mỗi người phản ứng khác nhau: chống cự, cầu xin, né tránh, chấp nhận."
     },
     {
-      "name": "Người ở mọi tầng lớp",
-      "meaning": "Thay đổi đến với tất cả, không ai tránh được."
+      "name": "Mặt trời mọc giữa hai tháp",
+      "meaning": "Bình minh mới sau đêm tối; hai tòa tháp này xuất hiện lại ở lá Mặt Trăng."
+    },
+    {
+      "name": "Dòng sông và con thuyền",
+      "meaning": "Dòng chảy của sự sống; con thuyền đưa linh hồn sang bờ bên kia."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 13 không phải \"xui\" — nó là cánh cửa khép lại để cánh khác mở ra. Nhớ: \"Cái Chết = Chuyển Hóa\".",
   "image": "assets/cards/death.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Cái Chết là một trong những lá bị hiểu lầm nhiều nhất. Nó gần như không bao giờ nói về cái chết thể xác, mà về sự kết thúc và chuyển hóa: một giai đoạn khép lại để giai đoạn mới bắt đầu. Như mùa đông trước mùa xuân, sự kết thúc là một phần tự nhiên và cần thiết của sự sống.",
+    "Là số 13, lá nằm sau Người Treo Ngược: sau khi đã buông bỏ, Chàng Khờ trải qua sự \"chết đi\" của con người cũ. Cung Bọ Cạp gắn với lá là cung của tái sinh và chuyển hóa sâu sắc. Hình ảnh mọi tầng lớp — vua, giáo sĩ, thiếu nữ, trẻ em — trước bộ xương cho thấy thay đổi đến với tất cả, không ai tránh được. Nhưng ở chân trời, mặt trời vẫn mọc.",
+    "Trong trải bài, Cái Chết báo hiệu kết thúc một mối quan hệ, công việc, thói quen hay niềm tin để mở đường cho điều mới. Lá khuyên chấp nhận và để cái cũ ra đi. Người mới nên tránh đọc lá này theo nghĩa đen hoặc gây sợ hãi cho người khác. Khi ra ngược, lá cho thấy sự kháng cự thay đổi, níu kéo điều đã hết, khiến mọi thứ trì trệ."
+  ],
+  "reflection": [
+    "Điều gì trong đời tôi đã đến lúc kết thúc?",
+    "Tôi đang níu kéo điều gì vì sợ khoảng trống phía sau?",
+    "Phiên bản mới của tôi sẽ ra sao khi cái cũ ra đi?"
+  ]
 }

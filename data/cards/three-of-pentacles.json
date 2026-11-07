@@ -21,8 +21,33 @@
       "Không được ghi nhận"
     ]
   },
-  "imagery": "Người thợ đá đứng trên ghế làm việc trong nhà thờ, trao đổi với hai người cầm bản vẽ.",
-  "symbols": [],
+  "imagery": "Bên trong một nhà thờ có mái vòm, một người thợ đá trẻ đứng trên chiếc ghế dài, tay cầm dụng cụ, quay lại trao đổi với hai người bên dưới: một tu sĩ mặc áo choàng và một người ăn mặc sang trọng cầm tờ bản vẽ. Phía trên mái vòm là ba đồng tiền được chạm khắc theo hình tam giác.",
+  "symbols": [
+    {
+      "name": "Người thợ đá",
+      "meaning": "Kỹ năng, tay nghề, người thực hiện."
+    },
+    {
+      "name": "Tu sĩ và kiến trúc sư",
+      "meaning": "Tinh thần (ý nghĩa) và kế hoạch (thiết kế) — ba vai trò cùng phối hợp."
+    },
+    {
+      "name": "Bản vẽ",
+      "meaning": "Kế hoạch, sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "name": "Nhà thờ",
+      "meaning": "Công trình có ý nghĩa lâu dài, vượt qua lợi ích cá nhân."
+    },
+    {
+      "name": "Ba đồng tiền hình tam giác",
+      "meaning": "Sự hòa hợp: thân – tâm – trí, hoặc ba người cùng làm."
+    },
+    {
+      "name": "Đứng trên ghế",
+      "meaning": "Được nâng lên nhờ kỹ năng của mình."
+    }
+  ],
   "upright": {
     "general": "Thành công nhờ hợp tác và kỹ năng. Công sức của bạn được người khác công nhận.",
     "love": "Cùng nhau xây dựng mối quan hệ.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Ba người cùng xây nhà thờ = \"làm việc nhóm\".",
   "image": "assets/cards/three-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Ba Tiền là lá của sự hợp tác, kỹ năng và làm việc nhóm. Người thợ đá đứng trên ghế trong nhà thờ, trao đổi với tu sĩ và kiến trúc sư đang cầm bản vẽ — mỗi người góp một chuyên môn để cùng tạo nên một công trình lớn.",
+    "Số 3 là sự phát triển. Trong bộ Tiền, đó là kết quả đầu tiên của công sức, nhờ sự phối hợp. Khác với Hai Tiền xoay xở một mình, ở đây thành công đến từ việc tôn trọng chuyên môn của nhau và lắng nghe phản hồi.",
+    "Trong trải bài, Ba Tiền báo hiệu làm việc nhóm hiệu quả, được ghi nhận chuyên môn, học nghề, dự án đang tiến triển tốt. Lá khuyên hợp tác và tôn trọng kỹ năng của người khác. Khi ra ngược, lá cho thấy thiếu phối hợp, mâu thuẫn trong nhóm, làm qua loa, hoặc không được ghi nhận."
+  ],
+  "reflection": [
+    "Tôi có thể học hỏi từ ai trong nhóm của mình?",
+    "Chuyên môn của tôi đóng góp gì cho công việc chung?",
+    "Tôi có sẵn lòng lắng nghe phản hồi không?"
+  ]
 }

@@ -23,23 +23,35 @@
       "Tìm đường tắt"
     ]
   },
-  "imagery": "Một vũ công quấn khăn tím nhảy múa bên trong vòng nguyệt quế, tay cầm hai cây gậy. Bốn góc là bốn sinh vật như ở lá Vòng Quay Số Phận.",
+  "imagery": "Một vũ công trần trụi quấn dải lụa tím, lơ lửng nhảy múa giữa một vòng nguyệt quế hình bầu dục khổng lồ, được buộc ở trên và dưới bằng dải ruy băng đỏ thắt hình vô cực. Hai tay vũ công cầm hai cây gậy nhỏ, chân phải bắt chéo sau chân trái. Bốn góc lá bài là bốn sinh vật trên mây: thiên thần (trên trái), đại bàng (trên phải), bò đực (dưới trái) và sư tử (dưới phải), trên nền trời xanh.",
   "symbols": [
     {
       "name": "Vòng nguyệt quế",
-      "meaning": "Chiến thắng, sự trọn vẹn của một chu kỳ."
+      "meaning": "Chiến thắng, thành tựu, sự trọn vẹn của một chu kỳ."
     },
     {
-      "name": "Vũ công",
-      "meaning": "Sự hòa hợp, tự do trong chuyển động."
+      "name": "Vũ công nhảy múa",
+      "meaning": "Sự hòa hợp, tự do trong chuyển động; sống trọn vẹn trong hiện tại."
     },
     {
       "name": "Hai cây gậy",
-      "meaning": "Cân bằng giữa các mặt đối lập (giống Nhà Ảo Thuật)."
+      "meaning": "Cân bằng các mặt đối lập; liên hệ với cây gậy của Nhà Ảo Thuật — giờ cả hai tay đều làm chủ."
+    },
+    {
+      "name": "Ruy băng đỏ hình vô cực",
+      "meaning": "Sự vĩnh cửu: kết thúc cũng là khởi đầu mới."
+    },
+    {
+      "name": "Chân bắt chéo",
+      "meaning": "Tư thế giống Người Treo Ngược nhưng đã được lộn lại đúng chiều — bài học đã thành hình."
     },
     {
       "name": "Bốn sinh vật",
-      "meaning": "Bốn nguyên tố được hợp nhất."
+      "meaning": "Bốn nguyên tố, bốn cung cố định được hợp nhất; khác với Vòng Quay, chúng không còn đọc sách."
+    },
+    {
+      "name": "Dải lụa tím",
+      "meaning": "Trí tuệ tâm linh, sự cao quý."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Lá cuối của hành trình Chàng Khờ: 0 → 21. Vòng tròn khép lại để bắt đầu vòng mới.",
   "image": "assets/cards/the-world.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Thế Giới là lá bài của sự hoàn thành và viên mãn. Một chu kỳ lớn đã khép lại trọn vẹn; bạn đã học được bài học, đạt được mục tiêu và cảm thấy mình là một phần hài hòa của tổng thể. Vũ công trong vòng nguyệt quế tượng trưng cho tự do, cân bằng và niềm vui của người đã đến đích.",
+    "Là số 21, lá cuối cùng của Ẩn Chính, Thế Giới là điểm kết thúc hành trình của Chàng Khờ (0). Chàng Khờ ngây thơ ở đầu giờ đã trở thành vũ công tự tại. Bốn sinh vật ở bốn góc giống như ở Vòng Quay Số Phận, nhưng lần này không còn đọc sách — bài học đã được học xong. Sao Thổ gắn với lá là hành tinh của thời gian, kết thúc và sự trưởng thành. Kết thúc này cũng mở ra một vòng tròn mới: Thế Giới lại dẫn về Chàng Khờ.",
+    "Trong trải bài, Thế Giới báo hiệu hoàn thành dự án, tốt nghiệp, đạt được cột mốc lớn, sự viên mãn trong tình cảm; đôi khi là du lịch xa, làm việc quốc tế. Lá khuyên ăn mừng và chuẩn bị cho chương mới. Khi ra ngược, lá cho thấy sắp đến đích nhưng còn dang dở, thiếu sự khép lại, hoặc đang tìm đường tắt để né bước cuối."
+  ],
+  "reflection": [
+    "Tôi vừa hoàn thành điều gì đáng để ăn mừng?",
+    "Còn việc gì dang dở tôi cần khép lại trước khi bắt đầu chương mới?",
+    "Bài học lớn nhất của chặng đường vừa qua là gì?"
+  ]
 }

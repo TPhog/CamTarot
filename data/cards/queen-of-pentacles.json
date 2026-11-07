@@ -21,8 +21,33 @@
       "Phụ thuộc"
     ]
   },
-  "imagery": "Nữ hoàng ngồi trên ngai giữa vườn hoa, ôm đồng tiền trong lòng. Con thỏ nhỏ ở góc dưới.",
-  "symbols": [],
+  "imagery": "Một nữ hoàng ngồi trên ngai đá giữa khu vườn um tùm, xung quanh là hoa hồng và cây cối. Bà cúi nhìn đồng tiền đặt trong lòng, hai tay nâng niu. Ngai của bà chạm khắc đầu dê, các thiên thần nhỏ và trái cây. Phía trên là vòm hoa hồng; ở góc dưới bên phải có một con thỏ đang chạy. Xa xa là núi và bầu trời vàng.",
+  "symbols": [
+    {
+      "name": "Nâng niu đồng tiền trong lòng",
+      "meaning": "Sự chăm sóc, trân trọng những gì mình có."
+    },
+    {
+      "name": "Khu vườn um tùm",
+      "meaning": "Sự sung túc, phong phú của thiên nhiên."
+    },
+    {
+      "name": "Đầu dê trên ngai",
+      "meaning": "Cung Ma Kết: sự thực tế, kiên trì, tham vọng bền bỉ."
+    },
+    {
+      "name": "Con thỏ",
+      "meaning": "Sự sinh sôi, phong phú; cũng là sự nhạy bén."
+    },
+    {
+      "name": "Vòm hoa hồng",
+      "meaning": "Tình yêu, cái đẹp trong cuộc sống thường ngày."
+    },
+    {
+      "name": "Thiên thần nhỏ và trái cây",
+      "meaning": "Sự nuôi dưỡng, mùa màng bội thu."
+    }
+  ],
   "upright": {
     "general": "Sự chăm sóc thực tế, ấm áp và sung túc. Bạn biết cách tạo một tổ ấm vững chắc.",
     "love": "Người bạn đời chu đáo.",
@@ -38,5 +63,15 @@
   "yesNo": "Có",
   "memoryTip": "Nữ Hoàng Tiền = \"người mẹ đảm đang\".",
   "image": "assets/cards/queen-of-pentacles.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Nữ Hoàng Tiền là hình ảnh người phụ nữ đảm đang, thực tế và ấm áp. Bà biết cách tạo nên một tổ ấm sung túc, chăm sóc mọi người bằng những việc làm cụ thể — một bữa ăn ngon, một ngôi nhà gọn gàng, một kế hoạch tài chính vững vàng.",
+    "Nữ Hoàng Tiền là Nước của Đất: sự quan tâm được thể hiện qua hành động thực tế. Bà ngồi giữa thiên nhiên, cúi nhìn đồng tiền trong lòng như ôm một đứa trẻ. Con thỏ nhỏ ở góc dưới tượng trưng cho sự sinh sôi và sự phong phú của Đất.",
+    "Trong trải bài, lá có thể chỉ một người chu đáo, đáng tin cậy, giỏi quản lý gia đình và tài chính, hoặc khuyên bạn cân bằng công việc và gia đình, chăm sóc bản thân như cách chăm sóc người khác. Khi ra ngược, lá cho thấy bỏ bê bản thân, quá bao bọc, mất cân bằng hoặc phụ thuộc."
+  ],
+  "reflection": [
+    "Tôi chăm sóc những người mình yêu thương bằng cách nào?",
+    "Tôi đã chăm sóc bản thân đủ chưa?",
+    "Ngôi nhà và cuộc sống thường ngày của tôi có đang nuôi dưỡng tôi?"
+  ]
 }

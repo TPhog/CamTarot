@@ -21,8 +21,29 @@
       "Lạnh lùng"
     ]
   },
-  "imagery": "Vị vua ngồi trên ngai, tay cầm kiếm hơi nghiêng, ánh mắt nghiêm nghị nhìn thẳng.",
-  "symbols": [],
+  "imagery": "Một vị vua ngồi nhìn thẳng ra phía trước trên ngai đá cao, tay phải cầm thanh kiếm dựng thẳng, hơi nghiêng về một bên. Ông mặc áo xanh lam, khoác áo choàng tím. Lưng ngai chạm khắc hình bướm, trăng lưỡi liềm và thần gió nhỏ có cánh. Phía sau là những đám mây, vài hàng cây và hai con chim bay.",
+  "symbols": [
+    {
+      "name": "Nhìn thẳng",
+      "meaning": "Đối diện trực tiếp vấn đề, sự minh bạch."
+    },
+    {
+      "name": "Kiếm hơi nghiêng",
+      "meaning": "Sự công lý linh hoạt, biết áp dụng luật theo hoàn cảnh."
+    },
+    {
+      "name": "Bướm và trăng trên ngai",
+      "meaning": "Tư duy chuyển hóa; trực giác vẫn hiện diện dưới lý trí."
+    },
+    {
+      "name": "Áo choàng tím",
+      "meaning": "Trí tuệ, quyền lực, sự khôn ngoan."
+    },
+    {
+      "name": "Hai con chim",
+      "meaning": "Tư duy tự do, quyết định giữa hai lựa chọn."
+    }
+  ],
   "upright": {
     "general": "Sự sáng suốt và quyền uy trí tuệ. Bạn đưa ra quyết định dựa trên lý trí và đạo đức.",
     "love": "Người bạn đời lý trí, có nguyên tắc.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Vua Kiếm = \"vị thẩm phán sáng suốt\".",
   "image": "assets/cards/king-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Vua Kiếm là trí tuệ, quyền uy và sự công tâm. Ông đưa ra quyết định dựa trên lý trí, đạo đức và sự thật, không để cảm xúc hay thiên vị chi phối. Ông là hình mẫu của thẩm phán, chuyên gia, người cố vấn sáng suốt.",
+    "Vua Kiếm là Khí của Khí — trí tuệ thuần khiết nhất. Ông nhìn thẳng vào người xem, khác với Nữ Hoàng nhìn nghiêng — ông đối diện trực tiếp mọi vấn đề. Thanh kiếm hơi nghiêng cho thấy ông biết linh hoạt áp dụng luật lệ. Liên hệ với lá Công Lý, nhưng ở cấp độ cá nhân.",
+    "Trong trải bài, lá có thể chỉ một người có chuyên môn (luật sư, bác sĩ, nhà quản lý), một người bạn đời lý trí, hoặc khuyên bạn quyết định bằng lý trí và đạo đức, giữ sự khách quan. Khi ra ngược, lá cho thấy dùng trí tuệ để thao túng, lạm quyền, quá lạnh lùng và thiếu cảm xúc."
+  ],
+  "reflection": [
+    "Nếu gạt cảm xúc sang một bên, quyết định hợp lý nhất là gì?",
+    "Tôi có đang công bằng với mọi bên liên quan?",
+    "Lý trí của tôi có đang bỏ quên lòng trắc ẩn?"
+  ]
 }

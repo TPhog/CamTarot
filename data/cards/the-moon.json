@@ -23,23 +23,35 @@
       "Bớt nhầm lẫn"
     ]
   },
-  "imagery": "Mặt trăng có khuôn mặt chiếu sáng một con đường giữa hai tòa tháp. Chó và sói tru dưới trăng, con tôm hùm bò lên từ hồ nước.",
+  "imagery": "Một mặt trăng lớn có khuôn mặt nhìn nghiêng, kết hợp với đĩa mặt trời, tỏa xuống những giọt sáng hình chữ Yod. Bên dưới, một con chó và một con sói ngửa cổ tru lên trăng. Từ hồ nước ở tiền cảnh, một con tôm hùm (tôm càng) đang bò lên bờ. Một con đường hẹp uốn lượn từ hồ, đi qua giữa hai tòa tháp, dẫn về phía dãy núi xa xăm.",
   "symbols": [
     {
+      "name": "Mặt trăng có khuôn mặt",
+      "meaning": "Ánh sáng phản chiếu, không trực tiếp — sự thật chỉ thấy được một phần."
+    },
+    {
       "name": "Chó và sói",
-      "meaning": "Phần đã thuần hóa và phần hoang dã trong ta."
+      "meaning": "Phần đã được thuần hóa và phần hoang dã trong ta; cả hai đều bị trăng khuấy động."
     },
     {
-      "name": "Tôm hùm bò lên",
-      "meaning": "Nỗi sợ, ký ức từ tiềm thức trồi lên."
+      "name": "Tôm hùm bò lên từ hồ",
+      "meaning": "Những nỗi sợ, ký ức, bản năng nguyên thủy trồi lên từ tiềm thức."
     },
     {
-      "name": "Con đường mờ",
-      "meaning": "Hành trình xuyên qua sự không chắc chắn."
+      "name": "Con đường uốn lượn",
+      "meaning": "Hành trình đi qua sự không chắc chắn; chỉ thấy từng đoạn ngắn."
     },
     {
       "name": "Hai tòa tháp",
-      "meaning": "Cánh cổng đi vào vùng chưa biết."
+      "meaning": "Cánh cổng dẫn vào vùng chưa biết; giống tháp ở lá Cái Chết."
+    },
+    {
+      "name": "Giọt sáng Yod",
+      "meaning": "Ảnh hưởng tinh thần vẫn rơi xuống, ngay cả trong đêm tối."
+    },
+    {
+      "name": "Hồ nước",
+      "meaning": "Tiềm thức sâu thẳm, cảm xúc."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Không",
   "memoryTip": "Mặt Trăng (18) chiếu sáng nhưng không rõ như Mặt Trời (19). Nhớ: \"ban đêm nhìn đâu cũng thấy ma\".",
   "image": "assets/cards/the-moon.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Mặt Trăng là lá bài của sự mơ hồ, ảo ảnh và nỗi sợ trong tiềm thức. Dưới ánh trăng, mọi thứ không như vẻ ngoài: bóng cây trông như quái vật, con đường lúc ẩn lúc hiện. Lá bài nói về những lo âu vô hình, giấc mơ, trí tưởng tượng — và cả trực giác, thứ duy nhất dẫn ta đi qua bóng tối.",
+    "Là số 18, Mặt Trăng là \"ánh sáng\" thứ hai sau Ngôi Sao. Nếu Ngôi Sao là hy vọng, thì Mặt Trăng là đêm tối của linh hồn mà Chàng Khờ phải đi qua trước khi tới bình minh của Mặt Trời. Cung Song Ngư gắn với lá là cung của mơ mộng, nhạy cảm và ranh giới mờ nhòe. Hai tòa tháp ở đây cũng là hai tòa tháp trong lá Cái Chết.",
+    "Trong trải bài, Mặt Trăng cảnh báo hiểu lầm, thông tin không rõ ràng, lừa dối hoặc tự lừa dối; khuyên bạn đừng quyết định khi đang hoang mang, chờ mọi thứ sáng tỏ và lắng nghe trực giác. Lá cũng có thể chỉ lo âu, mất ngủ, giấc mơ có ý nghĩa. Khi ra ngược, sương mù đang tan: sự thật được hé lộ, nỗi sợ được giải tỏa."
+  ],
+  "reflection": [
+    "Nỗi sợ nào đang khiến tôi nhìn sự việc méo mó?",
+    "Tôi có đang thiếu thông tin quan trọng trước khi quyết định?",
+    "Giấc mơ hay linh cảm gần đây đang nói với tôi điều gì?"
+  ]
 }

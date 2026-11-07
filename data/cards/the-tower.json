@@ -23,23 +23,35 @@
       "Biến đổi nội tâm"
     ]
   },
-  "imagery": "Tòa tháp cao trên đỉnh đá bị sét đánh, vương miện trên đỉnh bật tung, lửa bùng ra từ cửa sổ. Hai người rơi đầu xuống giữa những đốm lửa hình chữ Yod.",
+  "imagery": "Một tòa tháp xám cao vút đứng trên đỉnh núi đá nhọn giữa bầu trời đêm đen. Tia sét vàng đánh trúng đỉnh tháp, hất tung chiếc vương miện vàng trên nóc. Lửa phụt ra từ ba ô cửa sổ. Hai người — một người đội vương miện — rơi đầu xuống dưới, tay dang ra trong hoảng loạn. Quanh họ là những đốm lửa vàng hình giọt nước (chữ Yod) rơi xuống từ hai phía.",
   "symbols": [
     {
       "name": "Tia sét",
-      "meaning": "Sự thật hoặc nhận thức đột ngột phá vỡ ảo tưởng."
+      "meaning": "Sự thật, nhận thức hoặc biến cố đột ngột phá vỡ ảo tưởng."
     },
     {
       "name": "Vương miện bật tung",
-      "meaning": "Cái tôi và cấu trúc giả tạo bị lật đổ."
+      "meaning": "Cái tôi, quyền lực và cấu trúc giả tạo bị lật đổ."
     },
     {
-      "name": "Người rơi xuống",
-      "meaning": "Mất kiểm soát, bị đẩy ra khỏi vùng an toàn."
+      "name": "Tòa tháp trên đá nhọn",
+      "meaning": "Những gì được xây trên nền móng không vững — niềm tin sai, kiêu ngạo."
+    },
+    {
+      "name": "Hai người rơi",
+      "meaning": "Mất kiểm soát, bị đẩy ra khỏi vùng an toàn; không ai miễn nhiễm."
+    },
+    {
+      "name": "Ba ô cửa sổ bốc lửa",
+      "meaning": "Ba tầng của con người (thân, tâm, linh) đều bị rung chuyển."
     },
     {
       "name": "Đốm lửa Yod",
-      "meaning": "Ân sủng thiêng liêng giữa hỗn loạn."
+      "meaning": "Ân sủng thiêng liêng rơi xuống giữa hỗn loạn: sự phá hủy cũng mang theo tia sáng."
+    },
+    {
+      "name": "Bầu trời đen",
+      "meaning": "Khoảnh khắc tăm tối nhất trước khi có ánh sáng mới."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Không",
   "memoryTip": "Số 16 → 1+6 = 7 (Cỗ Xe): ý chí cá nhân bị thử thách bởi sức mạnh lớn hơn.",
   "image": "assets/cards/the-tower.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tòa Tháp là lá bài của biến cố đột ngột: sụp đổ, bất ngờ, sự thật phơi bày. Những gì được xây trên nền móng sai — ảo tưởng, dối trá, cái tôi kiêu ngạo — bị tia sét đánh sập trong chớp mắt. Đau đớn và gây sốc, nhưng sự sụp đổ này giải phóng bạn khỏi những gì không thật.",
+    "Là số 16, Tòa Tháp đến ngay sau Ác Quỷ: khi ta không tự tháo xích, cuộc đời sẽ phá vỡ nhà tù thay ta. 16 = 1 + 6 = 7 (Cỗ Xe): ý chí và sự kiểm soát cá nhân bị thử thách bởi một sức mạnh lớn hơn. Hình ảnh tháp gợi nhớ tháp Babel — công trình của sự kiêu ngạo muốn chạm tới trời. Sao Hỏa gắn với lá mang năng lượng bùng nổ, phá hủy.",
+    "Trong trải bài, Tòa Tháp báo hiệu thay đổi đột ngột không mong muốn: mất việc, chia tay, tiết lộ gây sốc, kế hoạch đổ vỡ. Lá khuyên đừng cố chống đỡ cái đang sụp mà hãy để nó đổ và xây lại vững chắc hơn. Sau Tòa Tháp luôn là Ngôi Sao — hy vọng. Khi ra ngược, lá có thể nói về việc né được biến cố, trì hoãn sự sụp đổ tất yếu, hoặc sự thay đổi diễn ra bên trong."
+  ],
+  "reflection": [
+    "Điều gì trong đời tôi đang được xây trên nền móng không thật?",
+    "Sự thật nào tôi đã biết mà chưa dám đối mặt?",
+    "Nếu thứ này sụp đổ, tôi sẽ xây lại điều gì tốt hơn?"
+  ]
 }

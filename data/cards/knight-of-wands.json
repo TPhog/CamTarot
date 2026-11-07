@@ -21,8 +21,29 @@
       "Bỏ dở giữa chừng"
     ]
   },
-  "imagery": "Hiệp sĩ mặc giáp, áo in kỳ nhông, cưỡi ngựa đang chồm lên, tay cầm gậy, lao đi trên sa mạc.",
-  "symbols": [],
+  "imagery": "Một hiệp sĩ mặc áo giáp, khoác áo vàng in hình kỳ nhông, mũ có chùm lông như ngọn lửa đỏ, cưỡi con ngựa màu cam đang chồm hai chân trước lên. Tay anh cầm cây gậy đâm chồi giơ cao. Phía sau là vùng sa mạc với ba kim tự tháp.",
+  "symbols": [
+    {
+      "name": "Ngựa chồm lên",
+      "meaning": "Năng lượng bùng nổ, khó kiểm soát, sẵn sàng lao đi."
+    },
+    {
+      "name": "Chùm lông đỏ như lửa",
+      "meaning": "Đam mê cháy bỏng, nhiệt huyết."
+    },
+    {
+      "name": "Kỳ nhông trên áo",
+      "meaning": "Nguyên tố Lửa, sự biến đổi; nhiều con kỳ nhông chưa khép vòng — mục tiêu chưa hoàn tất."
+    },
+    {
+      "name": "Sa mạc và kim tự tháp",
+      "meaning": "Vùng đất xa lạ, cuộc phiêu lưu."
+    },
+    {
+      "name": "Gậy giơ cao",
+      "meaning": "Sự tự tin, sẵn sàng hành động."
+    }
+  ],
   "upright": {
     "general": "Năng lượng mạnh mẽ, hành động và phiêu lưu. Bạn sẵn sàng lao vào điều mới với đầy nhiệt huyết.",
     "love": "Mối quan hệ nồng nhiệt, cuồng nhiệt nhưng có thể không bền.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Hiệp Sĩ = hành động. Hiệp Sĩ Gậy là người nhanh nhất, bốc nhất trong bốn hiệp sĩ.",
   "image": "assets/cards/knight-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hiệp Sĩ Gậy là năng lượng hành động mạnh mẽ, phiêu lưu và bốc đồng. Con ngựa chồm lên, người hiệp sĩ lao về phía trước đầy tự tin — anh sống bằng đam mê và không thích ngồi yên.",
+    "Các lá Hiệp Sĩ đại diện cho phần Lửa của nguyên tố: hành động, chuyển động, theo đuổi. Hiệp Sĩ Gậy là Lửa của Lửa — nhân đôi năng lượng — nên đây là hiệp sĩ nhanh nhất, nóng nhất và dễ bốc đồng nhất trong bốn hiệp sĩ.",
+    "Trong trải bài, Hiệp Sĩ Gậy báo hiệu hành động nhanh, chuyển việc, chuyển nhà, đi xa, khởi nghiệp; trong tình cảm là một người cuồng nhiệt, cuốn hút nhưng có thể không bền lâu. Lá khuyên hành động với nhiệt huyết nhưng đừng quên đích đến. Khi ra ngược, lá cho thấy nóng vội, liều lĩnh, bỏ dở giữa chừng."
+  ],
+  "reflection": [
+    "Tôi đang lao về phía trước vì đam mê hay vì không chịu ngồi yên?",
+    "Mục tiêu cuối cùng của sự hối hả này là gì?",
+    "Điều gì tôi hay bỏ dở giữa chừng?"
+  ]
 }

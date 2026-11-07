@@ -23,23 +23,35 @@
       "Bị cản trở"
     ]
   },
-  "imagery": "Người chiến binh đứng trên cỗ xe đá, không cầm dây cương. Kéo xe là hai con nhân sư đen và trắng, mỗi con nhìn một hướng. Phía sau là thành phố.",
+  "imagery": "Một chàng chiến binh đứng thẳng trên cỗ xe bằng đá hình khối vuông, đầu đội vương miện có ngôi sao tám cánh và vòng nguyệt quế. Anh mặc áo giáp, trên vai là hai mặt trăng có khuôn mặt, trên ngực là một hình vuông. Tay phải cầm quyền trượng, không có dây cương nào. Phía trên là mái che màu xanh thêu đầy sao. Phía trước xe là biểu tượng đĩa mặt trời có cánh. Hai con nhân sư — một đen, một trắng — nằm phía trước, mỗi con nhìn một hướng. Sau lưng là dòng sông và thành phố có tường thành.",
   "symbols": [
     {
       "name": "Hai nhân sư đen – trắng",
-      "meaning": "Những lực đối lập cần được điều khiển bằng ý chí."
+      "meaning": "Những lực đối lập (âm/dương, lý trí/cảm xúc) cần được điều khiển bằng ý chí."
     },
     {
       "name": "Không có dây cương",
-      "meaning": "Kiểm soát bằng sức mạnh tinh thần, không bằng vũ lực."
+      "meaning": "Kiểm soát bằng sức mạnh tinh thần và sự tập trung, không phải bằng vũ lực."
     },
     {
-      "name": "Mái che sao",
-      "meaning": "Sự hậu thuẫn của vũ trụ."
+      "name": "Mái che đầy sao",
+      "meaning": "Sự che chở và hậu thuẫn của vũ trụ cho hành trình."
+    },
+    {
+      "name": "Hình vuông trên ngực",
+      "meaning": "Nguyên tố Đất: ý chí vững chắc, gắn với thực tế."
+    },
+    {
+      "name": "Hai mặt trăng trên vai",
+      "meaning": "Cung Cự Giải (do Mặt Trăng cai quản): cảm xúc được bảo vệ bên trong lớp giáp."
+    },
+    {
+      "name": "Đĩa mặt trời có cánh",
+      "meaning": "Sự thăng hoa của tinh thần, động lực hướng lên."
     },
     {
       "name": "Thành phố phía sau",
-      "meaning": "Rời vùng an toàn để chinh phục."
+      "meaning": "Rời vùng an toàn quen thuộc để chinh phục điều mới."
     }
   ],
   "upright": {
@@ -57,5 +69,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 7 = nỗ lực vượt qua thử thách. Hình dung bạn cầm lái một cỗ xe mà hai con ngựa muốn đi hai ngả.",
   "image": "assets/cards/the-chariot.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Cỗ Xe là lá bài của ý chí và chiến thắng: khả năng tập trung mọi năng lượng vào một mục tiêu và tiến lên bất chấp trở ngại. Người chiến binh trong lá không thắng nhờ sức mạnh cơ bắp mà nhờ sự tự chủ — anh điều khiển cỗ xe mà không cần dây cương, bằng sức mạnh tinh thần.",
+    "Là số 7, Cỗ Xe khép lại hàng đầu tiên của Ẩn Chính (1–7), hàng nói về việc học làm chủ thế giới bên ngoài. Sau khi đưa ra lựa chọn ở lá Tình Nhân, Chàng Khờ giờ phải theo đuổi nó với quyết tâm. Hai con nhân sư đen và trắng kéo xe theo hai hướng khác nhau: bài học là hài hòa những mâu thuẫn bên trong — lý trí và cảm xúc, mong muốn và nỗi sợ — để chúng cùng tiến về một phía.",
+    "Trong trải bài, Cỗ Xe báo hiệu thành công nhờ nỗ lực, cạnh tranh có lợi, vượt qua thử thách; đôi khi là di chuyển, đi xa, hoặc liên quan đến xe cộ. Lá khuyên bạn nắm quyền điều khiển và đừng bỏ cuộc. Khi ra ngược, lá cho thấy mất phương hướng, bị kéo về nhiều phía, nóng vội hoặc cố ép mọi việc bằng sức mạnh thô bạo."
+  ],
+  "reflection": [
+    "Mục tiêu nào xứng đáng để tôi dồn hết sức lực?",
+    "Những mâu thuẫn nào bên trong đang kéo tôi về hai phía?",
+    "Tôi đang điều khiển cuộc đời mình, hay đang để nó điều khiển tôi?"
+  ]
 }

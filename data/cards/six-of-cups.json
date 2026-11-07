@@ -21,8 +21,29 @@
       "Buông bỏ ký ức"
     ]
   },
-  "imagery": "Cậu bé trao cốc hoa cho cô bé trong khu vườn cũ. Sáu chiếc cốc cắm đầy hoa trắng.",
-  "symbols": [],
+  "imagery": "Trong khung cảnh một ngôi làng cổ hoặc sân lâu đài, một cậu bé đội mũ đỏ cúi xuống trao cho cô bé nhỏ hơn một chiếc cốc cắm đầy hoa trắng hình ngôi sao. Xung quanh là sáu chiếc cốc, đều cắm hoa trắng; một chiếc đặt trên bệ đá. Phía sau, một người lính gác đang đi xa khỏi khung cảnh.",
+  "symbols": [
+    {
+      "name": "Hai đứa trẻ",
+      "meaning": "Sự hồn nhiên, ngây thơ; ký ức tuổi thơ."
+    },
+    {
+      "name": "Cốc cắm hoa trắng",
+      "meaning": "Tình cảm trong sáng, món quà từ trái tim."
+    },
+    {
+      "name": "Ngôi làng cổ",
+      "meaning": "Quá khứ, quê hương, nơi chốn quen thuộc an toàn."
+    },
+    {
+      "name": "Người lính đi xa",
+      "meaning": "Người lớn và những lo toan rời đi — chỉ còn lại thế giới trẻ thơ."
+    },
+    {
+      "name": "Bệ đá",
+      "meaning": "Ký ức được gìn giữ, trân trọng như báu vật."
+    }
+  ],
   "upright": {
     "general": "Ký ức đẹp, sự ngây thơ và niềm vui giản dị. Có thể là gặp lại người cũ hoặc quay về nơi chốn thân quen.",
     "love": "Người yêu cũ quay lại, hoặc tình cảm trong sáng như thuở ban đầu.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Số 6 = hài hòa. Hai đứa trẻ trao hoa = hoài niệm tuổi thơ.",
   "image": "assets/cards/six-of-cups.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Sáu Cốc là lá của ký ức, hoài niệm và sự hồn nhiên. Hình ảnh hai đứa trẻ trao nhau chiếc cốc cắm hoa trong một khu vườn cũ gợi nhớ những ngày tuổi thơ trong trẻo, những niềm vui giản dị và những người từng gắn bó.",
+    "Số 6 là sự hài hòa trở lại. Sau nỗi buồn của Năm Cốc, trái tim tìm an ủi trong những ký ức đẹp. Đây là sự chữa lành nhờ quay về cội nguồn — nhưng cũng chứa nguy cơ sống mãi trong quá khứ.",
+    "Trong trải bài, Sáu Cốc có thể báo hiệu gặp lại người cũ, bạn cũ, quay về quê hương, hoặc một tình cảm trong sáng; đôi khi liên quan đến trẻ em hay món quà. Lá khuyên trân trọng quá khứ nhưng không sống trong nó. Khi ra ngược, lá cho thấy bạn đang mắc kẹt trong hoài niệm, so sánh hiện tại với quá khứ, hoặc đã đến lúc trưởng thành."
+  ],
+  "reflection": [
+    "Ký ức nào khiến tôi mỉm cười mỗi khi nghĩ đến?",
+    "Tôi có đang so sánh hiện tại với một quá khứ được tô hồng?",
+    "Điều gì từ tuổi thơ tôi muốn mang vào cuộc sống hôm nay?"
+  ]
 }

@@ -21,8 +21,29 @@
       "Lời nói tổn thương"
     ]
   },
-  "imagery": "Chàng trai trẻ cầm kiếm đứng trên đồi lộng gió, ánh mắt cảnh giác nhìn xung quanh.",
-  "symbols": [],
+  "imagery": "Một chàng trai trẻ đứng trên mỏm đất cao, hai tay cầm thanh kiếm dựng hướng lên trời. Anh nghiêng người, ngoái nhìn sang một bên đầy cảnh giác. Gió thổi mạnh làm tóc và mây bay xiên; vài cánh chim bay trên bầu trời. Phía dưới là những ngọn đồi và cây cối bị gió quật.",
+  "symbols": [
+    {
+      "name": "Kiếm giơ cao",
+      "meaning": "Sự sẵn sàng, ý tưởng mới, tinh thần muốn tìm hiểu."
+    },
+    {
+      "name": "Ánh nhìn ngoái lại",
+      "meaning": "Cảnh giác, quan sát, tò mò về mọi thứ xung quanh."
+    },
+    {
+      "name": "Gió mạnh, mây bay",
+      "meaning": "Nguyên tố Khí: suy nghĩ thay đổi nhanh, năng lượng tinh thần sôi động."
+    },
+    {
+      "name": "Đứng trên chỗ cao",
+      "meaning": "Muốn có cái nhìn toàn cảnh."
+    },
+    {
+      "name": "Đàn chim",
+      "meaning": "Ý tưởng, tự do tư duy."
+    }
+  ],
   "upright": {
     "general": "Tinh thần ham học, tò mò và lanh lợi. Có thể là tin tức, ý tưởng mới hoặc người trẻ thông minh.",
     "love": "Giao tiếp nhiều, trò chuyện thú vị.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Tiểu Đồng Kiếm = \"người học trò hay hỏi\".",
   "image": "assets/cards/page-of-swords.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Tiểu Đồng Kiếm là tinh thần tò mò, ham học hỏi và lanh lợi. Chàng trai đứng trên đồi lộng gió, cầm kiếm và cảnh giác quan sát mọi phía — anh muốn hiểu, muốn biết, muốn đặt câu hỏi.",
+    "Tiểu Đồng Kiếm là Đất của Khí: ý tưởng bắt đầu tìm cách biểu hiện thực tế. Lá có thể chỉ một người trẻ thông minh, nhanh nhạy, thích tranh luận, hoặc tin tức và thông tin mới. Mặt tối của anh là tính hay soi mói, buôn chuyện.",
+    "Trong trải bài, Tiểu Đồng Kiếm báo hiệu học kỹ năng mới, nghiên cứu, viết lách, giao tiếp nhiều, tin tức hoặc ý tưởng mới. Lá khuyên tò mò và đặt câu hỏi, tìm hiểu kỹ trước khi hành động. Khi ra ngược, lá cho thấy nói nhiều làm ít, buôn chuyện, thông tin thiếu chính xác hoặc lời nói gây tổn thương."
+  ],
+  "reflection": [
+    "Tôi đang tò mò muốn tìm hiểu điều gì?",
+    "Tôi có đang lắng nghe hay chỉ chờ đến lượt mình nói?",
+    "Thông tin tôi đang có đã được kiểm chứng chưa?"
+  ]
 }

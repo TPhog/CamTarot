@@ -21,8 +21,29 @@
       "Chần chừ"
     ]
   },
-  "imagery": "Người đàn ông đứng trên tường thành, tay cầm quả địa cầu nhìn ra biển xa, một cây gậy trong tay và một cây gắn vào tường.",
-  "symbols": [],
+  "imagery": "Một người đàn ông mặc áo choàng đỏ, đội mũ đỏ, đứng trên tường thành của lâu đài. Tay phải cầm một quả địa cầu nhỏ, tay trái nắm một cây gậy; cây gậy thứ hai được gắn cố định vào tường phía sau. Ông nhìn ra xa, nơi có biển, đất liền và núi non. Trên bức tường bên trái có huy hiệu hoa hồng đỏ và hoa ly trắng bắt chéo.",
+  "symbols": [
+    {
+      "name": "Quả địa cầu trong tay",
+      "meaning": "Cả thế giới nằm trong tầm tay; tầm nhìn rộng, khát vọng chinh phục."
+    },
+    {
+      "name": "Cây gậy gắn trên tường",
+      "meaning": "Những gì đã đạt được, nền tảng hiện tại."
+    },
+    {
+      "name": "Cây gậy trong tay",
+      "meaning": "Khả năng hành động tiếp theo, lựa chọn đang cân nhắc."
+    },
+    {
+      "name": "Đứng trên tường thành",
+      "meaning": "Vị trí an toàn nhìn ra ngoài; đứng giữa quen thuộc và chưa biết."
+    },
+    {
+      "name": "Hoa hồng và hoa ly bắt chéo",
+      "meaning": "Cân bằng giữa đam mê và sự trong sáng của mục đích — như ở lá Nhà Ảo Thuật."
+    }
+  ],
   "upright": {
     "general": "Bạn đã có điểm xuất phát, giờ là lúc lên kế hoạch cho bước tiếp theo. Thế giới rộng lớn đang chờ — hãy quyết định hướng đi.",
     "love": "Cân nhắc tương lai của mối quan hệ; có thể là lựa chọn giữa an toàn và phiêu lưu.",
@@ -38,5 +59,15 @@
   "yesNo": "Có thể",
   "memoryTip": "Số 2 = lựa chọn. Quả địa cầu trong tay = \"cả thế giới là của bạn, chọn đi\".",
   "image": "assets/cards/two-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Hai Gậy là lúc ngọn lửa của Át được chuyển thành kế hoạch. Bạn đã có điểm xuất phát vững chắc và đang nhìn ra thế giới rộng lớn, cân nhắc nên đi tiếp theo hướng nào. Đây là lá của tầm nhìn, chiến lược và quyết định.",
+    "Số 2 mang năng lượng lựa chọn và cân bằng. Trong bộ Gậy, sau tia cảm hứng (Át) là lúc đặt câu hỏi: ở lại vùng an toàn hay bước ra thử thách? Cây gậy cố định trên tường là những gì đã có, cây gậy trong tay là khả năng mới — người đàn ông đứng giữa hai thứ đó.",
+    "Trong trải bài, Hai Gậy khuyên lập kế hoạch dài hạn, cân nhắc mở rộng, đi xa hoặc khám phá cơ hội mới. Lá cũng cho thấy bạn có quyền lực để quyết định. Khi ra ngược, hãy để ý nỗi sợ rời vùng an toàn, kế hoạch thiếu rõ ràng hoặc sự chần chừ kéo dài."
+  ],
+  "reflection": [
+    "Nếu không sợ thất bại, tôi sẽ chọn hướng đi nào?",
+    "Kế hoạch dài hạn của tôi đã đủ cụ thể chưa?",
+    "Vùng an toàn hiện tại đang bảo vệ hay đang giới hạn tôi?"
+  ]
 }

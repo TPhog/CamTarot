@@ -21,8 +21,29 @@
       "Kỳ vọng quá cao"
     ]
   },
-  "imagery": "Vị vua ngồi trên ngai trang trí sư tử và kỳ nhông, tay cầm gậy đâm chồi, ánh mắt nhìn xa.",
-  "symbols": [],
+  "imagery": "Một vị vua ngồi nghiêng người về phía trước trên ngai, như sắp đứng dậy hành động. Lưng ngai và áo choàng của ông có hình sư tử và kỳ nhông tự cắn đuôi. Ông đội vương miện hình ngọn lửa, tay phải cầm cây gậy đâm chồi. Dưới chân ngai có một con kỳ nhông nhỏ. Ánh mắt ông nhìn xa về một phía.",
+  "symbols": [
+    {
+      "name": "Kỳ nhông tự cắn đuôi",
+      "meaning": "Vòng tròn khép kín: sự hoàn thiện, sức mạnh không ngừng của Lửa."
+    },
+    {
+      "name": "Kỳ nhông nhỏ dưới chân",
+      "meaning": "Ngọn lửa đã được làm chủ, thuần hóa."
+    },
+    {
+      "name": "Vương miện hình ngọn lửa",
+      "meaning": "Tầm nhìn, tư duy sáng tạo."
+    },
+    {
+      "name": "Ngồi nghiêng về phía trước",
+      "meaning": "Sẵn sàng hành động, không chịu ngồi yên."
+    },
+    {
+      "name": "Sư tử trên ngai",
+      "meaning": "Quyền uy, lòng can đảm."
+    }
+  ],
   "upright": {
     "general": "Một nhà lãnh đạo có tầm nhìn, dám nghĩ dám làm. Bạn có khả năng biến ý tưởng lớn thành hiện thực và dẫn dắt người khác.",
     "love": "Người bạn đời mạnh mẽ, hào phóng, trung thành.",
@@ -38,5 +59,15 @@
   "yesNo": "Có",
   "memoryTip": "Vua = làm chủ nguyên tố ra bên ngoài. Vua Gậy = doanh nhân có tầm nhìn.",
   "image": "assets/cards/king-of-wands.jpg",
-  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons",
+  "overview": [
+    "Vua Gậy là nhà lãnh đạo có tầm nhìn: dám nghĩ lớn, dám làm, và biết truyền cảm hứng để người khác đi theo. Ông là hình mẫu doanh nhân, người khởi xướng, người biến ý tưởng táo bạo thành hiện thực.",
+    "Các lá Vua đại diện cho phần Khí của nguyên tố: làm chủ nguyên tố ra bên ngoài, kiểm soát, ra quyết định. Vua Gậy là Khí của Lửa — đam mê được dẫn dắt bằng chiến lược. Con kỳ nhông nhỏ dưới chân ngai cho thấy ông đã thuần hóa ngọn lửa của mình.",
+    "Trong trải bài, lá có thể chỉ một người lãnh đạo, doanh nhân, người bạn đời mạnh mẽ và hào phóng, hoặc khuyên bạn đứng ra dẫn dắt bằng tầm nhìn và làm gương. Khi ra ngược, lá cho thấy sự độc đoán, nóng nảy, kỳ vọng quá cao vào người khác, hoặc quyết định vội vàng."
+  ],
+  "reflection": [
+    "Tầm nhìn dài hạn của tôi là gì?",
+    "Tôi dẫn dắt người khác bằng cảm hứng hay bằng áp lực?",
+    "Điều gì giúp tôi biến ý tưởng lớn thành kết quả thật?"
+  ]
 }
