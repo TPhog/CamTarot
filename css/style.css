@@ -168,9 +168,17 @@ main { padding: 40px 0 80px; min-height: 70vh; }
 .fact b { font-weight: 600; }
 .block { margin-bottom: 28px; }
 .block h3 { color: var(--gold); }
-.symbols { display: grid; gap: 10px; }
+.overview p { font-size: 1.02rem; line-height: 1.8; }
+.overview p:first-of-type::first-letter { font-family: var(--serif); font-size: 3.2em; float: left; line-height: .9; margin: 4px 10px 0 0; color: var(--gold); }
+.imagery { padding: 16px 20px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); line-height: 1.8; }
+.block h4.sub { margin: 22px 0 12px; font-size: .85rem; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.symbols { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
 .symbol { padding: 12px 16px; border-left: 2px solid var(--gold-2); background: var(--panel); border-radius: 0 10px 10px 0; }
-.symbol b { color: #fff; }
+.symbol b { color: #fff; display: block; margin-bottom: 2px; }
+.symbol span { color: var(--muted); font-size: .94rem; line-height: 1.55; }
+.reflect { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.reflect li { position: relative; padding: 12px 16px 12px 44px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; font-style: italic; }
+.reflect li::before { content: "?"; position: absolute; left: 14px; top: 11px; width: 20px; height: 20px; border-radius: 50%; border: 1px solid var(--gold); color: var(--gold); font-size: .8rem; font-style: normal; display: grid; place-items: center; }
 .tabs { display: flex; gap: 8px; margin-bottom: 16px; }
 .tabs button { padding: 8px 18px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--muted); }
 .tabs button.active.up { background: rgba(143, 209, 158, .16); color: var(--up); border-color: var(--up); }
@@ -246,7 +254,7 @@ main { padding: 40px 0 80px; min-height: 70vh; }
   .grid-3, .grid-4 { grid-template-columns: repeat(2, 1fr); }
   .hero-fan { height: 280px; }
   .detail-aside { position: static; max-width: 260px; margin-inline: auto; }
-  .meaning-grid { grid-template-columns: 1fr; }
+  .meaning-grid, .symbols { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .site-header .wrap { height: auto; flex-wrap: wrap; padding: 10px 0; gap: 8px; }

@@ -379,7 +379,7 @@ function renderLibrary() {
 
 /* ---------------- Card detail ---------------- */
 
-const ASPECTS = [["general", "Tổng quan", true], ["love", "Tình yêu"], ["career", "Công việc"], ["finance", "Tài chính"]];
+const ASPECTS = [["general", "Tóm tắt", true], ["love", "Tình yêu"], ["career", "Công việc"], ["finance", "Tài chính"]];
 
 async function renderDetail(id) {
   const c = await loadCard(id);
@@ -421,8 +421,12 @@ async function renderDetail(id) {
         <div>${c.keywords.reversed.map((k) => `<span class="chip down">↓ ${esc(k)}</span>`).join("")}</div>
         <div class="facts">${facts.map(([k, v]) => `<div class="fact"><small>${k}</small><b>${esc(v)}</b></div>`).join("")}</div>
 
-        <div class="block"><h3>Hình ảnh trên lá bài</h3><p>${esc(c.imagery)}</p>
-          ${c.symbols?.length ? `<div class="symbols">${c.symbols.map((s) => `<div class="symbol"><b>${esc(s.name)}:</b> ${esc(s.meaning)}</div>`).join("")}</div>` : ""}
+        ${c.overview?.length ? `<div class="block overview"><h3>Tổng quan</h3>${c.overview.map((p) => `<p>${esc(p)}</p>`).join("")}</div>` : ""}
+
+        <div class="block"><h3>Hình ảnh trên lá bài</h3>
+          <p class="imagery">${esc(c.imagery)}</p>
+          ${c.symbols?.length ? `<h4 class="sub">Giải mã biểu tượng</h4>
+          <div class="symbols">${c.symbols.map((s) => `<div class="symbol"><b>${esc(s.name)}</b><span>${esc(s.meaning)}</span></div>`).join("")}</div>` : ""}
         </div>
 
         <div class="block">
@@ -439,6 +443,10 @@ async function renderDetail(id) {
           <div class="callout"><b>Lời khuyên:</b> ${esc(c.advice)}</div>
           <div class="callout"><b>Mẹo ghi nhớ:</b> ${esc(c.memoryTip)}</div>
         </div>
+
+        ${c.reflection?.length ? `<div class="block"><h3>Câu hỏi suy ngẫm</h3>
+          <p class="muted">Khi rút được lá này, hãy thử tự hỏi hoặc viết vào nhật ký:</p>
+          <ul class="reflect">${c.reflection.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>` : ""}
 
         <nav class="pager">
           <a href="#/card/${prev.id}">← Lá trước<br><b>${esc(prev.nameVi)}</b></a>
