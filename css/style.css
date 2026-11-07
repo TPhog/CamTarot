@@ -144,6 +144,25 @@ main { padding: 40px 0 80px; min-height: 70vh; }
 .search::placeholder { color: var(--muted); }
 .group-title { display: flex; align-items: baseline; gap: 12px; margin: 40px 0 6px; }
 .group-title h2 { margin: 0; }
+.filters .count { font-size: .78em; opacity: .65; margin-left: 2px; }
+.filter-sep { align-self: center; color: var(--muted); font-size: .85rem; margin: 0 2px 0 12px; }
+.suit-title { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin: 30px 0 6px; padding-top: 20px; border-top: 1px solid var(--line); }
+.suit-title svg { width: 26px; height: 26px; color: var(--c); }
+.suit-title h3 { margin: 0; color: var(--c); font-size: 1.55rem; }
+.arcana-box { border-top: 3px solid var(--c); }
+.arcana-box h3 { color: var(--c); font-size: 1.6rem; }
+.arcana-box h3 .muted { font-size: 1rem; font-style: italic; }
+.arcana-count { color: var(--text); margin-bottom: 14px; }
+.arcana-count b { color: var(--c); font-family: var(--serif); font-size: 1.3rem; }
+.thumbs { display: flex; gap: 10px; margin-bottom: 18px; }
+.thumbs a { width: 68px; transition: transform .2s; }
+.thumbs a:hover { transform: translateY(-3px); }
+.arcana-dl { margin: 0 0 16px; display: grid; grid-template-columns: 96px 1fr; gap: 8px 14px; font-size: .94rem; }
+.arcana-dl dt { color: var(--muted); }
+.arcana-dl dd { margin: 0; }
+.compare td { color: var(--text); }
+.compare thead th { font-family: var(--serif); font-size: 1.15rem; }
+.ratio-h { margin: 0 0 6px; color: var(--gold); font-size: 1.05rem; }
 .group-desc { color: var(--muted); max-width: 760px; margin-bottom: 18px; }
 .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 22px 18px; }
 .card-tile { color: var(--text); display: block; transition: transform .2s; }
@@ -268,6 +287,9 @@ main { padding: 40px 0 80px; min-height: 70vh; }
   .table.celtic .p2 .pos { visibility: visible; }
   .table.celtic .p2 .flip { transform: none; }
   .search { min-width: 0; width: 100%; }
+  .filter-sep { width: 100%; margin: 6px 0 0; }
+  .arcana-dl { grid-template-columns: 1fr; gap: 2px; }
+  .arcana-dl dd { margin-bottom: 8px; }
   .hero-fan { height: 240px; overflow: hidden; }
   .hero-fan .hero-card { width: 110px; }
   .result { grid-template-columns: 64px 1fr; gap: 14px; }

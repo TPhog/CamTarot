@@ -153,7 +153,6 @@ function cardFace(c, reversed = false, eager = false) {
 }
 const cardBack = () => '<div class="tcard-back"><span>✦</span></div>';
 
-function groupOf(c) { return c.arcana === "major" ? "major" : c.suit; }
 function groupLabel(c) { return c.arcana === "major" ? "Ẩn Chính" : `Ẩn Phụ · Bộ ${SUITS[c.suit].vi}`; }
 
 /* ---------------- Router ---------------- */
@@ -220,7 +219,7 @@ function renderHome() {
     <a class="panel feature" href="#/reading"><div class="ico">❸</div><h3>Thực hành trải bài</h3><p class="muted">5 kiểu trải bài từ 1 lá đến Thập Tự Celtic, có giải nghĩa theo vị trí.</p></a>
   </section>
 
-  <section class="section grid-2">
+  <section class="section" style="max-width:820px">
     <div>
       <div class="eyebrow">Bài 1</div>
       <h2>Tarot là gì?</h2>
@@ -228,17 +227,57 @@ function renderHome() {
       <p>Năm 1909, Arthur Edward Waite cùng họa sĩ Pamela Colman Smith phát hành bộ <b>Rider–Waite–Smith</b>. Đây là bộ đầu tiên vẽ tranh minh họa cho tất cả 78 lá, và cũng là bộ phổ biến nhất hiện nay. Website này dùng bộ đó làm chuẩn.</p>
       <p>Hiểu đơn giản: mỗi lá bài là một <b>hình ảnh mang ý nghĩa tượng trưng</b>. Khi đặt các lá cạnh nhau theo vị trí, bạn có một câu chuyện để suy ngẫm về tình huống của mình. Tarot không "phán" tương lai cố định; nó giúp bạn nhìn vấn đề từ nhiều góc.</p>
     </div>
-    <div class="panel" id="learn-structure">
-      <div class="eyebrow">Bài 2</div>
-      <h2>Cấu trúc 78 lá</h2>
-      <p><b style="color:var(--major)">22 lá Ẩn Chính (Major Arcana)</b> — đánh số 0 đến 21, là những nguyên mẫu và bài học lớn của đời người.</p>
-      <p><b style="color:var(--gold)">56 lá Ẩn Phụ (Minor Arcana)</b> — chuyện thường ngày, chia làm 4 bộ (Gậy, Cốc, Kiếm, Tiền). Mỗi bộ có 14 lá:</p>
-      <ul>
-        <li><b>10 lá số</b>: Át (1) đến Mười.</li>
-        <li><b>4 lá hoàng gia</b>: Tiểu Đồng, Hiệp Sĩ, Nữ Hoàng, Vua. Thường chỉ một người, hoặc một tính cách/cách hành xử.</li>
-      </ul>
-      <p class="muted">Mẹo: Ẩn Phụ rất giống bộ bài tây. Gậy = Chuồn, Cốc = Cơ, Kiếm = Bích, Tiền = Rô.</p>
+  </section>
+
+  <section class="section" id="learn-structure">
+    <div class="eyebrow">Bài 2</div>
+    <h2>Ẩn Chính và Ẩn Phụ: hai phần của bộ bài</h2>
+    <p class="muted" style="max-width:820px">78 lá được chia làm hai phần với vai trò rất khác nhau. Đây là điều quan trọng nhất cần nắm trước khi học nghĩa từng lá, vì nó cho bạn biết một lá bài đang nói về <b>chuyện lớn hay chuyện nhỏ</b>, về <b>bài học cuộc đời hay việc hằng ngày</b>. Chữ "Arcana" trong tiếng Latin nghĩa là "bí mật": Ẩn Chính là những bí mật lớn, Ẩn Phụ là những bí mật nhỏ.</p>
+    <div class="grid-2" style="margin-top:20px">
+      <div class="panel arcana-box" style="--c:var(--major)">
+        <h3>Ẩn Chính <span class="muted">· Major Arcana</span></h3>
+        <div class="arcana-count"><b>22 lá</b> · đánh số 0 đến 21</div>
+        <div class="thumbs">${["the-fool", "the-lovers", "death", "the-world"].map((id) => `<a href="#/card/${id}" title="${esc(byId[id].nameVi)}">${cardFace(byId[id])}</a>`).join("")}</div>
+        <dl class="arcana-dl">
+          <dt>Cấu trúc</dt><dd>22 lá độc lập, mỗi lá có tên riêng (Chàng Khờ, Tình Nhân, Cái Chết…), không chia thành bộ.</dd>
+          <dt>Nói về</dt><dd>Những nguyên mẫu và bài học lớn của đời người: tình yêu, quyền lực, mất mát, hy vọng, sự trưởng thành.</dd>
+          <dt>Thời gian</dt><dd>Dài hạn, mang tính giai đoạn; ảnh hưởng sâu đến cuộc sống.</dd>
+          <dt>Kiểm soát</dt><dd>Thường là những lực lớn hơn ý muốn cá nhân: hoàn cảnh, số phận, sự thay đổi bên trong. Bạn cần chấp nhận và học bài học.</dd>
+          <dt>Cách học</dt><dd>Học theo câu chuyện "Hành trình của Chàng Khờ" (Bài 6).</dd>
+        </dl>
+        <a href="#/cards" data-filter="major">Xem 22 lá Ẩn Chính →</a>
+      </div>
+      <div class="panel arcana-box" style="--c:var(--gold)">
+        <h3>Ẩn Phụ <span class="muted">· Minor Arcana</span></h3>
+        <div class="arcana-count"><b>56 lá</b> · 4 bộ × 14 lá</div>
+        <div class="thumbs">${["ace-of-wands", "three-of-cups", "eight-of-swords", "queen-of-pentacles"].map((id) => `<a href="#/card/${id}" title="${esc(byId[id].nameVi)}">${cardFace(byId[id])}</a>`).join("")}</div>
+        <dl class="arcana-dl">
+          <dt>Cấu trúc</dt><dd>4 bộ theo 4 nguyên tố: Gậy (Lửa), Cốc (Nước), Kiếm (Khí), Tiền (Đất). Mỗi bộ có 10 lá số (Át đến Mười) và 4 lá hoàng gia (Tiểu Đồng, Hiệp Sĩ, Nữ Hoàng, Vua).</dd>
+          <dt>Nói về</dt><dd>Chuyện thường ngày, cụ thể: cảm xúc, suy nghĩ, hành động, công việc, tiền bạc, các mối quan hệ.</dd>
+          <dt>Thời gian</dt><dd>Ngắn đến trung hạn; tình huống có thể thay đổi nhanh.</dd>
+          <dt>Kiểm soát</dt><dd>Phần lớn nằm trong tay bạn. Bạn có thể điều chỉnh bằng lựa chọn và hành động.</dd>
+          <dt>Cách học</dt><dd>Không cần học thuộc từng lá: ghép ý nghĩa của Bộ và Số (Bài 3–5). Ẩn Phụ rất giống bài tây: Gậy = Chuồn, Cốc = Cơ, Kiếm = Bích, Tiền = Rô.</dd>
+        </dl>
+        <a href="#/cards" data-filter="minor">Xem 56 lá Ẩn Phụ →</a>
+      </div>
     </div>
+
+    <h3 style="margin-top:36px">Khi rút bài, mỗi loại cho bạn biết điều gì?</h3>
+    <table class="num-table compare"><thead><tr><th></th><th style="color:var(--major)">Ẩn Chính</th><th>Ẩn Phụ</th></tr></thead><tbody>
+      <tr><th>Lá bài trả lời</th><td><b>"Cái gì"</b>: chủ đề lớn, điều đang diễn ra ở tầng sâu.</td><td><b>"Như thế nào"</b>: chi tiết, bối cảnh, cách sự việc thể hiện ra.</td></tr>
+      <tr><th>Mức độ quan trọng</th><td>Cao. Nên đọc trước và chú ý đặc biệt.</td><td>Bình thường. Bổ sung cho lá Ẩn Chính hoặc mô tả tình huống cụ thể.</td></tr>
+      <tr><th>Ai nắm quyền</th><td>Hoàn cảnh, thời thế. Lời khuyên thường là chấp nhận, thích nghi, học hỏi.</td><td>Chính bạn. Lời khuyên thường là một hành động cụ thể có thể làm ngay.</td></tr>
+      <tr><th>Thời gian</th><td>Kéo dài, đánh dấu một giai đoạn của cuộc đời.</td><td>Ngắn hạn, có thể qua nhanh.</td></tr>
+      <tr><th>Người trong câu chuyện</th><td>Hiếm khi chỉ một người cụ thể; thường là một nguyên mẫu hoặc một bài học.</td><td>Lá hoàng gia thường chỉ một người thật hoặc một tính cách (của bạn hay người khác).</td></tr>
+    </tbody></table>
+
+    <h3 style="margin-top:36px">Đọc tỉ lệ Ẩn Chính – Ẩn Phụ trong trải bài</h3>
+    <div class="grid-3">
+      <div class="panel"><h4 class="ratio-h">Nhiều Ẩn Chính</h4><p class="muted">Từ một nửa số lá trở lên là Ẩn Chính: đây là giai đoạn quan trọng, có bước ngoặt. Sự việc vượt ra ngoài kế hoạch thường ngày.</p></div>
+      <div class="panel"><h4 class="ratio-h">Toàn Ẩn Phụ</h4><p class="muted">Chuyện nằm trong tầm tay. Tập trung vào hành động cụ thể, và để ý bộ nào xuất hiện nhiều để biết lĩnh vực chính.</p></div>
+      <div class="panel"><h4 class="ratio-h">Một Ẩn Chính giữa nhiều Ẩn Phụ</h4><p class="muted">Lá Ẩn Chính là chủ đề của cả trải bài. Các lá Ẩn Phụ cho biết chủ đề đó thể hiện ra sao trong đời sống.</p></div>
+    </div>
+    <div class="callout" style="margin-top:16px"><b>Ví dụ:</b> hỏi về công việc, rút được <a href="#/card/the-tower">Tòa Tháp</a> – <a href="#/card/eight-of-pentacles">Tám Tiền</a> – <a href="#/card/three-of-wands">Ba Gậy</a>. Tòa Tháp (Ẩn Chính) báo hiệu một biến động lớn mà bạn không kiểm soát được, ví dụ công ty tái cấu trúc. Tám Tiền và Ba Gậy (Ẩn Phụ) cho biết cách đi qua: chăm chỉ trau dồi tay nghề, rồi mở rộng sang cơ hội mới. Ghép lại: <i>"Biến động là không tránh được, nhưng kỹ năng sẽ đưa bạn đến nơi rộng mở hơn."</i> Trang Xem bài cũng tự đếm tỉ lệ này cho bạn ở phần "Nhìn tổng thể".</div>
   </section>
 
   <section class="section">
@@ -332,38 +371,60 @@ function renderHome() {
 
 /* ---------------- Library ---------------- */
 
+// filter: "all" | "major" | "minor" | a suit key
 const libState = { filter: "all", q: "" };
-const GROUPS = [
-  ["major", "Ẩn Chính", MAJOR_DESC],
-  ...Object.entries(SUITS).map(([k, s]) => [k, `Bộ ${s.vi}`, `${s.desc} Nguyên tố: ${s.element}.`]),
-];
+const SUIT_KEYS = Object.keys(SUITS);
+const MINOR_DESC = "56 lá Ẩn Phụ phản ánh những chuyện thường ngày: cảm xúc, suy nghĩ, hành động, công việc và tiền bạc — những điều phần lớn nằm trong tầm tay bạn. Ẩn Phụ chia thành 4 bộ theo 4 nguyên tố, mỗi bộ 14 lá: 10 lá số (Át đến Mười) và 4 lá hoàng gia (Tiểu Đồng, Hiệp Sĩ, Nữ Hoàng, Vua).";
+
+function inFilter(c, f) {
+  if (f === "all") return true;
+  if (f === "major" || f === "minor") return c.arcana === f;
+  return c.suit === f;
+}
 
 function renderLibrary() {
+  const chip = (k, label) => `<button data-f="${k}" class="${libState.filter === k ? "active" : ""}">${label} <span class="count">${INDEX.filter((c) => inFilter(c, k)).length}</span></button>`;
   app.innerHTML = `
     <div class="lib-head">
       <div><div class="eyebrow">Thư viện</div><h1 style="margin:0">78 lá bài Tarot</h1></div>
       <input class="search" type="search" placeholder="Tìm tên lá hoặc từ khóa…" value="${esc(libState.q)}" aria-label="Tìm lá bài">
     </div>
     <div class="filters" role="tablist">
-      ${[["all", "Tất cả"], ...GROUPS.map(([k, t]) => [k, t])].map(([k, t]) => `<button data-f="${k}" class="${libState.filter === k ? "active" : ""}">${t}</button>`).join("")}
+      ${chip("all", "Tất cả")}${chip("major", "Ẩn Chính")}${chip("minor", "Ẩn Phụ")}
+      <span class="filter-sep">Ẩn Phụ theo bộ:</span>
+      ${SUIT_KEYS.map((k) => chip(k, SUITS[k].vi)).join("")}
     </div>
     <div id="lib-results"></div>`;
 
   const results = app.querySelector("#lib-results");
+  const tiles = (list) => `<div class="card-grid">${list.map((c) => `
+    <a class="card-tile" href="#/card/${c.id}">${cardFace(c)}
+      <div class="meta"><b>${esc(c.nameVi)}</b><span>${c.keywords.slice(0, 3).map(esc).join(" · ")}</span></div>
+    </a>`).join("")}</div>`;
+
   const draw = () => {
     const q = norm(libState.q.trim());
+    const f = libState.filter;
+    const match = (c) => !q || norm([c.name, c.nameVi, ...c.keywords].join(" ")).includes(q);
     let html = "";
-    for (const [key, title, desc] of GROUPS) {
-      if (libState.filter !== "all" && libState.filter !== key) continue;
-      const list = INDEX.filter((c) => groupOf(c) === key)
-        .filter((c) => !q || norm([c.name, c.nameVi, ...c.keywords].join(" ")).includes(q));
-      if (!list.length) continue;
-      html += `<div class="group-title"><h2>${title}</h2><span class="muted">${list.length} lá</span></div>
-        ${q ? "" : `<p class="group-desc">${desc}</p>`}
-        <div class="card-grid">${list.map((c) => `
-          <a class="card-tile" href="#/card/${c.id}">${cardFace(c)}
-            <div class="meta"><b>${esc(c.nameVi)}</b><span>${c.keywords.slice(0, 3).map(esc).join(" · ")}</span></div>
-          </a>`).join("")}</div>`;
+
+    if (f === "all" || f === "major") {
+      const list = INDEX.filter((c) => c.arcana === "major" && match(c));
+      if (list.length) html += `<div class="group-title"><h2>Ẩn Chính</h2><span class="muted">Major Arcana · ${list.length} lá</span></div>
+        ${q ? "" : `<p class="group-desc">${MAJOR_DESC}</p>`}${tiles(list)}`;
+    }
+
+    const suits = f === "all" || f === "minor" ? SUIT_KEYS : SUIT_KEYS.filter((k) => k === f);
+    const bySuit = suits.map((k) => [k, INDEX.filter((c) => c.suit === k && match(c))]).filter(([, l]) => l.length);
+    if (bySuit.length) {
+      const total = bySuit.reduce((n, [, l]) => n + l.length, 0);
+      html += `<div class="group-title"><h2>Ẩn Phụ</h2><span class="muted">Minor Arcana · ${total} lá</span></div>
+        ${q ? "" : `<p class="group-desc">${MINOR_DESC}</p>`}`;
+      for (const [k, list] of bySuit) {
+        const s = SUITS[k];
+        html += `<div class="suit-title" style="--c:var(--${k})">${SUIT_SVG[k]}<h3>Bộ ${s.vi}</h3><span class="muted">${s.en} · Nguyên tố ${s.element} · ${list.length} lá</span></div>
+          ${q ? "" : `<p class="group-desc">${s.desc}</p>`}${tiles(list)}`;
+      }
     }
     results.innerHTML = html || `<p class="empty">Không tìm thấy lá bài nào cho "${esc(libState.q)}".</p>`;
   };
