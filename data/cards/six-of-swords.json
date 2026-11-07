@@ -1,0 +1,42 @@
+{
+  "id": "six-of-swords",
+  "name": "Six of Swords",
+  "nameVi": "Sáu Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "6",
+  "number": 6,
+  "element": "Khí",
+  "astrology": "Sao Thủy ở cung Bảo Bình",
+  "keywords": {
+    "upright": [
+      "Chuyển tiếp",
+      "Rời đi",
+      "Bình yên dần",
+      "Hành trình"
+    ],
+    "reversed": [
+      "Mắc kẹt",
+      "Kháng cự thay đổi",
+      "Hành lý cảm xúc"
+    ]
+  },
+  "imagery": "Người lái đò chở một người phụ nữ và đứa trẻ sang bờ bên kia. Sáu thanh kiếm cắm trên thuyền, mặt nước phía trước phẳng lặng.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang rời khỏi giai đoạn khó khăn để đến nơi bình yên hơn. Sự chuyển tiếp có thể buồn nhưng cần thiết.",
+    "love": "Mối quan hệ đi qua giai đoạn khó khăn.",
+    "career": "Chuyển công tác, chuyển hướng.",
+    "finance": "Tình hình tài chính dần ổn."
+  },
+  "reversed": {
+    "general": "Bạn đang mắc kẹt, không thể rời đi, hoặc mang theo quá nhiều gánh nặng cũ.",
+    "love": "Không thể buông bỏ chuyện cũ.",
+    "career": "Kế hoạch chuyển đổi bị trì hoãn."
+  },
+  "advice": "Hãy rời đi — vùng nước yên bình đang ở phía trước.",
+  "yesNo": "Có",
+  "memoryTip": "Con thuyền sang sông = \"chuyển từ khó khăn sang bình yên\".",
+  "image": "assets/cards/six-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "the-magician",
+  "name": "The Magician",
+  "nameVi": "Nhà Ảo Thuật",
+  "arcana": "major",
+  "suit": null,
+  "number": 1,
+  "element": "Khí",
+  "astrology": "Sao Thủy",
+  "glyph": "☿",
+  "keywords": {
+    "upright": [
+      "Ý chí",
+      "Hành động",
+      "Kỹ năng",
+      "Biến ý tưởng thành hiện thực",
+      "Tập trung"
+    ],
+    "reversed": [
+      "Thao túng",
+      "Lừa dối",
+      "Tài năng bị lãng phí",
+      "Thiếu kế hoạch"
+    ]
+  },
+  "imagery": "Nhà Ảo Thuật đứng trước chiếc bàn có đủ bốn biểu tượng: gậy, cốc, kiếm, đồng tiền. Một tay chỉ lên trời, một tay chỉ xuống đất; trên đầu là biểu tượng vô cực.",
+  "symbols": [
+    {
+      "name": "Tay chỉ trời – đất",
+      "meaning": "\"Trên sao, dưới vậy\": dẫn năng lượng ý tưởng xuống thế giới vật chất."
+    },
+    {
+      "name": "Bốn công cụ trên bàn",
+      "meaning": "Bạn có đủ nguồn lực: đam mê, cảm xúc, trí tuệ và vật chất."
+    },
+    {
+      "name": "Biểu tượng vô cực",
+      "meaning": "Tiềm năng không giới hạn, sức mạnh tâm trí."
+    },
+    {
+      "name": "Hoa hồng và hoa ly",
+      "meaning": "Đam mê (đỏ) và sự thuần khiết (trắng) hòa quyện."
+    }
+  ],
+  "upright": {
+    "general": "Bạn có mọi thứ cần thiết để thành công — giờ là lúc hành động. Nhà Ảo Thuật đại diện cho khả năng biến ý định thành kết quả thông qua sự tập trung và kỹ năng.",
+    "love": "Chủ động trong tình cảm; sức hút mạnh mẽ. Người độc thân có thể gặp ai đó đầy cuốn hút.",
+    "career": "Thời điểm tốt để khởi động dự án, thuyết trình, đàm phán. Kỹ năng của bạn được công nhận.",
+    "finance": "Khả năng tạo ra thu nhập từ tài năng riêng; hãy chủ động tìm nguồn thu mới."
+  },
+  "reversed": {
+    "general": "Năng lực bị dùng sai mục đích hoặc chưa được khai thác. Cẩn thận với người nói hay mà làm không ra gì — kể cả chính bạn.",
+    "love": "Có người đang thao túng hoặc không thành thật; lời ngọt ngào có thể che giấu ý đồ.",
+    "career": "Kế hoạch thiếu nền tảng, hoặc bạn đang phân tán năng lượng vào quá nhiều việc."
+  },
+  "advice": "Hãy xác định rõ mục tiêu, gom nguồn lực và bắt tay vào làm ngay.",
+  "yesNo": "Có",
+  "memoryTip": "Số 1 = khởi phát. Chàng Khờ (0) có giấc mơ, Nhà Ảo Thuật (1) có công cụ để thực hiện nó.",
+  "image": "assets/cards/the-magician.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "the-sun",
+  "name": "The Sun",
+  "nameVi": "Mặt Trời",
+  "arcana": "major",
+  "suit": null,
+  "number": 19,
+  "element": "Lửa",
+  "astrology": "Mặt Trời",
+  "glyph": "☉",
+  "keywords": {
+    "upright": [
+      "Niềm vui",
+      "Thành công",
+      "Tích cực",
+      "Sức sống",
+      "Rõ ràng"
+    ],
+    "reversed": [
+      "Niềm vui tạm thời bị che",
+      "Lạc quan quá mức",
+      "Thiếu nhiệt huyết",
+      "Trì hoãn thành công"
+    ]
+  },
+  "imagery": "Một em bé trần trụi cưỡi ngựa trắng dưới mặt trời rực rỡ, tay cầm lá cờ đỏ. Phía sau là bức tường với hoa hướng dương nở rộ.",
+  "symbols": [
+    {
+      "name": "Em bé",
+      "meaning": "Niềm vui thuần khiết, hồn nhiên."
+    },
+    {
+      "name": "Hoa hướng dương",
+      "meaning": "Luôn hướng về ánh sáng, sự sống."
+    },
+    {
+      "name": "Ngựa trắng",
+      "meaning": "Sức mạnh thuần khiết."
+    },
+    {
+      "name": "Lá cờ đỏ",
+      "meaning": "Sinh lực, hành động tràn đầy năng lượng."
+    }
+  ],
+  "upright": {
+    "general": "Một trong những lá bài tích cực nhất. Thành công, niềm vui và sự rõ ràng đang chiếu sáng cuộc sống bạn. Hãy tận hưởng và tỏa sáng.",
+    "love": "Hạnh phúc, ấm áp; mối quan hệ vui vẻ, có thể tin vui (cưới hỏi, con cái).",
+    "career": "Thành công, được ghi nhận, năng lượng dồi dào.",
+    "finance": "Tài chính tốt đẹp; đầu tư có kết quả."
+  },
+  "reversed": {
+    "general": "Niềm vui vẫn có nhưng đang bị che khuất bởi suy nghĩ tiêu cực, hoặc bạn quá lạc quan mà bỏ qua thực tế.",
+    "love": "Hạnh phúc bị trì hoãn; cần tìm lại sự vui tươi.",
+    "career": "Thành công đến chậm hơn mong đợi."
+  },
+  "advice": "Hãy để mình tỏa sáng và chia sẻ niềm vui với mọi người.",
+  "yesNo": "Có",
+  "memoryTip": "Sau đêm Mặt Trăng (18) là bình minh Mặt Trời (19): mọi thứ rõ ràng, ấm áp.",
+  "image": "assets/cards/the-sun.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

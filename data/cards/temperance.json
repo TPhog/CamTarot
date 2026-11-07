@@ -1,0 +1,61 @@
+{
+  "id": "temperance",
+  "name": "Temperance",
+  "nameVi": "Tiết Chế",
+  "arcana": "major",
+  "suit": null,
+  "number": 14,
+  "element": "Lửa",
+  "astrology": "Cung Nhân Mã",
+  "glyph": "♐",
+  "keywords": {
+    "upright": [
+      "Cân bằng",
+      "Điều độ",
+      "Kiên nhẫn",
+      "Hòa hợp",
+      "Chữa lành"
+    ],
+    "reversed": [
+      "Mất cân bằng",
+      "Thái quá",
+      "Nóng vội",
+      "Xung đột"
+    ]
+  },
+  "imagery": "Thiên thần có cánh đứng một chân trên đất, một chân dưới nước, rót nước qua lại giữa hai chiếc cốc. Một con đường dẫn đến ngọn núi có vầng sáng như vương miện.",
+  "symbols": [
+    {
+      "name": "Rót nước giữa hai cốc",
+      "meaning": "Pha trộn các yếu tố đối lập để tạo sự hài hòa."
+    },
+    {
+      "name": "Một chân đất, một chân nước",
+      "meaning": "Cân bằng giữa thực tế và cảm xúc."
+    },
+    {
+      "name": "Tam giác trên ngực",
+      "meaning": "Tinh thần được neo trong vật chất."
+    },
+    {
+      "name": "Con đường lên núi",
+      "meaning": "Hành trình dài hướng tới mục đích cao hơn."
+    }
+  ],
+  "upright": {
+    "general": "Sự cân bằng và điều độ là chìa khóa lúc này. Đừng vội vàng; hãy pha trộn mọi thứ đúng liều lượng, kiên nhẫn để kết quả tự hình thành.",
+    "love": "Mối quan hệ hòa hợp, biết nhường nhịn; chữa lành sau mâu thuẫn.",
+    "career": "Làm việc nhóm hiệu quả; tìm điểm cân bằng giữa công việc và cuộc sống.",
+    "finance": "Chi tiêu điều độ, kế hoạch tài chính dài hạn sẽ ổn định."
+  },
+  "reversed": {
+    "general": "Bạn đang thái quá ở đâu đó — làm việc, ăn uống, cảm xúc — hoặc thiếu kiên nhẫn, muốn kết quả ngay.",
+    "love": "Thiếu hòa hợp, một bên quá đà; cần tìm lại điểm giữa.",
+    "career": "Quá tải, kiệt sức; mất cân bằng giữa công việc và nghỉ ngơi."
+  },
+  "advice": "Tìm \"điểm vừa đủ\" — không quá nhiều, không quá ít — và kiên nhẫn với tiến trình.",
+  "yesNo": "Có",
+  "memoryTip": "Đứng sau Cái Chết (13): sau thay đổi lớn là giai đoạn chữa lành và cân bằng lại.",
+  "image": "assets/cards/temperance.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

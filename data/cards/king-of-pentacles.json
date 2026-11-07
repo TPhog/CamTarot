@@ -1,0 +1,42 @@
+{
+  "id": "king-of-pentacles",
+  "name": "King of Pentacles",
+  "nameVi": "Vua Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "king",
+  "number": 14,
+  "element": "Đất",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Giàu có",
+      "Thành công",
+      "Ổn định",
+      "Doanh nhân"
+    ],
+    "reversed": [
+      "Tham lam",
+      "Vật chất hóa",
+      "Cứng nhắc"
+    ]
+  },
+  "imagery": "Vị vua mặc áo choàng thêu nho, ngồi trên ngai trang trí đầu bò, tay cầm đồng tiền và quyền trượng.",
+  "symbols": [],
+  "upright": {
+    "general": "Thành công và giàu có nhờ nỗ lực bền bỉ. Bạn có thể xây dựng sự thịnh vượng lâu dài.",
+    "love": "Người bạn đời ổn định, chu cấp tốt.",
+    "career": "Doanh nhân, nhà quản lý thành công.",
+    "finance": "Giàu có, đầu tư thông minh."
+  },
+  "reversed": {
+    "general": "Tham lam, quá coi trọng tiền bạc.",
+    "love": "Dùng tiền để kiểm soát.",
+    "career": "Bảo thủ."
+  },
+  "advice": "Xây dựng sự thịnh vượng một cách khôn ngoan.",
+  "yesNo": "Có",
+  "memoryTip": "Vua Tiền = \"vị đại gia thành đạt\".",
+  "image": "assets/cards/king-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

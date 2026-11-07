@@ -1,0 +1,42 @@
+{
+  "id": "six-of-wands",
+  "name": "Six of Wands",
+  "nameVi": "Sáu Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "6",
+  "number": 6,
+  "element": "Lửa",
+  "astrology": "Sao Mộc ở cung Sư Tử",
+  "keywords": {
+    "upright": [
+      "Chiến thắng",
+      "Được công nhận",
+      "Tự hào",
+      "Thành công công khai"
+    ],
+    "reversed": [
+      "Kiêu ngạo",
+      "Thiếu công nhận",
+      "Thất bại công khai"
+    ]
+  },
+  "imagery": "Người kỵ sĩ đội vòng nguyệt quế cưỡi ngựa trắng giữa đám đông, giơ cao cây gậy cũng quấn vòng nguyệt quế.",
+  "symbols": [],
+  "upright": {
+    "general": "Chiến thắng và được công nhận trước mọi người. Nỗ lực của bạn được đền đáp — hãy tự hào nhưng khiêm tốn.",
+    "love": "Tình cảm được mọi người ủng hộ; bạn cảm thấy tự hào về người kia.",
+    "career": "Thăng tiến, khen thưởng, thành công nổi bật.",
+    "finance": "Thành quả tài chính xứng đáng."
+  },
+  "reversed": {
+    "general": "Thành công chưa được ghi nhận, hoặc cái tôi quá lớn. Cũng có thể là sợ thất bại trước đám đông.",
+    "love": "Quá coi trọng hình ảnh bên ngoài của mối quan hệ.",
+    "career": "Công sức không được ghi nhận; thất vọng."
+  },
+  "advice": "Đón nhận thành công một cách khiêm tốn và chia sẻ nó.",
+  "yesNo": "Có",
+  "memoryTip": "Số 6 = hài hòa sau xung đột (5). Đoàn diễu hành chiến thắng.",
+  "image": "assets/cards/six-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

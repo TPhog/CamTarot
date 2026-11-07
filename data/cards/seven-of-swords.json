@@ -1,0 +1,42 @@
+{
+  "id": "seven-of-swords",
+  "name": "Seven of Swords",
+  "nameVi": "Bảy Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "7",
+  "number": 7,
+  "element": "Khí",
+  "astrology": "Mặt Trăng ở cung Bảo Bình",
+  "keywords": {
+    "upright": [
+      "Lén lút",
+      "Mưu mẹo",
+      "Lừa dối",
+      "Chiến lược"
+    ],
+    "reversed": [
+      "Thú nhận",
+      "Bị phát hiện",
+      "Lương tâm"
+    ]
+  },
+  "imagery": "Người đàn ông rón rén ôm năm thanh kiếm rời khỏi trại, ngoái lại nhìn; hai thanh còn lại cắm phía sau.",
+  "symbols": [],
+  "upright": {
+    "general": "Có điều gì đó lén lút, không minh bạch — có thể là người khác hoặc chính bạn. Cũng có thể là dùng chiến lược khéo léo.",
+    "love": "Có sự giấu giếm, không trung thực.",
+    "career": "Cẩn thận đồng nghiệp không trung thực; hoặc cần chiến lược khéo léo.",
+    "finance": "Cẩn thận lừa đảo."
+  },
+  "reversed": {
+    "general": "Sự thật bị phát hiện; lương tâm lên tiếng, muốn thú nhận.",
+    "love": "Bí mật được tiết lộ.",
+    "career": "Sự gian lận bị lộ."
+  },
+  "advice": "Hãy minh bạch — và cảnh giác với ai đó không như vẻ ngoài.",
+  "yesNo": "Không",
+  "memoryTip": "Người ôm kiếm rón rén = \"kẻ trộm trong trại\".",
+  "image": "assets/cards/seven-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

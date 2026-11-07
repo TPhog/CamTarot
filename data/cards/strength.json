@@ -1,0 +1,61 @@
+{
+  "id": "strength",
+  "name": "Strength",
+  "nameVi": "Sức Mạnh",
+  "arcana": "major",
+  "suit": null,
+  "number": 8,
+  "element": "Lửa",
+  "astrology": "Cung Sư Tử",
+  "glyph": "♌",
+  "keywords": {
+    "upright": [
+      "Can đảm",
+      "Kiên nhẫn",
+      "Lòng trắc ẩn",
+      "Sức mạnh nội tâm",
+      "Tự chủ"
+    ],
+    "reversed": [
+      "Tự ti",
+      "Thiếu kiên nhẫn",
+      "Mất tự chủ",
+      "Nóng giận"
+    ]
+  },
+  "imagery": "Một người phụ nữ áo trắng nhẹ nhàng khép miệng sư tử bằng đôi tay, không chút sợ hãi. Trên đầu là biểu tượng vô cực, eo quấn vòng hoa.",
+  "symbols": [
+    {
+      "name": "Sư tử",
+      "meaning": "Bản năng, cảm xúc mạnh, cơn giận và đam mê."
+    },
+    {
+      "name": "Đôi tay dịu dàng",
+      "meaning": "Chế ngự bằng tình thương chứ không bằng vũ lực."
+    },
+    {
+      "name": "Biểu tượng vô cực",
+      "meaning": "Sức mạnh tinh thần vô tận."
+    },
+    {
+      "name": "Vòng hoa",
+      "meaning": "Sự hài hòa giữa thiên nhiên hoang dã và con người."
+    }
+  ],
+  "upright": {
+    "general": "Sức mạnh thật sự đến từ sự kiên nhẫn, dịu dàng và tự chủ — không phải sự ép buộc. Bạn có đủ can đảm để đối diện nỗi sợ và thuần hóa \"con sư tử\" bên trong mình.",
+    "love": "Tình yêu cần sự kiên nhẫn và bao dung; sức mạnh của mối quan hệ nằm ở sự thấu hiểu.",
+    "career": "Vượt qua áp lực bằng sự bình tĩnh; mềm mỏng nhưng kiên định sẽ thuyết phục người khác.",
+    "finance": "Kiềm chế chi tiêu theo cảm xúc; kiên trì sẽ đem lại kết quả."
+  },
+  "reversed": {
+    "general": "Bạn đang nghi ngờ bản thân, cảm thấy yếu đuối, hoặc để cảm xúc (giận dữ, sợ hãi) điều khiển.",
+    "love": "Thiếu tự tin trong tình cảm, hoặc xung đột vì không kiềm chế được cảm xúc.",
+    "career": "Cảm thấy kiệt sức, mất tự tin; cần nạp lại năng lượng."
+  },
+  "advice": "Hãy dịu dàng với chính mình — kiên nhẫn là một dạng can đảm.",
+  "yesNo": "Có",
+  "memoryTip": "Trong bộ Rider–Waite, Sức Mạnh là số 8 (một số bộ khác là 11). Nhớ: \"mềm nắn rắn buông\".",
+  "image": "assets/cards/strength.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

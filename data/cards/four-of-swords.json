@@ -1,0 +1,42 @@
+{
+  "id": "four-of-swords",
+  "name": "Four of Swords",
+  "nameVi": "Bốn Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "4",
+  "number": 4,
+  "element": "Khí",
+  "astrology": "Sao Mộc ở cung Thiên Bình",
+  "keywords": {
+    "upright": [
+      "Nghỉ ngơi",
+      "Hồi phục",
+      "Thiền định",
+      "Tĩnh dưỡng"
+    ],
+    "reversed": [
+      "Kiệt sức",
+      "Bồn chồn",
+      "Trở lại hoạt động"
+    ]
+  },
+  "imagery": "Hiệp sĩ nằm nghỉ trên quan tài trong nhà thờ, hai tay chắp lại. Ba kiếm treo trên tường, một kiếm nằm bên dưới.",
+  "symbols": [],
+  "upright": {
+    "general": "Sau căng thẳng, đây là lúc nghỉ ngơi và hồi phục. Hãy cho tâm trí và cơ thể được tĩnh lặng.",
+    "love": "Cần thời gian riêng để suy nghĩ.",
+    "career": "Nghỉ phép, tạm dừng để nạp năng lượng.",
+    "finance": "Tạm dừng quyết định lớn."
+  },
+  "reversed": {
+    "general": "Bạn đã nghỉ đủ và sẵn sàng quay lại; hoặc đang kiệt sức vì không chịu nghỉ.",
+    "love": "Bồn chồn, không thể thư giãn.",
+    "career": "Kiệt sức vì làm việc liên tục."
+  },
+  "advice": "Nghỉ ngơi không phải lười biếng — đó là chuẩn bị.",
+  "yesNo": "Không",
+  "memoryTip": "Số 4 = ổn định. Hiệp sĩ nằm yên = \"nghỉ ngơi để hồi phục\".",
+  "image": "assets/cards/four-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

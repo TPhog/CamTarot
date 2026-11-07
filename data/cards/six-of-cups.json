@@ -1,0 +1,42 @@
+{
+  "id": "six-of-cups",
+  "name": "Six of Cups",
+  "nameVi": "Sáu Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "6",
+  "number": 6,
+  "element": "Nước",
+  "astrology": "Mặt Trời ở cung Bọ Cạp",
+  "keywords": {
+    "upright": [
+      "Hoài niệm",
+      "Ký ức",
+      "Ngây thơ",
+      "Tuổi thơ"
+    ],
+    "reversed": [
+      "Kẹt trong quá khứ",
+      "Trưởng thành",
+      "Buông bỏ ký ức"
+    ]
+  },
+  "imagery": "Cậu bé trao cốc hoa cho cô bé trong khu vườn cũ. Sáu chiếc cốc cắm đầy hoa trắng.",
+  "symbols": [],
+  "upright": {
+    "general": "Ký ức đẹp, sự ngây thơ và niềm vui giản dị. Có thể là gặp lại người cũ hoặc quay về nơi chốn thân quen.",
+    "love": "Người yêu cũ quay lại, hoặc tình cảm trong sáng như thuở ban đầu.",
+    "career": "Quay lại công việc cũ; làm điều gắn với đam mê thời thơ ấu.",
+    "finance": "Quà tặng, sự giúp đỡ từ gia đình."
+  },
+  "reversed": {
+    "general": "Bạn đang sống quá nhiều trong quá khứ; cần trưởng thành và nhìn về phía trước.",
+    "love": "Mãi so sánh với người cũ.",
+    "career": "Không chịu thích nghi với điều mới."
+  },
+  "advice": "Trân trọng quá khứ, nhưng đừng sống trong đó.",
+  "yesNo": "Có",
+  "memoryTip": "Số 6 = hài hòa. Hai đứa trẻ trao hoa = hoài niệm tuổi thơ.",
+  "image": "assets/cards/six-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

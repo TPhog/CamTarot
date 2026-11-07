@@ -1,0 +1,42 @@
+{
+  "id": "seven-of-cups",
+  "name": "Seven of Cups",
+  "nameVi": "Bảy Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "7",
+  "number": 7,
+  "element": "Nước",
+  "astrology": "Sao Kim ở cung Bọ Cạp",
+  "keywords": {
+    "upright": [
+      "Lựa chọn",
+      "Ảo tưởng",
+      "Mơ mộng",
+      "Cám dỗ"
+    ],
+    "reversed": [
+      "Rõ ràng",
+      "Quyết định",
+      "Thực tế"
+    ]
+  },
+  "imagery": "Một người đứng nhìn bảy chiếc cốc lơ lửng trên mây, mỗi cốc chứa một thứ khác nhau: châu báu, rắn, lâu đài, vòng nguyệt quế...",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn có nhiều lựa chọn nhưng không phải cái nào cũng thật. Đừng để ảo tưởng che mắt — hãy phân biệt mơ ước và thực tế.",
+    "love": "Mơ mộng về tình yêu lý tưởng; nhiều lựa chọn gây bối rối.",
+    "career": "Quá nhiều ý tưởng, khó chọn; cần tập trung.",
+    "finance": "Cẩn thận với lời hứa hẹn làm giàu nhanh."
+  },
+  "reversed": {
+    "general": "Bạn đang nhìn rõ hơn và sẵn sàng đưa ra lựa chọn thực tế.",
+    "love": "Biết rõ mình thật sự muốn gì.",
+    "career": "Tập trung vào một mục tiêu."
+  },
+  "advice": "Hãy chọn một điều có thật và hành động.",
+  "yesNo": "Không",
+  "memoryTip": "Số 7 = thử thách. Bảy cốc trên mây = \"lâu đài trên cát\".",
+  "image": "assets/cards/seven-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

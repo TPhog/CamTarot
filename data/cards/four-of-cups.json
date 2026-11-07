@@ -1,0 +1,42 @@
+{
+  "id": "four-of-cups",
+  "name": "Four of Cups",
+  "nameVi": "Bốn Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "4",
+  "number": 4,
+  "element": "Nước",
+  "astrology": "Mặt Trăng ở cung Cự Giải",
+  "keywords": {
+    "upright": [
+      "Thờ ơ",
+      "Chán nản",
+      "Bỏ lỡ cơ hội",
+      "Nội quan"
+    ],
+    "reversed": [
+      "Nhận ra cơ hội",
+      "Tỉnh thức",
+      "Bắt đầu lại"
+    ]
+  },
+  "imagery": "Người đàn ông ngồi dưới gốc cây khoanh tay, nhìn ba chiếc cốc trước mặt, không để ý đến cốc thứ tư được bàn tay từ mây đưa ra.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang chán nản, thờ ơ, và có thể bỏ lỡ cơ hội ngay trước mắt. Hãy mở mắt nhìn lại.",
+    "love": "Thờ ơ trong tình cảm; không trân trọng những gì đang có.",
+    "career": "Chán công việc; bỏ qua cơ hội mới.",
+    "finance": "Bỏ lỡ cơ hội tài chính vì thiếu chú ý."
+  },
+  "reversed": {
+    "general": "Bạn bắt đầu thoát khỏi sự trì trệ, sẵn sàng đón nhận điều mới.",
+    "love": "Nhận ra giá trị của người bên cạnh.",
+    "career": "Có động lực trở lại."
+  },
+  "advice": "Nhìn lại — có thể điều bạn tìm đang ở ngay trước mặt.",
+  "yesNo": "Không",
+  "memoryTip": "Số 4 = ổn định đến mức trì trệ. Chiếc cốc thứ tư bị phớt lờ = cơ hội bị bỏ qua.",
+  "image": "assets/cards/four-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

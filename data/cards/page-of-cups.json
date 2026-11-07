@@ -1,0 +1,42 @@
+{
+  "id": "page-of-cups",
+  "name": "Page of Cups",
+  "nameVi": "Tiểu Đồng Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "page",
+  "number": 11,
+  "element": "Nước",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Tin vui cảm xúc",
+      "Trực giác",
+      "Sáng tạo",
+      "Ngây thơ"
+    ],
+    "reversed": [
+      "Cảm xúc non nớt",
+      "Tin buồn",
+      "Bế tắc sáng tạo"
+    ]
+  },
+  "imagery": "Chàng trai trẻ mặc áo hoa cầm chiếc cốc, ngạc nhiên nhìn chú cá nhỏ thò đầu lên từ trong cốc.",
+  "symbols": [],
+  "upright": {
+    "general": "Một bất ngờ dễ thương, tin vui về tình cảm hoặc ý tưởng sáng tạo. Hãy mở lòng với trực giác và sự hồn nhiên.",
+    "love": "Lời tỏ tình, tin nhắn đáng yêu; cảm xúc mới chớm.",
+    "career": "Ý tưởng sáng tạo bất ngờ.",
+    "finance": "Tin vui nhỏ về tài chính."
+  },
+  "reversed": {
+    "general": "Cảm xúc non nớt, dễ tổn thương; bế tắc sáng tạo.",
+    "love": "Thất vọng nhỏ; hành xử trẻ con.",
+    "career": "Thiếu cảm hứng."
+  },
+  "advice": "Hãy để mình ngạc nhiên và chơi đùa với trí tưởng tượng.",
+  "yesNo": "Có",
+  "memoryTip": "Con cá trong cốc = \"ý tưởng từ tiềm thức bất ngờ nhảy lên\".",
+  "image": "assets/cards/page-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

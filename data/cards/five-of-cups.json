@@ -1,0 +1,42 @@
+{
+  "id": "five-of-cups",
+  "name": "Five of Cups",
+  "nameVi": "Năm Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "5",
+  "number": 5,
+  "element": "Nước",
+  "astrology": "Sao Hỏa ở cung Bọ Cạp",
+  "keywords": {
+    "upright": [
+      "Mất mát",
+      "Tiếc nuối",
+      "Đau buồn",
+      "Thất vọng"
+    ],
+    "reversed": [
+      "Chấp nhận",
+      "Tha thứ",
+      "Bước tiếp"
+    ]
+  },
+  "imagery": "Người mặc áo choàng đen cúi đầu nhìn ba chiếc cốc đổ, không thấy hai chiếc cốc còn đứng phía sau. Xa xa là cây cầu dẫn về nhà.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang đau buồn vì mất mát hoặc thất vọng. Cảm xúc ấy là thật — nhưng vẫn còn hai chiếc cốc đứng vững phía sau.",
+    "love": "Chia tay, thất vọng, tiếc nuối.",
+    "career": "Thất bại, kế hoạch không như ý.",
+    "finance": "Mất mát tài chính; học từ sai lầm."
+  },
+  "reversed": {
+    "general": "Bạn đang dần chấp nhận, tha thứ và sẵn sàng bước tiếp.",
+    "love": "Chữa lành sau chia tay.",
+    "career": "Rút kinh nghiệm và bắt đầu lại."
+  },
+  "advice": "Cho phép mình buồn, rồi quay lại nhìn những gì vẫn còn.",
+  "yesNo": "Không",
+  "memoryTip": "Số 5 = khủng hoảng. Ba cốc đổ – hai cốc còn = \"mất nhưng không mất hết\".",
+  "image": "assets/cards/five-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

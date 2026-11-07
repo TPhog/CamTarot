@@ -1,0 +1,42 @@
+{
+  "id": "nine-of-pentacles",
+  "name": "Nine of Pentacles",
+  "nameVi": "Chín Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "9",
+  "number": 9,
+  "element": "Đất",
+  "astrology": "Sao Kim ở cung Xử Nữ",
+  "keywords": {
+    "upright": [
+      "Độc lập",
+      "Sung túc",
+      "Tự chủ",
+      "Tận hưởng"
+    ],
+    "reversed": [
+      "Phụ thuộc",
+      "Làm quá sức",
+      "Giả tạo"
+    ]
+  },
+  "imagery": "Người phụ nữ sang trọng đứng trong vườn nho chín, chim ưng đậu trên tay, chín đồng tiền xung quanh.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đã đạt được sự độc lập và sung túc nhờ nỗ lực của chính mình. Hãy tận hưởng thành quả.",
+    "love": "Tự tin, độc lập trong tình cảm.",
+    "career": "Thành công tự lập.",
+    "finance": "Tài chính độc lập."
+  },
+  "reversed": {
+    "general": "Phụ thuộc tài chính hoặc làm việc quá sức.",
+    "love": "Cô đơn dù đầy đủ.",
+    "career": "Sống vượt khả năng."
+  },
+  "advice": "Tận hưởng thành quả của mình.",
+  "yesNo": "Có",
+  "memoryTip": "Người phụ nữ trong vườn nho = \"tự lập và sung túc\".",
+  "image": "assets/cards/nine-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

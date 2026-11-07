@@ -1,0 +1,61 @@
+{
+  "id": "the-world",
+  "name": "The World",
+  "nameVi": "Thế Giới",
+  "arcana": "major",
+  "suit": null,
+  "number": 21,
+  "element": "Đất",
+  "astrology": "Sao Thổ",
+  "glyph": "♄",
+  "keywords": {
+    "upright": [
+      "Hoàn thành",
+      "Viên mãn",
+      "Thành tựu",
+      "Hòa nhập",
+      "Du lịch"
+    ],
+    "reversed": [
+      "Dang dở",
+      "Thiếu khép lại",
+      "Trì hoãn",
+      "Tìm đường tắt"
+    ]
+  },
+  "imagery": "Một vũ công quấn khăn tím nhảy múa bên trong vòng nguyệt quế, tay cầm hai cây gậy. Bốn góc là bốn sinh vật như ở lá Vòng Quay Số Phận.",
+  "symbols": [
+    {
+      "name": "Vòng nguyệt quế",
+      "meaning": "Chiến thắng, sự trọn vẹn của một chu kỳ."
+    },
+    {
+      "name": "Vũ công",
+      "meaning": "Sự hòa hợp, tự do trong chuyển động."
+    },
+    {
+      "name": "Hai cây gậy",
+      "meaning": "Cân bằng giữa các mặt đối lập (giống Nhà Ảo Thuật)."
+    },
+    {
+      "name": "Bốn sinh vật",
+      "meaning": "Bốn nguyên tố được hợp nhất."
+    }
+  ],
+  "upright": {
+    "general": "Một hành trình đã hoàn tất trọn vẹn. Bạn đạt được mục tiêu, cảm thấy viên mãn và sẵn sàng cho chu kỳ mới. Hãy ăn mừng thành quả của mình.",
+    "love": "Mối quan hệ viên mãn, gắn kết; một cột mốc quan trọng.",
+    "career": "Hoàn thành dự án lớn, thành công; có thể làm việc quốc tế, du lịch.",
+    "finance": "Đạt được mục tiêu tài chính; ổn định."
+  },
+  "reversed": {
+    "general": "Bạn gần đến đích nhưng còn thiếu điều gì đó để khép lại. Có thể bạn đang tìm đường tắt hoặc trì hoãn bước cuối.",
+    "love": "Mối quan hệ chưa trọn vẹn, có việc còn dang dở.",
+    "career": "Dự án gần xong nhưng bị trì hoãn; hoàn tất những gì còn lại."
+  },
+  "advice": "Hãy hoàn tất những gì đã bắt đầu, ăn mừng và chuẩn bị cho hành trình mới.",
+  "yesNo": "Có",
+  "memoryTip": "Lá cuối của hành trình Chàng Khờ: 0 → 21. Vòng tròn khép lại để bắt đầu vòng mới.",
+  "image": "assets/cards/the-world.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

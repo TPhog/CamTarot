@@ -1,0 +1,42 @@
+{
+  "id": "eight-of-swords",
+  "name": "Eight of Swords",
+  "nameVi": "Tám Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "8",
+  "number": 8,
+  "element": "Khí",
+  "astrology": "Sao Mộc ở cung Song Tử",
+  "keywords": {
+    "upright": [
+      "Bị mắc kẹt",
+      "Giới hạn bản thân",
+      "Bất lực",
+      "Sợ hãi"
+    ],
+    "reversed": [
+      "Giải thoát",
+      "Tự do",
+      "Nhìn rõ lối thoát"
+    ]
+  },
+  "imagery": "Người phụ nữ bị trói và bịt mắt đứng giữa tám thanh kiếm cắm xung quanh, nhưng lối đi vẫn mở.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn cảm thấy bị mắc kẹt, bất lực — nhưng phần lớn giới hạn đến từ suy nghĩ của chính bạn. Lối thoát vẫn còn đó.",
+    "love": "Cảm thấy bị ràng buộc trong mối quan hệ.",
+    "career": "Cảm thấy mắc kẹt trong công việc.",
+    "finance": "Nghĩ mình không có lựa chọn tài chính."
+  },
+  "reversed": {
+    "general": "Bạn đang nhận ra mình có thể tự giải thoát và bắt đầu hành động.",
+    "love": "Thoát khỏi mối quan hệ bó buộc.",
+    "career": "Tìm được hướng đi mới."
+  },
+  "advice": "Tháo khăn bịt mắt — lối thoát ở ngay đó.",
+  "yesNo": "Không",
+  "memoryTip": "Dây trói lỏng, kiếm không bao kín = \"nhà tù do chính mình dựng\".",
+  "image": "assets/cards/eight-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

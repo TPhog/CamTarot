@@ -1,0 +1,42 @@
+{
+  "id": "knight-of-cups",
+  "name": "Knight of Cups",
+  "nameVi": "Hiệp Sĩ Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "knight",
+  "number": 12,
+  "element": "Nước",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Lãng mạn",
+      "Lời mời",
+      "Quyến rũ",
+      "Lý tưởng"
+    ],
+    "reversed": [
+      "Mơ mộng không thực tế",
+      "Thất thường",
+      "Lời hứa suông"
+    ]
+  },
+  "imagery": "Hiệp sĩ cưỡi ngựa trắng chậm rãi, tay nâng chiếc cốc như đang trao tặng. Mũ và giày có cánh.",
+  "symbols": [],
+  "upright": {
+    "general": "Một lời đề nghị lãng mạn hoặc sáng tạo. Hiệp sĩ Cốc đi theo trái tim — đầy duyên dáng và mơ mộng.",
+    "love": "Lời cầu hôn, tỏ tình; người yêu lãng mạn.",
+    "career": "Lời mời làm việc sáng tạo, nghệ thuật.",
+    "finance": "Lời đề nghị hấp dẫn — kiểm tra kỹ."
+  },
+  "reversed": {
+    "general": "Quá mơ mộng, hứa nhiều làm ít, cảm xúc thất thường.",
+    "love": "Người yêu hứa suông.",
+    "career": "Ý tưởng không thực tế."
+  },
+  "advice": "Đi theo trái tim nhưng giữ chân trên mặt đất.",
+  "yesNo": "Có",
+  "memoryTip": "Hiệp Sĩ Cốc là \"bạch mã hoàng tử\": chậm rãi, lãng mạn.",
+  "image": "assets/cards/knight-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

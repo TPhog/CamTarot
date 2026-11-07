@@ -1,0 +1,43 @@
+{
+  "id": "four-of-wands",
+  "name": "Four of Wands",
+  "nameVi": "Bốn Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "4",
+  "number": 4,
+  "element": "Lửa",
+  "astrology": "Sao Kim ở cung Bạch Dương",
+  "keywords": {
+    "upright": [
+      "Ăn mừng",
+      "Hòa hợp",
+      "Gia đình",
+      "Cột mốc",
+      "Mái ấm"
+    ],
+    "reversed": [
+      "Bất ổn trong nhà",
+      "Thiếu hòa hợp",
+      "Trì hoãn ăn mừng"
+    ]
+  },
+  "imagery": "Bốn cây gậy kết vòng hoa tạo thành cổng chào. Phía sau, hai người giơ bó hoa ăn mừng trước lâu đài.",
+  "symbols": [],
+  "upright": {
+    "general": "Một lý do để ăn mừng: cột mốc đạt được, sự ổn định và niềm vui bên những người thân yêu.",
+    "love": "Đám cưới, đính hôn, về chung nhà; tình cảm ổn định, hạnh phúc.",
+    "career": "Hoàn thành giai đoạn quan trọng; môi trường làm việc hòa hợp.",
+    "finance": "Ổn định, có thể đầu tư cho nhà cửa."
+  },
+  "reversed": {
+    "general": "Có sự căng thẳng trong gia đình hoặc cảm giác chưa thực sự \"thuộc về\".",
+    "love": "Mâu thuẫn khi về chung nhà; kế hoạch cưới hỏi bị trì hoãn.",
+    "career": "Thiếu gắn kết trong đội nhóm."
+  },
+  "advice": "Hãy dành thời gian ăn mừng cùng những người bạn yêu thương.",
+  "yesNo": "Có",
+  "memoryTip": "Số 4 = ổn định. Bốn cây gậy = bốn cột của một mái nhà hạnh phúc.",
+  "image": "assets/cards/four-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

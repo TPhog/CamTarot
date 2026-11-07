@@ -1,0 +1,42 @@
+{
+  "id": "king-of-cups",
+  "name": "King of Cups",
+  "nameVi": "Vua Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "king",
+  "number": 14,
+  "element": "Nước",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Cân bằng cảm xúc",
+      "Bao dung",
+      "Điềm tĩnh",
+      "Khôn ngoan"
+    ],
+    "reversed": [
+      "Kìm nén cảm xúc",
+      "Thao túng",
+      "Lạnh lùng"
+    ]
+  },
+  "imagery": "Vị vua ngồi trên ngai nổi giữa biển động, tay cầm cốc và quyền trượng. Cá nhảy lên và con thuyền phía sau.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự trưởng thành về cảm xúc: điềm tĩnh giữa sóng gió, bao dung và sáng suốt.",
+    "love": "Người bạn đời chín chắn, điềm đạm.",
+    "career": "Lãnh đạo bằng sự thấu hiểu; giỏi xử lý xung đột.",
+    "finance": "Quyết định tài chính điềm tĩnh, không theo cảm xúc."
+  },
+  "reversed": {
+    "general": "Kìm nén cảm xúc đến mức lạnh lùng, hoặc dùng cảm xúc để thao túng.",
+    "love": "Khó bày tỏ cảm xúc.",
+    "career": "Bị cảm xúc ảnh hưởng quyết định."
+  },
+  "advice": "Giữ bình tĩnh giữa sóng gió.",
+  "yesNo": "Có",
+  "memoryTip": "Ngai vua nổi trên biển động mà không chìm = \"làm chủ cảm xúc\".",
+  "image": "assets/cards/king-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

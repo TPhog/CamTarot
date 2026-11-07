@@ -1,0 +1,42 @@
+{
+  "id": "eight-of-cups",
+  "name": "Eight of Cups",
+  "nameVi": "Tám Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "8",
+  "number": 8,
+  "element": "Nước",
+  "astrology": "Sao Thổ ở cung Song Ngư",
+  "keywords": {
+    "upright": [
+      "Rời đi",
+      "Buông bỏ",
+      "Tìm kiếm ý nghĩa",
+      "Bước tiếp"
+    ],
+    "reversed": [
+      "Sợ rời đi",
+      "Do dự",
+      "Quay lại"
+    ]
+  },
+  "imagery": "Người mặc áo đỏ chống gậy rời khỏi tám chiếc cốc xếp chồng, đi về phía núi dưới ánh trăng.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang rời bỏ điều đã không còn thỏa mãn mình, dù nó trông có vẻ ổn. Đây là hành trình tìm kiếm ý nghĩa sâu sắc hơn.",
+    "love": "Rời khỏi mối quan hệ không còn hạnh phúc.",
+    "career": "Rời công việc để tìm điều có ý nghĩa hơn.",
+    "finance": "Từ bỏ một khoản đầu tư không hiệu quả."
+  },
+  "reversed": {
+    "general": "Bạn muốn đi nhưng sợ; hoặc đang quay lại điều cũ.",
+    "love": "Lưỡng lự giữa ở và đi.",
+    "career": "Sợ rời bỏ sự an toàn."
+  },
+  "advice": "Đủ can đảm rời đi khi trái tim đã biết câu trả lời.",
+  "yesNo": "Không",
+  "memoryTip": "Số 8 = chuyển động. Bóng người đi dưới trăng = \"đi tìm điều còn thiếu\".",
+  "image": "assets/cards/eight-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

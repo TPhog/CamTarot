@@ -1,0 +1,42 @@
+{
+  "id": "page-of-swords",
+  "name": "Page of Swords",
+  "nameVi": "Tiểu Đồng Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "page",
+  "number": 11,
+  "element": "Khí",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Tò mò",
+      "Ham học hỏi",
+      "Lanh lợi",
+      "Quan sát"
+    ],
+    "reversed": [
+      "Buôn chuyện",
+      "Nói mà không làm",
+      "Lời nói tổn thương"
+    ]
+  },
+  "imagery": "Chàng trai trẻ cầm kiếm đứng trên đồi lộng gió, ánh mắt cảnh giác nhìn xung quanh.",
+  "symbols": [],
+  "upright": {
+    "general": "Tinh thần ham học, tò mò và lanh lợi. Có thể là tin tức, ý tưởng mới hoặc người trẻ thông minh.",
+    "love": "Giao tiếp nhiều, trò chuyện thú vị.",
+    "career": "Học kỹ năng mới; nghiên cứu, viết lách.",
+    "finance": "Tìm hiểu kỹ trước khi đầu tư."
+  },
+  "reversed": {
+    "general": "Buôn chuyện, nói nhiều làm ít, hoặc dùng lời nói để tổn thương.",
+    "love": "Tranh cãi, nói lời làm tổn thương.",
+    "career": "Thông tin thiếu chính xác."
+  },
+  "advice": "Hãy tò mò và đặt câu hỏi.",
+  "yesNo": "Có thể",
+  "memoryTip": "Tiểu Đồng Kiếm = \"người học trò hay hỏi\".",
+  "image": "assets/cards/page-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "five-of-wands",
+  "name": "Five of Wands",
+  "nameVi": "Năm Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "5",
+  "number": 5,
+  "element": "Lửa",
+  "astrology": "Sao Thổ ở cung Sư Tử",
+  "keywords": {
+    "upright": [
+      "Cạnh tranh",
+      "Xung đột",
+      "Bất đồng",
+      "Tranh luận"
+    ],
+    "reversed": [
+      "Tránh xung đột",
+      "Hòa giải",
+      "Xung đột nội tâm"
+    ]
+  },
+  "imagery": "Năm người đàn ông vung gậy như đang đánh nhau, nhưng có vẻ như đang chơi đùa hoặc tập luyện hơn là chiến đấu thật.",
+  "symbols": [],
+  "upright": {
+    "general": "Có sự cạnh tranh, bất đồng hoặc hỗn loạn. Thường không nghiêm trọng — giống một cuộc tranh luận hay thi đấu, có thể giúp bạn mạnh hơn.",
+    "love": "Cãi vã nhỏ, khác biệt quan điểm; có thể có người cạnh tranh.",
+    "career": "Môi trường cạnh tranh, nhiều ý kiến trái chiều trong nhóm.",
+    "finance": "Cạnh tranh về tiền bạc; tránh tranh chấp."
+  },
+  "reversed": {
+    "general": "Xung đột đang dịu đi, hoặc bạn đang né tránh xung đột cần thiết.",
+    "love": "Hòa giải sau cãi vã; hoặc nén giận không nói.",
+    "career": "Tìm được tiếng nói chung; giảm căng thẳng nội bộ."
+  },
+  "advice": "Coi cạnh tranh là cơ hội rèn luyện, không phải chiến tranh.",
+  "yesNo": "Không",
+  "memoryTip": "Số 5 = xáo trộn sau ổn định. Năm cây gậy đan chéo = mỗi người một ý.",
+  "image": "assets/cards/five-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

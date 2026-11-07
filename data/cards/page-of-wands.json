@@ -1,0 +1,42 @@
+{
+  "id": "page-of-wands",
+  "name": "Page of Wands",
+  "nameVi": "Tiểu Đồng Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "page",
+  "number": 11,
+  "element": "Lửa",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Nhiệt huyết",
+      "Khám phá",
+      "Tin tốt",
+      "Tò mò"
+    ],
+    "reversed": [
+      "Thiếu định hướng",
+      "Tin xấu",
+      "Trì hoãn ý tưởng"
+    ]
+  },
+  "imagery": "Chàng trai trẻ đứng giữa sa mạc, ngắm nhìn cây gậy đang đâm chồi với sự tò mò, áo in họa tiết kỳ nhông.",
+  "symbols": [],
+  "upright": {
+    "general": "Một tinh thần trẻ trung, nhiệt huyết, đầy tò mò. Có thể là tin tốt, một ý tưởng mới hoặc một người trẻ nhiệt tình.",
+    "love": "Tình cảm mới mẻ, vui tươi; một lời mời hẹn hò.",
+    "career": "Ý tưởng mới, muốn học kỹ năng mới; tin tốt về công việc.",
+    "finance": "Cơ hội nhỏ nhưng tiềm năng."
+  },
+  "reversed": {
+    "general": "Nhiệt tình nhưng thiếu định hướng; ý tưởng hay mà không thực hiện.",
+    "love": "Thiếu trưởng thành, chưa nghiêm túc.",
+    "career": "Bắt đầu nhiều việc nhưng không hoàn thành."
+  },
+  "advice": "Hãy giữ sự tò mò và thử một điều mới.",
+  "yesNo": "Có",
+  "memoryTip": "Tiểu Đồng = người học trò/người đưa tin. Tiểu Đồng Gậy mang tin về đam mê mới.",
+  "image": "assets/cards/page-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

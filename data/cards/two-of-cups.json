@@ -1,0 +1,42 @@
+{
+  "id": "two-of-cups",
+  "name": "Two of Cups",
+  "nameVi": "Hai Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "2",
+  "number": 2,
+  "element": "Nước",
+  "astrology": "Sao Kim ở cung Cự Giải",
+  "keywords": {
+    "upright": [
+      "Kết nối",
+      "Đôi lứa",
+      "Hòa hợp",
+      "Hợp tác"
+    ],
+    "reversed": [
+      "Mất cân bằng",
+      "Chia rẽ",
+      "Hiểu lầm"
+    ]
+  },
+  "imagery": "Một đôi nam nữ trao cốc cho nhau, phía trên là biểu tượng gậy Caduceus với đầu sư tử có cánh.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự kết nối bình đẳng, tôn trọng giữa hai người — có thể là tình yêu, tình bạn hoặc hợp tác.",
+    "love": "Tình yêu đôi lứa, sự hấp dẫn lẫn nhau; khởi đầu mối quan hệ.",
+    "career": "Hợp tác ăn ý, đối tác tốt.",
+    "finance": "Hợp tác tài chính có lợi."
+  },
+  "reversed": {
+    "general": "Mất cân bằng trong mối quan hệ, hiểu lầm hoặc chia rẽ.",
+    "love": "Bất đồng, một bên cho nhiều hơn.",
+    "career": "Mâu thuẫn với đối tác."
+  },
+  "advice": "Gặp người khác ở giữa đường — cho và nhận ngang nhau.",
+  "yesNo": "Có",
+  "memoryTip": "Số 2 = hai người. Hai Cốc = phiên bản nhỏ của lá Tình Nhân.",
+  "image": "assets/cards/two-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

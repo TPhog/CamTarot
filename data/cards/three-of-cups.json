@@ -1,0 +1,42 @@
+{
+  "id": "three-of-cups",
+  "name": "Three of Cups",
+  "nameVi": "Ba Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "3",
+  "number": 3,
+  "element": "Nước",
+  "astrology": "Sao Thủy ở cung Cự Giải",
+  "keywords": {
+    "upright": [
+      "Tình bạn",
+      "Ăn mừng",
+      "Cộng đồng",
+      "Vui vẻ"
+    ],
+    "reversed": [
+      "Tiệc tùng quá đà",
+      "Người thứ ba",
+      "Cô lập"
+    ]
+  },
+  "imagery": "Ba người phụ nữ nâng cốc nhảy múa giữa vườn trái cây chín.",
+  "symbols": [],
+  "upright": {
+    "general": "Thời điểm ăn mừng cùng bạn bè, niềm vui của cộng đồng và sự hỗ trợ lẫn nhau.",
+    "love": "Gặp gỡ qua bạn bè; tiệc tùng vui vẻ.",
+    "career": "Làm việc nhóm vui vẻ; ăn mừng thành công chung.",
+    "finance": "Chi tiêu cho các cuộc vui; hợp lý thì tốt."
+  },
+  "reversed": {
+    "general": "Tiệc tùng quá đà, buôn chuyện; hoặc cảm thấy bị bỏ rơi khỏi nhóm.",
+    "love": "Người thứ ba xen vào; tin đồn.",
+    "career": "Nội bộ lục đục, buôn chuyện."
+  },
+  "advice": "Dành thời gian cho bạn bè và ăn mừng những niềm vui nhỏ.",
+  "yesNo": "Có",
+  "memoryTip": "Số 3 = sự phát triển. Ba người nâng cốc = \"ba chị em bạn thân\".",
+  "image": "assets/cards/three-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

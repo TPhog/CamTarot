@@ -1,0 +1,42 @@
+{
+  "id": "page-of-pentacles",
+  "name": "Page of Pentacles",
+  "nameVi": "Tiểu Đồng Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "page",
+  "number": 11,
+  "element": "Đất",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Học hỏi",
+      "Cơ hội mới",
+      "Chăm chỉ",
+      "Mục tiêu"
+    ],
+    "reversed": [
+      "Thiếu tập trung",
+      "Trì hoãn",
+      "Học mà không làm"
+    ]
+  },
+  "imagery": "Chàng trai đứng giữa đồng cỏ, nâng đồng tiền ngang mắt, chăm chú quan sát.",
+  "symbols": [],
+  "upright": {
+    "general": "Một cơ hội học hỏi hoặc khởi đầu thực tế. Hãy kiên trì từng bước.",
+    "love": "Mối quan hệ khởi đầu chậm mà chắc.",
+    "career": "Học nghề, công việc mới.",
+    "finance": "Bắt đầu tiết kiệm."
+  },
+  "reversed": {
+    "general": "Thiếu tập trung, trì hoãn.",
+    "love": "Thiếu nghiêm túc.",
+    "career": "Học mà không làm."
+  },
+  "advice": "Bắt đầu từ những bước nhỏ.",
+  "yesNo": "Có",
+  "memoryTip": "Tiểu Đồng Tiền = \"sinh viên chăm chỉ\".",
+  "image": "assets/cards/page-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

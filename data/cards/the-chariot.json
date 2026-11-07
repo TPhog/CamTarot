@@ -1,0 +1,61 @@
+{
+  "id": "the-chariot",
+  "name": "The Chariot",
+  "nameVi": "Cỗ Xe",
+  "arcana": "major",
+  "suit": null,
+  "number": 7,
+  "element": "Nước",
+  "astrology": "Cung Cự Giải",
+  "glyph": "♋",
+  "keywords": {
+    "upright": [
+      "Ý chí",
+      "Chiến thắng",
+      "Quyết tâm",
+      "Kiểm soát",
+      "Tiến lên"
+    ],
+    "reversed": [
+      "Mất phương hướng",
+      "Thiếu kiểm soát",
+      "Hung hăng",
+      "Bị cản trở"
+    ]
+  },
+  "imagery": "Người chiến binh đứng trên cỗ xe đá, không cầm dây cương. Kéo xe là hai con nhân sư đen và trắng, mỗi con nhìn một hướng. Phía sau là thành phố.",
+  "symbols": [
+    {
+      "name": "Hai nhân sư đen – trắng",
+      "meaning": "Những lực đối lập cần được điều khiển bằng ý chí."
+    },
+    {
+      "name": "Không có dây cương",
+      "meaning": "Kiểm soát bằng sức mạnh tinh thần, không bằng vũ lực."
+    },
+    {
+      "name": "Mái che sao",
+      "meaning": "Sự hậu thuẫn của vũ trụ."
+    },
+    {
+      "name": "Thành phố phía sau",
+      "meaning": "Rời vùng an toàn để chinh phục."
+    }
+  ],
+  "upright": {
+    "general": "Bằng sự tập trung và quyết tâm, bạn có thể vượt qua trở ngại và giành chiến thắng. Cỗ Xe yêu cầu bạn nắm quyền điều khiển, hài hòa những mâu thuẫn bên trong để tiến về phía trước.",
+    "love": "Phải nỗ lực để giữ mối quan hệ đi đúng hướng; vượt qua khác biệt bằng quyết tâm chung.",
+    "career": "Thành công nhờ ý chí và kỷ luật; cạnh tranh có lợi cho bạn. Có thể đi công tác.",
+    "finance": "Tập trung vào mục tiêu tài chính rõ ràng sẽ đạt kết quả."
+  },
+  "reversed": {
+    "general": "Bạn đang bị kéo về nhiều hướng, mất phương hướng hoặc để cảm xúc lấn át. Cũng có thể là cố ép mọi thứ bằng sức mạnh.",
+    "love": "Tranh giành quyền kiểm soát, hoặc không ai chịu nhường ai.",
+    "career": "Dự án bị trì hoãn, thiếu tập trung; cần định hướng lại."
+  },
+  "advice": "Xác định đích đến, gom năng lượng và tiến lên — kỷ luật thắng hỗn loạn.",
+  "yesNo": "Có",
+  "memoryTip": "Số 7 = nỗ lực vượt qua thử thách. Hình dung bạn cầm lái một cỗ xe mà hai con ngựa muốn đi hai ngả.",
+  "image": "assets/cards/the-chariot.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

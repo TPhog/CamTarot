@@ -1,0 +1,42 @@
+{
+  "id": "nine-of-wands",
+  "name": "Nine of Wands",
+  "nameVi": "Chín Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "9",
+  "number": 9,
+  "element": "Lửa",
+  "astrology": "Mặt Trăng ở cung Nhân Mã",
+  "keywords": {
+    "upright": [
+      "Kiên cường",
+      "Bền bỉ",
+      "Thử thách cuối",
+      "Phòng thủ"
+    ],
+    "reversed": [
+      "Kiệt sức",
+      "Đa nghi",
+      "Muốn bỏ cuộc"
+    ]
+  },
+  "imagery": "Người đàn ông băng bó đầu đứng tựa vào cây gậy, nhìn ra với vẻ cảnh giác. Phía sau là tám cây gậy dựng thành hàng rào.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đã đi một chặng đường dài và chịu nhiều tổn thương, nhưng gần đến đích. Hãy kiên trì thêm chút nữa.",
+    "love": "Thận trọng vì tổn thương cũ; cần học cách tin tưởng lại.",
+    "career": "Gần hoàn thành nhưng mệt mỏi; vượt qua thử thách cuối cùng.",
+    "finance": "Giữ vững tài chính qua giai đoạn khó."
+  },
+  "reversed": {
+    "general": "Cảm thấy kiệt quệ, phòng thủ quá mức, nghi ngờ mọi thứ.",
+    "love": "Không dám mở lòng vì sợ tổn thương.",
+    "career": "Muốn bỏ cuộc gần vạch đích; cần nghỉ ngơi."
+  },
+  "advice": "Gắng thêm một bước nữa — bạn mạnh mẽ hơn bạn nghĩ.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 9 = gần hoàn thành. Người băng đầu = \"bị thương nhưng chưa gục\".",
+  "image": "assets/cards/nine-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

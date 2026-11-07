@@ -1,0 +1,42 @@
+{
+  "id": "ten-of-swords",
+  "name": "Ten of Swords",
+  "nameVi": "Mười Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "10",
+  "number": 10,
+  "element": "Khí",
+  "astrology": "Mặt Trời ở cung Song Tử",
+  "keywords": {
+    "upright": [
+      "Kết thúc đau đớn",
+      "Chạm đáy",
+      "Phản bội",
+      "Hết đường"
+    ],
+    "reversed": [
+      "Hồi phục",
+      "Sống sót",
+      "Bắt đầu lại"
+    ]
+  },
+  "imagery": "Người đàn ông nằm sấp, lưng bị mười thanh kiếm đâm. Bầu trời đen nhưng phía chân trời bắt đầu ló bình minh.",
+  "symbols": [],
+  "upright": {
+    "general": "Một kết thúc đau đớn — bạn đã chạm đáy. Nhưng khi đã ở đáy, con đường duy nhất là đi lên. Bình minh đang ló dạng.",
+    "love": "Kết thúc mối quan hệ một cách đau đớn.",
+    "career": "Thất bại, mất việc; cần bắt đầu lại.",
+    "finance": "Khủng hoảng tài chính."
+  },
+  "reversed": {
+    "general": "Bạn đang hồi phục sau giai đoạn tồi tệ nhất.",
+    "love": "Vượt qua tổn thương.",
+    "career": "Phục hồi sau thất bại."
+  },
+  "advice": "Điều tồi tệ nhất đã qua — hãy đứng dậy.",
+  "yesNo": "Không",
+  "memoryTip": "Mười kiếm = \"tệ đến mức không thể tệ hơn\" — nhưng bình minh ở chân trời.",
+  "image": "assets/cards/ten-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

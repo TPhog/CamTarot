@@ -1,0 +1,61 @@
+{
+  "id": "death",
+  "name": "Death",
+  "nameVi": "Cái Chết",
+  "arcana": "major",
+  "suit": null,
+  "number": 13,
+  "element": "Nước",
+  "astrology": "Cung Bọ Cạp",
+  "glyph": "♏",
+  "keywords": {
+    "upright": [
+      "Kết thúc",
+      "Chuyển hóa",
+      "Thay đổi",
+      "Buông bỏ cái cũ",
+      "Tái sinh"
+    ],
+    "reversed": [
+      "Sợ thay đổi",
+      "Níu kéo",
+      "Trì trệ",
+      "Chuyển hóa dang dở"
+    ]
+  },
+  "imagery": "Bộ xương trong áo giáp đen cưỡi ngựa trắng, cầm lá cờ đen in bông hồng trắng. Trước mặt, vua đã ngã, người khác cầu xin; xa xa mặt trời mọc giữa hai tòa tháp.",
+  "symbols": [
+    {
+      "name": "Bông hồng trắng năm cánh",
+      "meaning": "Sự sống và tái sinh ẩn trong cái chết."
+    },
+    {
+      "name": "Ngựa trắng",
+      "meaning": "Sự thuần khiết của chuyển hóa."
+    },
+    {
+      "name": "Mặt trời mọc",
+      "meaning": "Sau đêm tối là bình minh mới."
+    },
+    {
+      "name": "Người ở mọi tầng lớp",
+      "meaning": "Thay đổi đến với tất cả, không ai tránh được."
+    }
+  ],
+  "upright": {
+    "general": "Đừng sợ — lá bài này hầu như không nói về cái chết thể xác. Nó báo hiệu một giai đoạn đang kết thúc để nhường chỗ cho điều mới. Hãy để những gì đã hết vai trò ra đi.",
+    "love": "Một mối quan hệ kết thúc, hoặc mối quan hệ hiện tại chuyển sang một giai đoạn hoàn toàn mới.",
+    "career": "Kết thúc công việc cũ, chuyển hướng sự nghiệp, tái cấu trúc.",
+    "finance": "Thay đổi lớn về tài chính; dọn dẹp thói quen tiêu tiền cũ."
+  },
+  "reversed": {
+    "general": "Bạn đang chống lại thay đổi không thể tránh, níu giữ điều đã kết thúc — khiến mọi thứ trì trệ.",
+    "love": "Không chịu buông một mối quan hệ đã hết; sợ bắt đầu lại.",
+    "career": "Bám víu công việc không còn phù hợp vì sợ thay đổi."
+  },
+  "advice": "Hãy để cái cũ ra đi một cách biết ơn — khoảng trống đó sẽ có điều mới lấp đầy.",
+  "yesNo": "Không",
+  "memoryTip": "Số 13 không phải \"xui\" — nó là cánh cửa khép lại để cánh khác mở ra. Nhớ: \"Cái Chết = Chuyển Hóa\".",
+  "image": "assets/cards/death.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

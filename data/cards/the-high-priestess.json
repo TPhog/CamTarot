@@ -1,0 +1,61 @@
+{
+  "id": "the-high-priestess",
+  "name": "The High Priestess",
+  "nameVi": "Nữ Tư Tế",
+  "arcana": "major",
+  "suit": null,
+  "number": 2,
+  "element": "Nước",
+  "astrology": "Mặt Trăng",
+  "glyph": "☽",
+  "keywords": {
+    "upright": [
+      "Trực giác",
+      "Bí ẩn",
+      "Tiềm thức",
+      "Tĩnh lặng",
+      "Hiểu biết bên trong"
+    ],
+    "reversed": [
+      "Phớt lờ trực giác",
+      "Bí mật bị che giấu",
+      "Mất kết nối nội tâm",
+      "Hời hợt"
+    ]
+  },
+  "imagery": "Một người phụ nữ ngồi tĩnh lặng giữa hai cột trụ đen (B) và trắng (J), tay cầm cuộn sách Tora khép hờ, dưới chân là vầng trăng lưỡi liềm. Phía sau là tấm màn thêu quả lựu.",
+  "symbols": [
+    {
+      "name": "Hai cột trụ B và J",
+      "meaning": "Boaz và Jachin — đối cực: sáng/tối, ý thức/vô thức."
+    },
+    {
+      "name": "Tấm màn quả lựu",
+      "meaning": "Ranh giới giữa thế giới hữu hình và bí ẩn; sự phong nhiêu tiềm ẩn."
+    },
+    {
+      "name": "Cuộn sách khép hờ",
+      "meaning": "Tri thức thiêng liêng chỉ hé lộ cho người biết lắng nghe."
+    },
+    {
+      "name": "Trăng lưỡi liềm",
+      "meaning": "Chu kỳ, cảm xúc và trực giác nữ tính."
+    }
+  ],
+  "upright": {
+    "general": "Câu trả lời không nằm ở bên ngoài mà ở trong bạn. Hãy chậm lại, lắng nghe trực giác, giấc mơ và những cảm nhận tinh tế. Chưa phải lúc hành động — mà là lúc thấu hiểu.",
+    "love": "Có những cảm xúc chưa được nói ra; sự kết nối sâu sắc, tinh tế. Đừng vội ép buộc câu trả lời.",
+    "career": "Thông tin chưa đầy đủ; hãy quan sát trước khi quyết định. Phù hợp với nghiên cứu, tư vấn, chữa lành.",
+    "finance": "Đừng tiết lộ hết kế hoạch tài chính; tin vào cảm giác khi có điều gì đó \"không ổn\"."
+  },
+  "reversed": {
+    "general": "Bạn đang bỏ qua tiếng nói bên trong, chạy theo ý kiến người khác. Có thể có bí mật hoặc thông tin bị giấu kín.",
+    "love": "Thiếu minh bạch, cảm xúc bị dồn nén, hoặc có điều chưa được nói thật.",
+    "career": "Có chuyện \"hậu trường\" bạn chưa biết; cẩn trọng với tin đồn."
+  },
+  "advice": "Dành thời gian yên tĩnh — thiền, viết nhật ký — để nghe điều trực giác muốn nói.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 2 = đối cực và sự tiếp nhận. Nhà Ảo Thuật hành động ra ngoài, Nữ Tư Tế hướng vào trong.",
+  "image": "assets/cards/the-high-priestess.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "the-fool",
+  "name": "The Fool",
+  "nameVi": "Chàng Khờ",
+  "arcana": "major",
+  "suit": null,
+  "number": 0,
+  "element": "Khí",
+  "astrology": "Sao Thiên Vương",
+  "glyph": "♅",
+  "keywords": {
+    "upright": [
+      "Khởi đầu mới",
+      "Tự do",
+      "Ngây thơ",
+      "Phiêu lưu",
+      "Tin vào hành trình"
+    ],
+    "reversed": [
+      "Liều lĩnh",
+      "Thiếu suy nghĩ",
+      "Sợ bắt đầu",
+      "Ngây ngô bị lợi dụng"
+    ]
+  },
+  "imagery": "Một chàng trai trẻ mặc áo hoa sặc sỡ bước đi vô tư bên mép vực, tay cầm bông hồng trắng, vai đeo túi hành trang nhỏ. Chú chó nhỏ nhảy cẫng bên chân, mặt trời rực rỡ phía sau.",
+  "symbols": [
+    {
+      "name": "Vách đá",
+      "meaning": "Bước nhảy vào điều chưa biết; rủi ro và niềm tin."
+    },
+    {
+      "name": "Bông hồng trắng",
+      "meaning": "Sự trong sáng, tâm hồn chưa vướng bận."
+    },
+    {
+      "name": "Chú chó",
+      "meaning": "Bản năng, lời cảnh báo hoặc người bạn trung thành."
+    },
+    {
+      "name": "Túi hành trang",
+      "meaning": "Những kinh nghiệm tiềm ẩn mang theo, chưa được mở ra."
+    }
+  ],
+  "upright": {
+    "general": "Một chương mới đang mở ra. Chàng Khờ mời bạn bước đi với trái tim rộng mở, không cần biết trước mọi thứ. Đây là năng lượng của khởi đầu, sự tò mò và tin rằng cuộc sống sẽ dẫn lối.",
+    "love": "Một mối quan hệ mới mẻ, vui tươi, tự nhiên; hoặc làm mới tình cảm hiện tại bằng sự hồn nhiên.",
+    "career": "Cơ hội mới, công việc mới hay dự án khởi nghiệp. Dám thử dù chưa có nhiều kinh nghiệm.",
+    "finance": "Có thể chi tiêu ngẫu hứng; hãy vui vẻ nhưng đừng bỏ quên kế hoạch cơ bản."
+  },
+  "reversed": {
+    "general": "Bạn có thể đang hành động bốc đồng, bỏ qua rủi ro rõ ràng — hoặc ngược lại, vì sợ hãi mà không dám bắt đầu.",
+    "love": "Thiếu cam kết, chơi đùa với cảm xúc, hoặc lao vào mối quan hệ quá vội.",
+    "career": "Quyết định thiếu tính toán; cần nghiên cứu kỹ trước khi nhảy việc hay đầu tư."
+  },
+  "advice": "Hãy bước tới với tâm thế của người mới bắt đầu, nhưng nhìn đường đi một chút.",
+  "yesNo": "Có",
+  "memoryTip": "Số 0 là vòng tròn trống — mọi khả năng đều có thể. Chàng Khờ là chính bạn ở đầu hành trình 21 lá còn lại.",
+  "image": "assets/cards/the-fool.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

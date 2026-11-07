@@ -1,0 +1,42 @@
+{
+  "id": "ace-of-cups",
+  "name": "Ace of Cups",
+  "nameVi": "Át Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "ace",
+  "number": 1,
+  "element": "Nước",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Tình yêu mới",
+      "Cảm xúc tràn đầy",
+      "Lòng trắc ẩn",
+      "Trực giác"
+    ],
+    "reversed": [
+      "Cảm xúc bị kìm nén",
+      "Trống rỗng",
+      "Yêu bản thân chưa đủ"
+    ]
+  },
+  "imagery": "Bàn tay từ đám mây nâng chiếc cốc tràn năm dòng nước xuống hồ hoa sen. Chim bồ câu ngậm bánh thánh bay xuống cốc.",
+  "symbols": [],
+  "upright": {
+    "general": "Một dòng cảm xúc mới đang tuôn chảy: tình yêu, lòng biết ơn, sự kết nối tâm hồn. Hãy mở lòng đón nhận.",
+    "love": "Tình yêu mới chớm nở, cảm xúc sâu sắc, có thể là tin vui.",
+    "career": "Công việc mang lại niềm vui cảm xúc; dự án sáng tạo, chữa lành.",
+    "finance": "Tài chính ổn; quà tặng hoặc sự hào phóng."
+  },
+  "reversed": {
+    "general": "Cảm xúc bị dồn nén, cảm thấy trống rỗng hoặc chưa yêu thương chính mình.",
+    "love": "Tình cảm chưa được đáp lại; không dám bày tỏ.",
+    "career": "Thiếu đam mê trong công việc."
+  },
+  "advice": "Mở lòng — với người khác và với chính mình.",
+  "yesNo": "Có",
+  "memoryTip": "Cốc = Nước = cảm xúc, tình yêu. Át Cốc = chiếc cốc tràn đầy cảm xúc.",
+  "image": "assets/cards/ace-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

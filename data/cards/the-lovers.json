@@ -1,0 +1,61 @@
+{
+  "id": "the-lovers",
+  "name": "The Lovers",
+  "nameVi": "Tình Nhân",
+  "arcana": "major",
+  "suit": null,
+  "number": 6,
+  "element": "Khí",
+  "astrology": "Cung Song Tử",
+  "glyph": "♊",
+  "keywords": {
+    "upright": [
+      "Tình yêu",
+      "Hòa hợp",
+      "Lựa chọn",
+      "Giá trị",
+      "Kết nối"
+    ],
+    "reversed": [
+      "Mất cân bằng",
+      "Bất hòa",
+      "Lựa chọn sai",
+      "Lệch giá trị"
+    ]
+  },
+  "imagery": "Adam và Eva đứng trần trụi trong vườn địa đàng, phía trên là thiên thần Raphael dang tay ban phước. Sau người phụ nữ là cây tri thức có con rắn, sau người đàn ông là cây lửa.",
+  "symbols": [
+    {
+      "name": "Thiên thần Raphael",
+      "meaning": "Sự chữa lành và phước lành thiêng liêng cho sự kết hợp."
+    },
+    {
+      "name": "Cây có con rắn",
+      "meaning": "Cám dỗ và những lựa chọn có hệ quả."
+    },
+    {
+      "name": "Sự trần trụi",
+      "meaning": "Thành thật, không che giấu, chấp nhận con người thật."
+    },
+    {
+      "name": "Ngọn núi giữa hai người",
+      "meaning": "Thử thách cần cùng nhau vượt qua."
+    }
+  ],
+  "upright": {
+    "general": "Lá bài không chỉ về tình yêu mà còn về sự lựa chọn quan trọng dựa trên giá trị cốt lõi. Khi trái tim và lý trí thống nhất, bạn biết mình phải chọn gì.",
+    "love": "Tình yêu sâu sắc, hòa hợp cả tâm hồn; một mối quan hệ quan trọng hoặc quyết định cam kết.",
+    "career": "Hợp tác ăn ý; đứng trước lựa chọn cần dựa trên giá trị thật của bạn.",
+    "finance": "Hợp tác tài chính thuận lợi; cân nhắc kỹ trước các lựa chọn lớn."
+  },
+  "reversed": {
+    "general": "Có sự mất kết nối — với người khác hoặc với giá trị của chính bạn. Có thể bạn đang né tránh trách nhiệm cho lựa chọn của mình.",
+    "love": "Bất đồng, mất cân bằng cho – nhận, hoặc cám dỗ từ người thứ ba.",
+    "career": "Mâu thuẫn trong hợp tác; lựa chọn công việc trái với giá trị bản thân."
+  },
+  "advice": "Hãy chọn điều đúng với con người thật của bạn, và chịu trách nhiệm cho lựa chọn đó.",
+  "yesNo": "Có",
+  "memoryTip": "Số 6 = sự hài hòa của hai tam giác. Nhớ: \"Tình Nhân\" = \"Lựa Chọn bằng trái tim\".",
+  "image": "assets/cards/the-lovers.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

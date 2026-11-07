@@ -1,0 +1,42 @@
+{
+  "id": "four-of-pentacles",
+  "name": "Four of Pentacles",
+  "nameVi": "Bốn Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "4",
+  "number": 4,
+  "element": "Đất",
+  "astrology": "Mặt Trời ở cung Ma Kết",
+  "keywords": {
+    "upright": [
+      "Tiết kiệm",
+      "Kiểm soát",
+      "An toàn",
+      "Giữ của"
+    ],
+    "reversed": [
+      "Keo kiệt",
+      "Tham lam",
+      "Bất an tài chính"
+    ]
+  },
+  "imagery": "Người đàn ông ngồi ôm chặt một đồng tiền trước ngực, một đồng trên đầu, hai đồng dưới chân. Thành phố ở phía sau.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang giữ chặt tài sản và sự an toàn. Tiết kiệm là tốt, nhưng đừng để nỗi sợ khiến bạn khép kín.",
+    "love": "Chiếm hữu, khép kín.",
+    "career": "Giữ vị trí an toàn.",
+    "finance": "Tiết kiệm, giữ tiền."
+  },
+  "reversed": {
+    "general": "Keo kiệt, quá bám vào vật chất; hoặc tiêu xài phung phí.",
+    "love": "Kiểm soát người kia.",
+    "career": "Sợ rủi ro."
+  },
+  "advice": "An toàn là tốt, nhưng đừng để nỗi sợ ngăn bạn đón nhận.",
+  "yesNo": "Có thể",
+  "memoryTip": "Ôm chặt đồng tiền = \"giữ của\".",
+  "image": "assets/cards/four-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "queen-of-cups",
+  "name": "Queen of Cups",
+  "nameVi": "Nữ Hoàng Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "queen",
+  "number": 13,
+  "element": "Nước",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Thấu cảm",
+      "Dịu dàng",
+      "Trực giác",
+      "Chăm sóc"
+    ],
+    "reversed": [
+      "Phụ thuộc cảm xúc",
+      "Bất an",
+      "Hy sinh bản thân"
+    ]
+  },
+  "imagery": "Nữ hoàng ngồi trên ngai bên bờ biển, chăm chú nhìn chiếc cốc khép kín, được trang trí tinh xảo.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự thấu cảm sâu sắc và trực giác mạnh mẽ. Bạn có khả năng lắng nghe và chữa lành người khác bằng tình yêu thương.",
+    "love": "Người yêu dịu dàng, thấu hiểu; tình cảm sâu sắc.",
+    "career": "Phù hợp với nghề chăm sóc, tư vấn, nghệ thuật.",
+    "finance": "Tin vào trực giác trong quyết định tài chính."
+  },
+  "reversed": {
+    "general": "Quá nhạy cảm, phụ thuộc cảm xúc, hoặc chăm sóc người khác mà quên bản thân.",
+    "love": "Bất an, cần được trấn an liên tục.",
+    "career": "Kiệt sức cảm xúc."
+  },
+  "advice": "Hãy lắng nghe trái tim — của bạn và của người khác.",
+  "yesNo": "Có",
+  "memoryTip": "Chiếc cốc khép kín duy nhất trong bộ = \"cảm xúc sâu kín bên trong\".",
+  "image": "assets/cards/queen-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

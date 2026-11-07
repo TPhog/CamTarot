@@ -1,0 +1,61 @@
+{
+  "id": "the-hermit",
+  "name": "The Hermit",
+  "nameVi": "Ẩn Sĩ",
+  "arcana": "major",
+  "suit": null,
+  "number": 9,
+  "element": "Đất",
+  "astrology": "Cung Xử Nữ",
+  "glyph": "♍",
+  "keywords": {
+    "upright": [
+      "Nội quan",
+      "Cô độc",
+      "Tìm kiếm sự thật",
+      "Trí tuệ",
+      "Dẫn đường"
+    ],
+    "reversed": [
+      "Cô lập",
+      "Cô đơn",
+      "Thu mình quá mức",
+      "Lạc lối"
+    ]
+  },
+  "imagery": "Ông lão râu bạc đứng một mình trên đỉnh núi tuyết, tay phải giơ cao chiếc đèn lồng có ngôi sao sáu cánh, tay trái chống gậy.",
+  "symbols": [
+    {
+      "name": "Đèn lồng sao sáu cánh",
+      "meaning": "Ánh sáng trí tuệ soi đường — cho mình và người khác."
+    },
+    {
+      "name": "Đỉnh núi tuyết",
+      "meaning": "Thành tựu tâm linh đạt được qua hành trình cô độc."
+    },
+    {
+      "name": "Cây gậy",
+      "meaning": "Kinh nghiệm và sự kiên trì."
+    },
+    {
+      "name": "Áo choàng xám",
+      "meaning": "Sự khiêm nhường, ẩn mình khỏi ồn ào."
+    }
+  ],
+  "upright": {
+    "general": "Đã đến lúc lùi lại khỏi thế giới bên ngoài để tìm câu trả lời bên trong. Sự cô độc lúc này là chủ động và có ích — giúp bạn hiểu rõ mình thực sự cần gì.",
+    "love": "Cần thời gian riêng để hiểu bản thân; người độc thân có thể chưa muốn hẹn hò lúc này.",
+    "career": "Tìm ý nghĩa thực sự trong công việc; phù hợp nghiên cứu, làm việc độc lập, cố vấn.",
+    "finance": "Thận trọng, đơn giản hóa chi tiêu; không phải lúc chạy theo đám đông."
+  },
+  "reversed": {
+    "general": "Sự cô độc trở thành cô lập; bạn có thể đang trốn tránh thế giới hoặc cảm thấy lạc lõng.",
+    "love": "Khép kín, khó mở lòng, cảm giác cô đơn ngay cả khi có người bên cạnh.",
+    "career": "Bị cô lập trong công việc; cần kết nối và chia sẻ nhiều hơn."
+  },
+  "advice": "Dành thời gian một mình để suy ngẫm, nhưng đừng đóng cửa với mọi người.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 9 = gần hoàn tất, nhìn lại. Hình ảnh: ngọn đèn nhỏ giữa đêm — ánh sáng tìm từ bên trong.",
+  "image": "assets/cards/the-hermit.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

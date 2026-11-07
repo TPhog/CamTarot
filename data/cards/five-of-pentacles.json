@@ -1,0 +1,42 @@
+{
+  "id": "five-of-pentacles",
+  "name": "Five of Pentacles",
+  "nameVi": "Năm Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "5",
+  "number": 5,
+  "element": "Đất",
+  "astrology": "Sao Thủy ở cung Kim Ngưu",
+  "keywords": {
+    "upright": [
+      "Khó khăn",
+      "Thiếu thốn",
+      "Cô lập",
+      "Mất mát"
+    ],
+    "reversed": [
+      "Hồi phục",
+      "Nhận giúp đỡ",
+      "Cải thiện"
+    ]
+  },
+  "imagery": "Hai người nghèo khổ bước đi trong tuyết lạnh bên ngoài ô cửa nhà thờ sáng đèn.",
+  "symbols": [],
+  "upright": {
+    "general": "Giai đoạn khó khăn về tài chính hoặc sức khỏe, cảm giác bị bỏ rơi. Nhưng sự giúp đỡ đang ở rất gần nếu bạn chịu nhìn lên.",
+    "love": "Cùng nhau vượt khó; hoặc cảm thấy bị bỏ rơi.",
+    "career": "Mất việc, khó khăn.",
+    "finance": "Thiếu hụt tài chính."
+  },
+  "reversed": {
+    "general": "Bạn bắt đầu hồi phục và nhận được sự giúp đỡ.",
+    "love": "Vượt qua khó khăn cùng nhau.",
+    "career": "Tìm được việc mới."
+  },
+  "advice": "Đừng ngại xin giúp đỡ — cánh cửa sáng đèn ở ngay đó.",
+  "yesNo": "Không",
+  "memoryTip": "Hai người đi trong tuyết ngang qua nhà thờ = \"không nhìn thấy sự giúp đỡ\".",
+  "image": "assets/cards/five-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

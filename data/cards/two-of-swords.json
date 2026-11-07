@@ -1,0 +1,42 @@
+{
+  "id": "two-of-swords",
+  "name": "Two of Swords",
+  "nameVi": "Hai Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "2",
+  "number": 2,
+  "element": "Khí",
+  "astrology": "Mặt Trăng ở cung Thiên Bình",
+  "keywords": {
+    "upright": [
+      "Bế tắc",
+      "Khó quyết định",
+      "Né tránh",
+      "Cân nhắc"
+    ],
+    "reversed": [
+      "Rối bời",
+      "Quá tải thông tin",
+      "Sự thật lộ ra"
+    ]
+  },
+  "imagery": "Người phụ nữ bịt mắt ngồi trước biển, hai tay bắt chéo cầm hai thanh kiếm. Sau lưng là trăng lưỡi liềm.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang bế tắc trước một quyết định khó, hoặc cố né tránh để giữ yên ổn. Tấm bịt mắt khiến bạn không thấy hết.",
+    "love": "Né tránh vấn đề; chưa dám chọn.",
+    "career": "Đứng giữa hai lựa chọn; cần thêm thông tin.",
+    "finance": "Trì hoãn quyết định tài chính."
+  },
+  "reversed": {
+    "general": "Áp lực khiến bạn rối bời; hoặc sự thật buộc bạn phải chọn.",
+    "love": "Không thể né tránh thêm nữa.",
+    "career": "Quá nhiều thông tin, khó quyết định."
+  },
+  "advice": "Tháo khăn bịt mắt — hãy đối diện sự thật và chọn.",
+  "yesNo": "Không",
+  "memoryTip": "Số 2 = lựa chọn. Bịt mắt + hai kiếm = \"không muốn nhìn, không muốn chọn\".",
+  "image": "assets/cards/two-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

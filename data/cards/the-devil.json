@@ -1,0 +1,61 @@
+{
+  "id": "the-devil",
+  "name": "The Devil",
+  "nameVi": "Ác Quỷ",
+  "arcana": "major",
+  "suit": null,
+  "number": 15,
+  "element": "Đất",
+  "astrology": "Cung Ma Kết",
+  "glyph": "♑",
+  "keywords": {
+    "upright": [
+      "Ràng buộc",
+      "Cám dỗ",
+      "Nghiện ngập",
+      "Vật chất",
+      "Bóng tối bản thân"
+    ],
+    "reversed": [
+      "Giải thoát",
+      "Phá xiềng xích",
+      "Nhận ra vấn đề",
+      "Lấy lại tự do"
+    ]
+  },
+  "imagery": "Ác quỷ sừng dê có cánh dơi ngồi trên khối đá, giơ tay phải, tay trái cầm đuốc chúc xuống. Dưới chân là một nam một nữ bị xích cổ — nhưng chiếc xích rất lỏng.",
+  "symbols": [
+    {
+      "name": "Xích lỏng quanh cổ",
+      "meaning": "Sự ràng buộc là do tự nguyện — bạn có thể tháo ra."
+    },
+    {
+      "name": "Ngôi sao năm cánh ngược",
+      "meaning": "Vật chất đè lên tinh thần."
+    },
+    {
+      "name": "Đuốc chúc xuống",
+      "meaning": "Ham muốn bản năng, đam mê lệch hướng."
+    },
+    {
+      "name": "Sừng và đuôi",
+      "meaning": "Con người đánh mất phần cao đẹp, sa vào bản năng."
+    }
+  ],
+  "upright": {
+    "general": "Bạn có thể đang bị ràng buộc bởi thói quen xấu, mối quan hệ độc hại, nỗi sợ hay ham muốn vật chất. Điều quan trọng: xiềng xích lỏng — bạn có quyền lựa chọn thoát ra.",
+    "love": "Mối quan hệ dựa trên ham muốn, ghen tuông hoặc phụ thuộc; sức hút mạnh nhưng có thể không lành mạnh.",
+    "career": "Mắc kẹt trong công việc chỉ vì tiền; áp lực, cám dỗ đi đường tắt.",
+    "finance": "Nợ nần, chi tiêu vô độ, hoặc quá coi trọng tiền bạc."
+  },
+  "reversed": {
+    "general": "Bạn đang nhận ra những gì trói buộc mình và bắt đầu giải phóng bản thân. Một bước ngoặt tích cực.",
+    "love": "Thoát khỏi mối quan hệ độc hại; lấy lại quyền tự chủ cảm xúc.",
+    "career": "Dứt khỏi công việc độc hại; tìm lại ý nghĩa thật sự."
+  },
+  "advice": "Hãy gọi tên điều đang trói buộc bạn — nhận ra là bước đầu tiên để tự do.",
+  "yesNo": "Không",
+  "memoryTip": "Ác Quỷ là hình ảnh phản chiếu của Tình Nhân (6): cùng hai người, nhưng giờ bị xích. 15 → 1+5 = 6.",
+  "image": "assets/cards/the-devil.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "eight-of-wands",
+  "name": "Eight of Wands",
+  "nameVi": "Tám Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "8",
+  "number": 8,
+  "element": "Lửa",
+  "astrology": "Sao Thủy ở cung Nhân Mã",
+  "keywords": {
+    "upright": [
+      "Tốc độ",
+      "Tin tức",
+      "Hành động nhanh",
+      "Chuyển động"
+    ],
+    "reversed": [
+      "Chậm trễ",
+      "Vội vàng",
+      "Mất phương hướng"
+    ]
+  },
+  "imagery": "Tám cây gậy bay song song trên bầu trời trong xanh, hướng xuống mặt đất — không có người.",
+  "symbols": [],
+  "upright": {
+    "general": "Mọi thứ đang chuyển động nhanh. Tin tức, cơ hội hoặc sự kiện ập đến dồn dập. Hãy sẵn sàng hành động.",
+    "love": "Tình cảm tiến triển nhanh; tin nhắn, lời tỏ tình, yêu từ cái nhìn đầu tiên.",
+    "career": "Dự án tăng tốc, đi công tác, tin tức tốt.",
+    "finance": "Tiền đến nhanh; giao dịch thuận lợi."
+  },
+  "reversed": {
+    "general": "Chậm trễ, mọi thứ bị kẹt; hoặc vội vàng quá mức dẫn đến sai sót.",
+    "love": "Tin nhắn không hồi âm; ghen tuông, hiểu lầm vì vội.",
+    "career": "Dự án đình trệ; cần chậm lại để không mắc lỗi."
+  },
+  "advice": "Tận dụng đà chuyển động — đây là lúc hành động nhanh.",
+  "yesNo": "Có",
+  "memoryTip": "Lá duy nhất trong bộ Gậy không có người: chỉ có năng lượng thuần túy đang bay.",
+  "image": "assets/cards/eight-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

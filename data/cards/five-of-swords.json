@@ -1,0 +1,42 @@
+{
+  "id": "five-of-swords",
+  "name": "Five of Swords",
+  "nameVi": "Năm Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "5",
+  "number": 5,
+  "element": "Khí",
+  "astrology": "Sao Kim ở cung Bảo Bình",
+  "keywords": {
+    "upright": [
+      "Xung đột",
+      "Thắng bằng mọi giá",
+      "Bất hòa",
+      "Mất mát"
+    ],
+    "reversed": [
+      "Hòa giải",
+      "Hối hận",
+      "Buông bỏ tranh chấp"
+    ]
+  },
+  "imagery": "Người đàn ông cười đắc thắng ôm ba thanh kiếm, hai người khác bỏ đi buồn bã, hai kiếm nằm trên đất.",
+  "symbols": [],
+  "upright": {
+    "general": "Một cuộc tranh chấp mà chiến thắng có thể phải trả giá đắt. Hỏi bản thân: thắng trận này có đáng không?",
+    "love": "Cãi vã khiến cả hai tổn thương.",
+    "career": "Cạnh tranh không lành mạnh; xung đột nơi làm việc.",
+    "finance": "Tranh chấp tiền bạc."
+  },
+  "reversed": {
+    "general": "Bạn muốn hòa giải, hối hận vì xung đột hoặc sẵn sàng buông bỏ.",
+    "love": "Xin lỗi và làm lành.",
+    "career": "Giải quyết mâu thuẫn."
+  },
+  "advice": "Chọn trận chiến đáng chiến; đôi khi rút lui là thắng.",
+  "yesNo": "Không",
+  "memoryTip": "Số 5 = xung đột. Người cười ôm kiếm = \"thắng nhưng mất bạn\".",
+  "image": "assets/cards/five-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

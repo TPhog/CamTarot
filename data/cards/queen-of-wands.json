@@ -1,0 +1,43 @@
+{
+  "id": "queen-of-wands",
+  "name": "Queen of Wands",
+  "nameVi": "Nữ Hoàng Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "queen",
+  "number": 13,
+  "element": "Lửa",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Tự tin",
+      "Ấm áp",
+      "Quyết đoán",
+      "Lôi cuốn",
+      "Độc lập"
+    ],
+    "reversed": [
+      "Ghen tuông",
+      "Thiếu tự tin",
+      "Đòi hỏi"
+    ]
+  },
+  "imagery": "Nữ hoàng ngồi trên ngai có hình sư tử, tay phải cầm gậy, tay trái cầm hoa hướng dương. Dưới chân là con mèo đen.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự tự tin, ấm áp và sức hút tự nhiên. Bạn có thể vừa mạnh mẽ vừa duyên dáng, truyền cảm hứng cho người xung quanh.",
+    "love": "Tự tin, quyến rũ; mối quan hệ đầy năng lượng và chân thành.",
+    "career": "Lãnh đạo bằng cảm hứng; làm được nhiều việc cùng lúc.",
+    "finance": "Quản lý tài chính tự tin, chủ động."
+  },
+  "reversed": {
+    "general": "Thiếu tự tin, hoặc tự tin biến thành kiểm soát, ghen tuông.",
+    "love": "Ghen tuông, chiếm hữu.",
+    "career": "Quá tải, kiệt sức vì ôm đồm."
+  },
+  "advice": "Hãy tự tin thể hiện con người thật của bạn.",
+  "yesNo": "Có",
+  "memoryTip": "Nữ Hoàng = làm chủ nguyên tố từ bên trong. Con mèo đen = trực giác và sự độc lập.",
+  "image": "assets/cards/queen-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

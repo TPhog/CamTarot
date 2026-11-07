@@ -1,0 +1,61 @@
+{
+  "id": "justice",
+  "name": "Justice",
+  "nameVi": "Công Lý",
+  "arcana": "major",
+  "suit": null,
+  "number": 11,
+  "element": "Khí",
+  "astrology": "Cung Thiên Bình",
+  "glyph": "♎",
+  "keywords": {
+    "upright": [
+      "Công bằng",
+      "Sự thật",
+      "Nhân quả",
+      "Trách nhiệm",
+      "Pháp lý"
+    ],
+    "reversed": [
+      "Bất công",
+      "Thiếu trung thực",
+      "Né tránh trách nhiệm",
+      "Thiên vị"
+    ]
+  },
+  "imagery": "Nữ thần Công Lý ngồi giữa hai cột trụ, tay phải cầm thanh kiếm dựng thẳng, tay trái cầm cán cân. Một bàn chân trắng lộ ra dưới áo choàng đỏ.",
+  "symbols": [
+    {
+      "name": "Cán cân",
+      "meaning": "Cân nhắc khách quan, cân bằng mọi phía."
+    },
+    {
+      "name": "Thanh kiếm hai lưỡi",
+      "meaning": "Sự thật sắc bén, quyết định dứt khoát; hành động nào cũng có hệ quả."
+    },
+    {
+      "name": "Bàn chân trắng lộ ra",
+      "meaning": "Hành động dựa trên sự cân nhắc thuần khiết."
+    },
+    {
+      "name": "Hai cột trụ",
+      "meaning": "Ranh giới của luật lệ và trật tự."
+    }
+  ],
+  "upright": {
+    "general": "Sự thật sẽ sáng tỏ và mọi việc được đánh giá công bằng. Lá bài nhắc về luật nhân quả: những gì bạn đã gieo sẽ được gặt. Hãy trung thực và chịu trách nhiệm.",
+    "love": "Mối quan hệ cần sự công bằng và minh bạch; có thể đưa ra quyết định quan trọng.",
+    "career": "Hợp đồng, giấy tờ, pháp lý có lợi nếu bạn làm đúng; được đánh giá xứng đáng.",
+    "finance": "Giải quyết rõ ràng các khoản nợ, hợp đồng; minh bạch tài chính."
+  },
+  "reversed": {
+    "general": "Có điều gì đó không công bằng, hoặc bạn đang né tránh hậu quả. Sự thiếu trung thực — với người khác hay chính mình — đang gây mất cân bằng.",
+    "love": "Một bên cho đi nhiều hơn; đổ lỗi thay vì nhìn nhận.",
+    "career": "Tranh chấp pháp lý bất lợi; cẩn thận với giấy tờ, hợp đồng."
+  },
+  "advice": "Hãy thành thật, cân nhắc mọi phía và chấp nhận trách nhiệm cho lựa chọn của mình.",
+  "yesNo": "Có thể",
+  "memoryTip": "Trong Rider–Waite, Công Lý là số 11 (đổi chỗ với Sức Mạnh). Nhớ: \"gieo gì gặt nấy\".",
+  "image": "assets/cards/justice.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

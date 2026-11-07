@@ -1,0 +1,61 @@
+{
+  "id": "the-empress",
+  "name": "The Empress",
+  "nameVi": "Hoàng Hậu",
+  "arcana": "major",
+  "suit": null,
+  "number": 3,
+  "element": "Đất",
+  "astrology": "Sao Kim",
+  "glyph": "♀",
+  "keywords": {
+    "upright": [
+      "Phong nhiêu",
+      "Nuôi dưỡng",
+      "Sáng tạo",
+      "Thiên nhiên",
+      "Sung túc"
+    ],
+    "reversed": [
+      "Phụ thuộc",
+      "Bao bọc quá mức",
+      "Bế tắc sáng tạo",
+      "Bỏ bê bản thân"
+    ]
+  },
+  "imagery": "Hoàng Hậu ngồi thư thái trên ngai êm giữa cánh đồng lúa mì chín vàng và rừng cây, dòng suối chảy phía sau. Bà đội vương miện 12 ngôi sao, chiếc khiên bên cạnh mang biểu tượng sao Kim.",
+  "symbols": [
+    {
+      "name": "Đồng lúa chín",
+      "meaning": "Mùa màng bội thu, kết quả của sự chăm sóc."
+    },
+    {
+      "name": "Vương miện 12 sao",
+      "meaning": "12 cung hoàng đạo, sự hòa hợp với chu kỳ tự nhiên."
+    },
+    {
+      "name": "Biểu tượng sao Kim",
+      "meaning": "Tình yêu, cái đẹp, nữ tính."
+    },
+    {
+      "name": "Dòng suối",
+      "meaning": "Cảm xúc tuôn chảy, sự sống được nuôi dưỡng."
+    }
+  ],
+  "upright": {
+    "general": "Thời kỳ sinh sôi và tràn đầy. Hoàng Hậu nhắc bạn kết nối với cơ thể, thiên nhiên và cái đẹp; nuôi dưỡng bản thân và những gì bạn yêu thương. Có thể báo hiệu tin vui về con cái.",
+    "love": "Tình yêu ấm áp, đầy quan tâm; mối quan hệ phát triển tự nhiên. Có thể liên quan đến mang thai.",
+    "career": "Dự án phát triển tốt; thời điểm thuận lợi cho công việc sáng tạo, nghệ thuật, chăm sóc.",
+    "finance": "Sung túc, thoải mái; hãy tận hưởng nhưng đầu tư vào những gì bền vững."
+  },
+  "reversed": {
+    "general": "Bạn đang cho đi quá nhiều mà quên chăm sóc bản thân, hoặc cảm thấy cạn kiệt cảm hứng sáng tạo.",
+    "love": "Ghen tuông, kiểm soát, hoặc yêu thương kiểu ngột ngạt.",
+    "career": "Ý tưởng không nảy nở; cảm thấy công việc khô khan, thiếu cảm hứng."
+  },
+  "advice": "Hãy tử tế với chính mình, ra ngoài thiên nhiên và để sự sáng tạo tự do chảy.",
+  "yesNo": "Có",
+  "memoryTip": "Số 3 = sự sinh sôi (1 + 2 tạo ra cái mới). Hãy nghĩ đến hình ảnh người mẹ và Mẹ Thiên Nhiên.",
+  "image": "assets/cards/the-empress.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

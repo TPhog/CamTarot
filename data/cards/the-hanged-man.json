@@ -1,0 +1,61 @@
+{
+  "id": "the-hanged-man",
+  "name": "The Hanged Man",
+  "nameVi": "Người Treo Ngược",
+  "arcana": "major",
+  "suit": null,
+  "number": 12,
+  "element": "Nước",
+  "astrology": "Sao Hải Vương",
+  "glyph": "♆",
+  "keywords": {
+    "upright": [
+      "Buông bỏ",
+      "Tạm dừng",
+      "Góc nhìn mới",
+      "Hy sinh",
+      "Chấp nhận"
+    ],
+    "reversed": [
+      "Trì hoãn vô ích",
+      "Cố chấp",
+      "Hy sinh vô nghĩa",
+      "Bế tắc"
+    ]
+  },
+  "imagery": "Một người đàn ông bị treo ngược một chân trên cây hình chữ T, chân kia gập lại thành số 4. Gương mặt anh bình thản, quanh đầu tỏa vầng hào quang.",
+  "symbols": [
+    {
+      "name": "Treo ngược",
+      "meaning": "Nhìn thế giới từ một góc độ hoàn toàn khác."
+    },
+    {
+      "name": "Vầng hào quang",
+      "meaning": "Sự giác ngộ đến từ việc buông bỏ."
+    },
+    {
+      "name": "Gương mặt bình thản",
+      "meaning": "Chủ động chấp nhận, không phải bị trừng phạt."
+    },
+    {
+      "name": "Cây sống",
+      "meaning": "Sự tạm dừng này nuôi dưỡng sự trưởng thành."
+    }
+  ],
+  "upright": {
+    "general": "Đôi khi cách tiến lên là dừng lại. Người Treo Ngược mời bạn buông bỏ sự kiểm soát, nhìn vấn đề từ góc khác — và sự thấu hiểu sẽ đến.",
+    "love": "Tạm dừng để nhìn lại mối quan hệ; chấp nhận người kia như họ là.",
+    "career": "Dự án tạm ngưng; đây là lúc suy nghĩ lại chiến lược thay vì cố đẩy tới.",
+    "finance": "Chưa phải lúc ra quyết định tài chính lớn; chờ đợi có giá trị."
+  },
+  "reversed": {
+    "general": "Bạn đang trì hoãn, mắc kẹt vì không chịu thay đổi góc nhìn — hoặc hy sinh mà không nhận lại gì.",
+    "love": "Hy sinh một chiều; chờ đợi một người không thay đổi.",
+    "career": "Cảm thấy bị mắc kẹt; cần hành động thay vì chờ đợi mãi."
+  },
+  "advice": "Buông tay khỏi điều bạn không kiểm soát được và thử nhìn từ phía ngược lại.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 12 = sự đảo ngược của 21 (Thế Giới). Hình dung lộn ngược người để thấy điều mới.",
+  "image": "assets/cards/the-hanged-man.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

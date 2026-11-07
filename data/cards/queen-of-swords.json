@@ -1,0 +1,42 @@
+{
+  "id": "queen-of-swords",
+  "name": "Queen of Swords",
+  "nameVi": "Nữ Hoàng Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "queen",
+  "number": 13,
+  "element": "Khí",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Độc lập",
+      "Sắc sảo",
+      "Thẳng thắn",
+      "Rõ ràng"
+    ],
+    "reversed": [
+      "Lạnh lùng",
+      "Cay nghiệt",
+      "Thiếu bao dung"
+    ]
+  },
+  "imagery": "Nữ hoàng ngồi trên ngai nhìn thẳng, tay phải cầm kiếm dựng đứng, tay trái đưa ra như mời. Mây ở phía dưới.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự sắc sảo, độc lập và thẳng thắn. Bạn nhìn nhận sự việc bằng lý trí, không bị cảm xúc chi phối.",
+    "love": "Cần sự trung thực trong tình cảm; ranh giới rõ ràng.",
+    "career": "Phân tích tốt, thẳng thắn, công tâm.",
+    "finance": "Quyết định tài chính lý trí."
+  },
+  "reversed": {
+    "general": "Quá lạnh lùng, cay nghiệt, hoặc khép lòng vì tổn thương cũ.",
+    "love": "Khép lòng, khó tin người.",
+    "career": "Phê phán quá mức."
+  },
+  "advice": "Nói sự thật — với lòng trắc ẩn.",
+  "yesNo": "Có thể",
+  "memoryTip": "Nữ Hoàng Kiếm = \"người phụ nữ thông minh, thẳng thắn\".",
+  "image": "assets/cards/queen-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

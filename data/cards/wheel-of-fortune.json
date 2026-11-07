@@ -1,0 +1,61 @@
+{
+  "id": "wheel-of-fortune",
+  "name": "Wheel of Fortune",
+  "nameVi": "Vòng Quay Số Phận",
+  "arcana": "major",
+  "suit": null,
+  "number": 10,
+  "element": "Lửa",
+  "astrology": "Sao Mộc",
+  "glyph": "♃",
+  "keywords": {
+    "upright": [
+      "Chu kỳ",
+      "Số phận",
+      "Bước ngoặt",
+      "May mắn",
+      "Thay đổi"
+    ],
+    "reversed": [
+      "Vận xui",
+      "Chống lại thay đổi",
+      "Mất kiểm soát",
+      "Lặp lại vòng cũ"
+    ]
+  },
+  "imagery": "Bánh xe lớn khắc chữ TARO và các ký hiệu giả kim treo giữa trời mây. Rắn trườn xuống bên trái, Anubis đi lên bên phải, nhân sư cầm kiếm ngồi trên đỉnh. Bốn góc là bốn sinh vật có cánh đang đọc sách.",
+  "symbols": [
+    {
+      "name": "Bánh xe",
+      "meaning": "Mọi thứ luôn xoay vòng: lên rồi xuống, xuống rồi lên."
+    },
+    {
+      "name": "Bốn sinh vật có cánh",
+      "meaning": "Bốn cung cố định (Bảo Bình, Sư Tử, Bọ Cạp, Kim Ngưu) — sự ổn định giữa biến động."
+    },
+    {
+      "name": "Nhân sư",
+      "meaning": "Trí tuệ đứng vững trên đỉnh thay đổi."
+    },
+    {
+      "name": "Rắn và Anubis",
+      "meaning": "Sự đi xuống và đi lên trong chu kỳ sống."
+    }
+  ],
+  "upright": {
+    "general": "Bánh xe đang quay — một bước ngoặt hoặc sự kiện định mệnh có thể xảy đến. Hãy đón nhận thay đổi, vì không có gì là mãi mãi, kể cả khó khăn.",
+    "love": "Một cuộc gặp gỡ định mệnh hoặc bước chuyển quan trọng trong mối quan hệ.",
+    "career": "Cơ hội bất ngờ, thay đổi tích cực; nắm bắt khi thời cơ đến.",
+    "finance": "Vận may tài chính đang lên; nhưng nhớ rằng chu kỳ sẽ đổi chiều — hãy dành dụm."
+  },
+  "reversed": {
+    "general": "Giai đoạn đi xuống hoặc những trở ngại ngoài tầm kiểm soát. Bạn có thể đang lặp lại khuôn mẫu cũ hoặc cố níu kéo điều phải thay đổi.",
+    "love": "Mối quan hệ rơi vào vòng lặp quen thuộc; khó khăn tạm thời.",
+    "career": "Kế hoạch bị trì hoãn bởi yếu tố bên ngoài; kiên nhẫn chờ chu kỳ mới."
+  },
+  "advice": "Thuận theo dòng chảy: tận dụng lúc lên, học hỏi lúc xuống.",
+  "yesNo": "Có",
+  "memoryTip": "Số 10 = kết thúc một vòng, bắt đầu vòng mới (1 + 0). Bánh xe nhắc rằng \"cái gì đi lên ắt sẽ đi xuống\".",
+  "image": "assets/cards/wheel-of-fortune.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

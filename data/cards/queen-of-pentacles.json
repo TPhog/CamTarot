@@ -1,0 +1,42 @@
+{
+  "id": "queen-of-pentacles",
+  "name": "Queen of Pentacles",
+  "nameVi": "Nữ Hoàng Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "queen",
+  "number": 13,
+  "element": "Đất",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Chăm sóc",
+      "Thực tế",
+      "Sung túc",
+      "Ấm cúng"
+    ],
+    "reversed": [
+      "Bỏ bê bản thân",
+      "Mất cân bằng",
+      "Phụ thuộc"
+    ]
+  },
+  "imagery": "Nữ hoàng ngồi trên ngai giữa vườn hoa, ôm đồng tiền trong lòng. Con thỏ nhỏ ở góc dưới.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự chăm sóc thực tế, ấm áp và sung túc. Bạn biết cách tạo một tổ ấm vững chắc.",
+    "love": "Người bạn đời chu đáo.",
+    "career": "Cân bằng công việc và gia đình.",
+    "finance": "Tài chính sung túc."
+  },
+  "reversed": {
+    "general": "Bỏ bê bản thân vì lo cho người khác.",
+    "love": "Quá bao bọc.",
+    "career": "Mất cân bằng."
+  },
+  "advice": "Chăm sóc bản thân như cách bạn chăm sóc người khác.",
+  "yesNo": "Có",
+  "memoryTip": "Nữ Hoàng Tiền = \"người mẹ đảm đang\".",
+  "image": "assets/cards/queen-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

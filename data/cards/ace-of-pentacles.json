@@ -1,0 +1,42 @@
+{
+  "id": "ace-of-pentacles",
+  "name": "Ace of Pentacles",
+  "nameVi": "Át Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "ace",
+  "number": 1,
+  "element": "Đất",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Cơ hội vật chất",
+      "Thịnh vượng",
+      "Khởi đầu tài chính",
+      "Nền tảng"
+    ],
+    "reversed": [
+      "Bỏ lỡ cơ hội",
+      "Kế hoạch kém",
+      "Thiếu hụt"
+    ]
+  },
+  "imagery": "Bàn tay từ mây nâng đồng tiền vàng phía trên khu vườn tươi tốt, có cổng vòm hoa dẫn ra ngoài.",
+  "symbols": [],
+  "upright": {
+    "general": "Một cơ hội mới về tài chính, công việc hoặc sức khỏe. Hạt giống của sự thịnh vượng đã được trao.",
+    "love": "Mối quan hệ có nền tảng vững chắc.",
+    "career": "Công việc mới, cơ hội kinh doanh.",
+    "finance": "Thu nhập mới, đầu tư tốt."
+  },
+  "reversed": {
+    "general": "Cơ hội bị bỏ lỡ hoặc kế hoạch tài chính không tốt.",
+    "love": "Thiếu ổn định.",
+    "career": "Cơ hội tuột khỏi tay."
+  },
+  "advice": "Nắm bắt cơ hội thực tế và gieo hạt cẩn thận.",
+  "yesNo": "Có",
+  "memoryTip": "Tiền = Đất = vật chất, công việc, sức khỏe. Át Tiền = hạt giống thịnh vượng.",
+  "image": "assets/cards/ace-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

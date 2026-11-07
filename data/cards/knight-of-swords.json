@@ -1,0 +1,42 @@
+{
+  "id": "knight-of-swords",
+  "name": "Knight of Swords",
+  "nameVi": "Hiệp Sĩ Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "knight",
+  "number": 12,
+  "element": "Khí",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Hành động quyết liệt",
+      "Tham vọng",
+      "Nhanh nhạy",
+      "Thẳng thắn"
+    ],
+    "reversed": [
+      "Hấp tấp",
+      "Hung hăng",
+      "Thiếu suy nghĩ"
+    ]
+  },
+  "imagery": "Hiệp sĩ vung kiếm lao như bay trên ngựa trắng phi nước đại, mây và cây bị gió quật.",
+  "symbols": [],
+  "upright": {
+    "general": "Hành động nhanh, quyết liệt để đạt mục tiêu. Năng lượng mạnh mẽ nhưng cần định hướng.",
+    "love": "Người thẳng thắn, đôi khi vội vàng.",
+    "career": "Theo đuổi mục tiêu quyết liệt.",
+    "finance": "Quyết định nhanh — kiểm tra lại rủi ro."
+  },
+  "reversed": {
+    "general": "Hấp tấp, nóng vội, nói lời làm tổn thương.",
+    "love": "Lời nói gây tổn thương.",
+    "career": "Quyết định vội gây rủi ro."
+  },
+  "advice": "Hành động dứt khoát, nhưng nghĩ trước khi nói.",
+  "yesNo": "Có",
+  "memoryTip": "Hiệp Sĩ Kiếm là hiệp sĩ nhanh nhất — lao như gió.",
+  "image": "assets/cards/knight-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

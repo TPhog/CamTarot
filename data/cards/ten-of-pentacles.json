@@ -1,0 +1,42 @@
+{
+  "id": "ten-of-pentacles",
+  "name": "Ten of Pentacles",
+  "nameVi": "Mười Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "10",
+  "number": 10,
+  "element": "Đất",
+  "astrology": "Sao Thủy ở cung Xử Nữ",
+  "keywords": {
+    "upright": [
+      "Thịnh vượng",
+      "Di sản",
+      "Gia đình",
+      "Ổn định lâu dài"
+    ],
+    "reversed": [
+      "Mất mát tài sản",
+      "Tranh chấp gia đình",
+      "Bất ổn"
+    ]
+  },
+  "imagery": "Ông lão ngồi với hai con chó, một đôi vợ chồng và đứa trẻ dưới cổng vòm. Mười đồng tiền xếp hình Cây Sự Sống.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự thịnh vượng lâu dài, di sản gia đình và ổn định qua nhiều thế hệ.",
+    "love": "Cam kết lâu dài, gia đình vững chắc.",
+    "career": "Công ty gia đình, thành công bền vững.",
+    "finance": "Thừa kế, tài sản ổn định."
+  },
+  "reversed": {
+    "general": "Tranh chấp tài sản, bất ổn tài chính gia đình.",
+    "love": "Mâu thuẫn gia đình.",
+    "career": "Doanh nghiệp bất ổn."
+  },
+  "advice": "Xây dựng thứ sẽ tồn tại lâu dài.",
+  "yesNo": "Có",
+  "memoryTip": "Ba thế hệ trong một lá = \"di sản gia đình\".",
+  "image": "assets/cards/ten-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

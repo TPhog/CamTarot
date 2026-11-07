@@ -1,0 +1,61 @@
+{
+  "id": "the-star",
+  "name": "The Star",
+  "nameVi": "Ngôi Sao",
+  "arcana": "major",
+  "suit": null,
+  "number": 17,
+  "element": "Khí",
+  "astrology": "Cung Bảo Bình",
+  "glyph": "♒",
+  "keywords": {
+    "upright": [
+      "Hy vọng",
+      "Chữa lành",
+      "Cảm hứng",
+      "Bình yên",
+      "Niềm tin"
+    ],
+    "reversed": [
+      "Tuyệt vọng",
+      "Mất niềm tin",
+      "Nản lòng",
+      "Mất kết nối"
+    ]
+  },
+  "imagery": "Người phụ nữ trần trụi quỳ bên hồ nước dưới bầu trời có một ngôi sao lớn và bảy ngôi sao nhỏ. Cô rót nước từ hai bình: một xuống hồ, một xuống đất. Con chim ibis đậu trên cây.",
+  "symbols": [
+    {
+      "name": "Ngôi sao lớn tám cánh",
+      "meaning": "Ánh sáng hy vọng dẫn đường."
+    },
+    {
+      "name": "Rót nước xuống hồ và đất",
+      "meaning": "Nuôi dưỡng cả cảm xúc lẫn thực tại."
+    },
+    {
+      "name": "Sự trần trụi",
+      "meaning": "Bình yên, không còn gì phải che giấu."
+    },
+    {
+      "name": "Chim ibis",
+      "meaning": "Biểu tượng của trí tuệ và sự đổi mới."
+    }
+  ],
+  "upright": {
+    "general": "Sau giông bão (Tòa Tháp) là bầu trời sao. Đây là thời gian của hy vọng, chữa lành và tin tưởng vào tương lai. Hãy để bản thân được làm mới.",
+    "love": "Chữa lành vết thương lòng; tình yêu trong sáng, đầy hy vọng.",
+    "career": "Cảm hứng mới, mục tiêu dài hạn rõ ràng; được công nhận.",
+    "finance": "Tài chính dần hồi phục; có lý do để lạc quan."
+  },
+  "reversed": {
+    "general": "Bạn có thể đang mất hy vọng, nghi ngờ bản thân hoặc cảm thấy mọi nỗ lực không có ý nghĩa.",
+    "love": "Thất vọng về tình yêu; cần tự chữa lành trước.",
+    "career": "Thiếu động lực, mất định hướng; hãy nhớ lại lý do ban đầu."
+  },
+  "advice": "Hãy tin rằng mọi thứ đang dần tốt lên, và chăm sóc tâm hồn mình.",
+  "yesNo": "Có",
+  "memoryTip": "Ngôi Sao đứng ngay sau Tòa Tháp: sau sụp đổ là bình yên và hy vọng.",
+  "image": "assets/cards/the-star.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

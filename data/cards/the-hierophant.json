@@ -1,0 +1,61 @@
+{
+  "id": "the-hierophant",
+  "name": "The Hierophant",
+  "nameVi": "Giáo Hoàng",
+  "arcana": "major",
+  "suit": null,
+  "number": 5,
+  "element": "Đất",
+  "astrology": "Cung Kim Ngưu",
+  "glyph": "♉",
+  "keywords": {
+    "upright": [
+      "Truyền thống",
+      "Niềm tin",
+      "Giáo dục",
+      "Người thầy",
+      "Chuẩn mực"
+    ],
+    "reversed": [
+      "Phá vỡ khuôn khổ",
+      "Nổi loạn",
+      "Giáo điều",
+      "Tự tìm con đường riêng"
+    ]
+  },
+  "imagery": "Vị giáo hoàng ngồi giữa hai cột trụ, giơ tay ban phước, đầu đội vương miện ba tầng. Dưới chân là hai chiếc chìa khóa bắt chéo và hai tu sĩ đang quỳ.",
+  "symbols": [
+    {
+      "name": "Hai chìa khóa",
+      "meaning": "Chìa khóa mở ra tri thức hữu hình và huyền bí."
+    },
+    {
+      "name": "Hai tu sĩ",
+      "meaning": "Sự truyền dạy từ thầy sang trò, cộng đồng chung niềm tin."
+    },
+    {
+      "name": "Vương miện ba tầng",
+      "meaning": "Ba cõi: thân, tâm, linh."
+    },
+    {
+      "name": "Tay ban phước",
+      "meaning": "Sự kết nối giữa con người và điều thiêng liêng."
+    }
+  ],
+  "upright": {
+    "general": "Hãy tìm đến tri thức đã được kiểm chứng, một người thầy, hay một cộng đồng có giá trị chung. Lá bài nói về truyền thống, nghi lễ và học hỏi theo con đường bài bản.",
+    "love": "Mối quan hệ theo hướng truyền thống, hướng đến hôn nhân; giá trị gia đình được đề cao.",
+    "career": "Làm việc trong tổ chức lớn, học tập, đào tạo, có người cố vấn. Tuân thủ quy trình sẽ có lợi.",
+    "finance": "Lựa chọn an toàn, truyền thống (tiết kiệm, ngân hàng) tốt hơn mạo hiểm."
+  },
+  "reversed": {
+    "general": "Bạn đang thấy khuôn khổ cũ không còn phù hợp và muốn tự tìm đường. Hoặc ngược lại, đang bị mắc kẹt trong giáo điều cứng nhắc.",
+    "love": "Mối quan hệ không theo chuẩn mực xã hội; áp lực từ gia đình hoặc truyền thống.",
+    "career": "Muốn rời khỏi môi trường quá quan liêu; cách làm sáng tạo, khác người."
+  },
+  "advice": "Học hỏi từ người đi trước, nhưng chỉ giữ lại những gì thực sự đúng với bạn.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 5 = cây cầu nối. Giáo Hoàng là chiếc cầu giữa con người và tri thức thiêng liêng — hình ảnh \"người thầy\".",
+  "image": "assets/cards/the-hierophant.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

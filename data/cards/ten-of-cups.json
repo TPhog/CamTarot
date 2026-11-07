@@ -1,0 +1,42 @@
+{
+  "id": "ten-of-cups",
+  "name": "Ten of Cups",
+  "nameVi": "Mười Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "10",
+  "number": 10,
+  "element": "Nước",
+  "astrology": "Sao Hỏa ở cung Song Ngư",
+  "keywords": {
+    "upright": [
+      "Hạnh phúc gia đình",
+      "Hòa hợp",
+      "Viên mãn",
+      "Tình yêu bền vững"
+    ],
+    "reversed": [
+      "Bất hòa",
+      "Gia đình tan vỡ",
+      "Lệch giá trị"
+    ]
+  },
+  "imagery": "Một đôi vợ chồng dang tay hướng về cầu vồng có mười chiếc cốc, bên cạnh hai đứa trẻ nhảy múa trước ngôi nhà.",
+  "symbols": [],
+  "upright": {
+    "general": "Hạnh phúc trọn vẹn về cảm xúc: gia đình hòa thuận, tình yêu bền vững, cảm giác thuộc về.",
+    "love": "Gia đình hạnh phúc, cam kết lâu dài.",
+    "career": "Môi trường làm việc như một gia đình.",
+    "finance": "Ổn định, đủ đầy cho cả gia đình."
+  },
+  "reversed": {
+    "general": "Bất hòa trong gia đình, kỳ vọng hạnh phúc không giống thực tế.",
+    "love": "Mâu thuẫn về giá trị gia đình.",
+    "career": "Mất cân bằng giữa công việc và gia đình."
+  },
+  "advice": "Hãy dành thời gian cho những người bạn thương yêu.",
+  "yesNo": "Có",
+  "memoryTip": "Số 10 = trọn vẹn. Cầu vồng mười cốc = \"hạnh phúc gia đình viên mãn\".",
+  "image": "assets/cards/ten-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "three-of-pentacles",
+  "name": "Three of Pentacles",
+  "nameVi": "Ba Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "3",
+  "number": 3,
+  "element": "Đất",
+  "astrology": "Sao Hỏa ở cung Ma Kết",
+  "keywords": {
+    "upright": [
+      "Hợp tác",
+      "Kỹ năng",
+      "Làm việc nhóm",
+      "Học hỏi"
+    ],
+    "reversed": [
+      "Thiếu phối hợp",
+      "Làm ẩu",
+      "Không được ghi nhận"
+    ]
+  },
+  "imagery": "Người thợ đá đứng trên ghế làm việc trong nhà thờ, trao đổi với hai người cầm bản vẽ.",
+  "symbols": [],
+  "upright": {
+    "general": "Thành công nhờ hợp tác và kỹ năng. Công sức của bạn được người khác công nhận.",
+    "love": "Cùng nhau xây dựng mối quan hệ.",
+    "career": "Làm việc nhóm hiệu quả; được ghi nhận chuyên môn.",
+    "finance": "Đầu tư vào kỹ năng."
+  },
+  "reversed": {
+    "general": "Thiếu phối hợp, làm việc qua loa.",
+    "love": "Không cùng nỗ lực.",
+    "career": "Mâu thuẫn trong nhóm."
+  },
+  "advice": "Hợp tác và tôn trọng chuyên môn của nhau.",
+  "yesNo": "Có",
+  "memoryTip": "Ba người cùng xây nhà thờ = \"làm việc nhóm\".",
+  "image": "assets/cards/three-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

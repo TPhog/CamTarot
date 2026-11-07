@@ -1,0 +1,42 @@
+{
+  "id": "eight-of-pentacles",
+  "name": "Eight of Pentacles",
+  "nameVi": "Tám Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "8",
+  "number": 8,
+  "element": "Đất",
+  "astrology": "Mặt Trời ở cung Xử Nữ",
+  "keywords": {
+    "upright": [
+      "Chăm chỉ",
+      "Tay nghề",
+      "Chuyên tâm",
+      "Rèn luyện"
+    ],
+    "reversed": [
+      "Cầu toàn",
+      "Thiếu động lực",
+      "Làm qua loa"
+    ]
+  },
+  "imagery": "Người thợ ngồi chăm chú khắc đồng tiền, những đồng tiền đã hoàn thành treo trên cây cột.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự chăm chỉ và tận tâm trau dồi tay nghề. Bạn đang trở thành chuyên gia trong lĩnh vực của mình.",
+    "love": "Nỗ lực vun đắp mối quan hệ.",
+    "career": "Học nghề, rèn luyện kỹ năng.",
+    "finance": "Tiền đến từ sự chăm chỉ."
+  },
+  "reversed": {
+    "general": "Cầu toàn thái quá hoặc làm qua loa.",
+    "love": "Thiếu nỗ lực.",
+    "career": "Công việc nhàm chán."
+  },
+  "advice": "Tập trung trau dồi kỹ năng mỗi ngày.",
+  "yesNo": "Có",
+  "memoryTip": "Người thợ khắc từng đồng tiền = \"thợ học nghề chăm chỉ\".",
+  "image": "assets/cards/eight-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

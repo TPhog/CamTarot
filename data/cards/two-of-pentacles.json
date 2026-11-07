@@ -1,0 +1,42 @@
+{
+  "id": "two-of-pentacles",
+  "name": "Two of Pentacles",
+  "nameVi": "Hai Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "2",
+  "number": 2,
+  "element": "Đất",
+  "astrology": "Sao Mộc ở cung Ma Kết",
+  "keywords": {
+    "upright": [
+      "Cân bằng",
+      "Linh hoạt",
+      "Xoay xở",
+      "Đa nhiệm"
+    ],
+    "reversed": [
+      "Quá tải",
+      "Mất cân bằng",
+      "Rối loạn tài chính"
+    ]
+  },
+  "imagery": "Chàng trai nhảy múa tung hứng hai đồng tiền nối với nhau bằng dải vô cực. Phía sau là thuyền lắc lư trên sóng lớn.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang khéo léo cân bằng nhiều việc. Hãy linh hoạt và giữ nhịp.",
+    "love": "Cân bằng giữa tình yêu và trách nhiệm khác.",
+    "career": "Đa nhiệm, ưu tiên công việc.",
+    "finance": "Xoay xở tài chính."
+  },
+  "reversed": {
+    "general": "Quá tải, không thể giữ cân bằng.",
+    "love": "Thiếu thời gian cho nhau.",
+    "career": "Ôm quá nhiều việc."
+  },
+  "advice": "Giữ cân bằng — và biết khi nào cần buông bớt.",
+  "yesNo": "Có thể",
+  "memoryTip": "Tung hứng hai đồng tiền = \"xoay xở\".",
+  "image": "assets/cards/two-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

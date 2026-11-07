@@ -1,0 +1,42 @@
+{
+  "id": "king-of-wands",
+  "name": "King of Wands",
+  "nameVi": "Vua Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "king",
+  "number": 14,
+  "element": "Lửa",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Lãnh đạo",
+      "Tầm nhìn",
+      "Doanh nhân",
+      "Truyền cảm hứng"
+    ],
+    "reversed": [
+      "Độc đoán",
+      "Nóng nảy",
+      "Kỳ vọng quá cao"
+    ]
+  },
+  "imagery": "Vị vua ngồi trên ngai trang trí sư tử và kỳ nhông, tay cầm gậy đâm chồi, ánh mắt nhìn xa.",
+  "symbols": [],
+  "upright": {
+    "general": "Một nhà lãnh đạo có tầm nhìn, dám nghĩ dám làm. Bạn có khả năng biến ý tưởng lớn thành hiện thực và dẫn dắt người khác.",
+    "love": "Người bạn đời mạnh mẽ, hào phóng, trung thành.",
+    "career": "Lãnh đạo, doanh nhân, khởi nghiệp thành công.",
+    "finance": "Tầm nhìn tài chính tốt; đầu tư táo bạo có tính toán."
+  },
+  "reversed": {
+    "general": "Lãnh đạo độc đoán, nóng tính, kỳ vọng quá cao vào người khác.",
+    "love": "Kiểm soát, nóng giận.",
+    "career": "Quyết định vội vàng, áp đặt."
+  },
+  "advice": "Dẫn dắt bằng tầm nhìn và làm gương.",
+  "yesNo": "Có",
+  "memoryTip": "Vua = làm chủ nguyên tố ra bên ngoài. Vua Gậy = doanh nhân có tầm nhìn.",
+  "image": "assets/cards/king-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

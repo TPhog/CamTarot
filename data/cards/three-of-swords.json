@@ -1,0 +1,42 @@
+{
+  "id": "three-of-swords",
+  "name": "Three of Swords",
+  "nameVi": "Ba Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "3",
+  "number": 3,
+  "element": "Khí",
+  "astrology": "Sao Thổ ở cung Thiên Bình",
+  "keywords": {
+    "upright": [
+      "Đau lòng",
+      "Tổn thương",
+      "Phản bội",
+      "Chia ly"
+    ],
+    "reversed": [
+      "Chữa lành",
+      "Tha thứ",
+      "Vượt qua nỗi đau"
+    ]
+  },
+  "imagery": "Một trái tim đỏ bị ba thanh kiếm đâm xuyên giữa bầu trời mưa giông.",
+  "symbols": [],
+  "upright": {
+    "general": "Nỗi đau, sự tổn thương hoặc thất vọng. Đây là cảm xúc cần được thừa nhận để chữa lành.",
+    "love": "Tan vỡ, phản bội, người thứ ba.",
+    "career": "Thất vọng, bị chỉ trích.",
+    "finance": "Mất mát gây đau lòng."
+  },
+  "reversed": {
+    "general": "Bạn đang dần chữa lành, tha thứ và buông bỏ nỗi đau.",
+    "love": "Hàn gắn sau tổn thương.",
+    "career": "Vượt qua thất bại."
+  },
+  "advice": "Cho phép mình đau — đó là bước đầu của chữa lành.",
+  "yesNo": "Không",
+  "memoryTip": "Một trong những lá dễ nhớ nhất: trái tim bị ba kiếm đâm = \"đau lòng\".",
+  "image": "assets/cards/three-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

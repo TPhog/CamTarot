@@ -1,0 +1,61 @@
+{
+  "id": "judgement",
+  "name": "Judgement",
+  "nameVi": "Phán Xét",
+  "arcana": "major",
+  "suit": null,
+  "number": 20,
+  "element": "Lửa",
+  "astrology": "Sao Diêm Vương",
+  "glyph": "♇",
+  "keywords": {
+    "upright": [
+      "Thức tỉnh",
+      "Tái sinh",
+      "Tiếng gọi",
+      "Tha thứ",
+      "Đánh giá lại"
+    ],
+    "reversed": [
+      "Tự phán xét",
+      "Nghi ngờ bản thân",
+      "Lờ đi tiếng gọi",
+      "Hối tiếc"
+    ]
+  },
+  "imagery": "Thiên thần Gabriel thổi kèn từ trên mây. Bên dưới, những người đàn ông, phụ nữ và trẻ em đứng dậy từ quan tài, dang tay đón nhận.",
+  "symbols": [
+    {
+      "name": "Tiếng kèn",
+      "meaning": "Lời kêu gọi thức tỉnh, nhận ra sứ mệnh."
+    },
+    {
+      "name": "Người trỗi dậy từ quan tài",
+      "meaning": "Tái sinh, bỏ lại con người cũ."
+    },
+    {
+      "name": "Cờ chữ thập",
+      "meaning": "Sự cân bằng và hòa hợp các mặt đối lập."
+    },
+    {
+      "name": "Núi phía xa",
+      "meaning": "Thử thách đã vượt qua."
+    }
+  ],
+  "upright": {
+    "general": "Một sự thức tỉnh: bạn nhìn lại quá khứ, tha thứ, rút ra bài học và sẵn sàng bước vào phiên bản mới của chính mình. Hãy nghe theo \"tiếng gọi\" bên trong.",
+    "love": "Nhìn lại mối quan hệ một cách trưởng thành; có thể là sự quay lại hoặc khép lại rõ ràng.",
+    "career": "Tìm thấy sứ mệnh; quyết định quan trọng về hướng đi sự nghiệp.",
+    "finance": "Đánh giá lại toàn bộ tài chính, đưa ra quyết định dứt khoát."
+  },
+  "reversed": {
+    "general": "Bạn đang phán xét bản thân quá khắt khe, hoặc phớt lờ tiếng gọi thay đổi vì sợ hãi.",
+    "love": "Cứ mãi day dứt chuyện cũ; không tha thứ được.",
+    "career": "Bỏ lỡ cơ hội vì nghi ngờ bản thân."
+  },
+  "advice": "Tha thứ cho quá khứ và trả lời tiếng gọi của con người bạn muốn trở thành.",
+  "yesNo": "Có",
+  "memoryTip": "Phán Xét không phải trừng phạt, mà là \"tỉnh dậy\". Số 20 → 2+0 = 2 (Nữ Tư Tế): trực giác lên tiếng.",
+  "image": "assets/cards/judgement.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

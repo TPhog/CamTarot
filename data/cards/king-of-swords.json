@@ -1,0 +1,42 @@
+{
+  "id": "king-of-swords",
+  "name": "King of Swords",
+  "nameVi": "Vua Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "king",
+  "number": 14,
+  "element": "Khí",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Trí tuệ",
+      "Quyền uy",
+      "Công tâm",
+      "Lý trí"
+    ],
+    "reversed": [
+      "Lạm quyền",
+      "Thao túng",
+      "Lạnh lùng"
+    ]
+  },
+  "imagery": "Vị vua ngồi trên ngai, tay cầm kiếm hơi nghiêng, ánh mắt nghiêm nghị nhìn thẳng.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự sáng suốt và quyền uy trí tuệ. Bạn đưa ra quyết định dựa trên lý trí và đạo đức.",
+    "love": "Người bạn đời lý trí, có nguyên tắc.",
+    "career": "Chuyên gia, luật sư, nhà quản lý giỏi.",
+    "finance": "Quyết định tài chính khôn ngoan."
+  },
+  "reversed": {
+    "general": "Dùng trí tuệ để thao túng, lạm quyền hoặc lạnh lùng.",
+    "love": "Thiếu cảm xúc, quá lý trí.",
+    "career": "Cấp trên độc đoán."
+  },
+  "advice": "Quyết định bằng lý trí và đạo đức.",
+  "yesNo": "Có",
+  "memoryTip": "Vua Kiếm = \"vị thẩm phán sáng suốt\".",
+  "image": "assets/cards/king-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

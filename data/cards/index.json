@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "the-fool",
+    "name": "The Fool",
+    "nameVi": "Chàng Khờ",
+    "arcana": "major",
+    "suit": null,
+    "number": 0,
+    "image": "assets/cards/the-fool.jpg",
+    "keywords": [
+      "Khởi đầu mới",
+      "Tự do",
+      "Ngây thơ",
+      "Phiêu lưu",
+      "Tin vào hành trình"
+    ]
+  },
+  {
+    "id": "the-magician",
+    "name": "The Magician",
+    "nameVi": "Nhà Ảo Thuật",
+    "arcana": "major",
+    "suit": null,
+    "number": 1,
+    "image": "assets/cards/the-magician.jpg",
+    "keywords": [
+      "Ý chí",
+      "Hành động",
+      "Kỹ năng",
+      "Biến ý tưởng thành hiện thực",
+      "Tập trung"
+    ]
+  },
+  {
+    "id": "the-high-priestess",
+    "name": "The High Priestess",
+    "nameVi": "Nữ Tư Tế",
+    "arcana": "major",
+    "suit": null,
+    "number": 2,
+    "image": "assets/cards/the-high-priestess.jpg",
+    "keywords": [
+      "Trực giác",
+      "Bí ẩn",
+      "Tiềm thức",
+      "Tĩnh lặng",
+      "Hiểu biết bên trong"
+    ]
+  },
+  {
+    "id": "the-empress",
+    "name": "The Empress",
+    "nameVi": "Hoàng Hậu",
+    "arcana": "major",
+    "suit": null,
+    "number": 3,
+    "image": "assets/cards/the-empress.jpg",
+    "keywords": [
+      "Phong nhiêu",
+      "Nuôi dưỡng",
+      "Sáng tạo",
+      "Thiên nhiên",
+      "Sung túc"
+    ]
+  },
+  {
+    "id": "the-emperor",
+    "name": "The Emperor",
+    "nameVi": "Hoàng Đế",
+    "arcana": "major",
+    "suit": null,
+    "number": 4,
+    "image": "assets/cards/the-emperor.jpg",
+    "keywords": [
+      "Quyền lực",
+      "Cấu trúc",
+      "Kỷ luật",
+      "Ổn định",
+      "Người cha"
+    ]
+  },
+  {
+    "id": "the-hierophant",
+    "name": "The Hierophant",
+    "nameVi": "Giáo Hoàng",
+    "arcana": "major",
+    "suit": null,
+    "number": 5,
+    "image": "assets/cards/the-hierophant.jpg",
+    "keywords": [
+      "Truyền thống",
+      "Niềm tin",
+      "Giáo dục",
+      "Người thầy",
+      "Chuẩn mực"
+    ]
+  },
+  {
+    "id": "the-lovers",
+    "name": "The Lovers",
+    "nameVi": "Tình Nhân",
+    "arcana": "major",
+    "suit": null,
+    "number": 6,
+    "image": "assets/cards/the-lovers.jpg",
+    "keywords": [
+      "Tình yêu",
+      "Hòa hợp",
+      "Lựa chọn",
+      "Giá trị",
+      "Kết nối"
+    ]
+  },
+  {
+    "id": "the-chariot",
+    "name": "The Chariot",
+    "nameVi": "Cỗ Xe",
+    "arcana": "major",
+    "suit": null,
+    "number": 7,
+    "image": "assets/cards/the-chariot.jpg",
+    "keywords": [
+      "Ý chí",
+      "Chiến thắng",
+      "Quyết tâm",
+      "Kiểm soát",
+      "Tiến lên"
+    ]
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "nameVi": "Sức Mạnh",
+    "arcana": "major",
+    "suit": null,
+    "number": 8,
+    "image": "assets/cards/strength.jpg",
+    "keywords": [
+      "Can đảm",
+      "Kiên nhẫn",
+      "Lòng trắc ẩn",
+      "Sức mạnh nội tâm",
+      "Tự chủ"
+    ]
+  },
+  {
+    "id": "the-hermit",
+    "name": "The Hermit",
+    "nameVi": "Ẩn Sĩ",
+    "arcana": "major",
+    "suit": null,
+    "number": 9,
+    "image": "assets/cards/the-hermit.jpg",
+    "keywords": [
+      "Nội quan",
+      "Cô độc",
+      "Tìm kiếm sự thật",
+      "Trí tuệ",
+      "Dẫn đường"
+    ]
+  },
+  {
+    "id": "wheel-of-fortune",
+    "name": "Wheel of Fortune",
+    "nameVi": "Vòng Quay Số Phận",
+    "arcana": "major",
+    "suit": null,
+    "number": 10,
+    "image": "assets/cards/wheel-of-fortune.jpg",
+    "keywords": [
+      "Chu kỳ",
+      "Số phận",
+      "Bước ngoặt",
+      "May mắn",
+      "Thay đổi"
+    ]
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "nameVi": "Công Lý",
+    "arcana": "major",
+    "suit": null,
+    "number": 11,
+    "image": "assets/cards/justice.jpg",
+    "keywords": [
+      "Công bằng",
+      "Sự thật",
+      "Nhân quả",
+      "Trách nhiệm",
+      "Pháp lý"
+    ]
+  },
+  {
+    "id": "the-hanged-man",
+    "name": "The Hanged Man",
+    "nameVi": "Người Treo Ngược",
+    "arcana": "major",
+    "suit": null,
+    "number": 12,
+    "image": "assets/cards/the-hanged-man.jpg",
+    "keywords": [
+      "Buông bỏ",
+      "Tạm dừng",
+      "Góc nhìn mới",
+      "Hy sinh",
+      "Chấp nhận"
+    ]
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "nameVi": "Cái Chết",
+    "arcana": "major",
+    "suit": null,
+    "number": 13,
+    "image": "assets/cards/death.jpg",
+    "keywords": [
+      "Kết thúc",
+      "Chuyển hóa",
+      "Thay đổi",
+      "Buông bỏ cái cũ",
+      "Tái sinh"
+    ]
+  },
+  {
+    "id": "temperance",
+    "name": "Temperance",
+    "nameVi": "Tiết Chế",
+    "arcana": "major",
+    "suit": null,
+    "number": 14,
+    "image": "assets/cards/temperance.jpg",
+    "keywords": [
+      "Cân bằng",
+      "Điều độ",
+      "Kiên nhẫn",
+      "Hòa hợp",
+      "Chữa lành"
+    ]
+  },
+  {
+    "id": "the-devil",
+    "name": "The Devil",
+    "nameVi": "Ác Quỷ",
+    "arcana": "major",
+    "suit": null,
+    "number": 15,
+    "image": "assets/cards/the-devil.jpg",
+    "keywords": [
+      "Ràng buộc",
+      "Cám dỗ",
+      "Nghiện ngập",
+      "Vật chất",
+      "Bóng tối bản thân"
+    ]
+  },
+  {
+    "id": "the-tower",
+    "name": "The Tower",
+    "nameVi": "Tòa Tháp",
+    "arcana": "major",
+    "suit": null,
+    "number": 16,
+    "image": "assets/cards/the-tower.jpg",
+    "keywords": [
+      "Biến cố bất ngờ",
+      "Sụp đổ",
+      "Thức tỉnh",
+      "Sự thật phơi bày",
+      "Giải phóng"
+    ]
+  },
+  {
+    "id": "the-star",
+    "name": "The Star",
+    "nameVi": "Ngôi Sao",
+    "arcana": "major",
+    "suit": null,
+    "number": 17,
+    "image": "assets/cards/the-star.jpg",
+    "keywords": [
+      "Hy vọng",
+      "Chữa lành",
+      "Cảm hứng",
+      "Bình yên",
+      "Niềm tin"
+    ]
+  },
+  {
+    "id": "the-moon",
+    "name": "The Moon",
+    "nameVi": "Mặt Trăng",
+    "arcana": "major",
+    "suit": null,
+    "number": 18,
+    "image": "assets/cards/the-moon.jpg",
+    "keywords": [
+      "Ảo ảnh",
+      "Sợ hãi",
+      "Tiềm thức",
+      "Mơ hồ",
+      "Trực giác"
+    ]
+  },
+  {
+    "id": "the-sun",
+    "name": "The Sun",
+    "nameVi": "Mặt Trời",
+    "arcana": "major",
+    "suit": null,
+    "number": 19,
+    "image": "assets/cards/the-sun.jpg",
+    "keywords": [
+      "Niềm vui",
+      "Thành công",
+      "Tích cực",
+      "Sức sống",
+      "Rõ ràng"
+    ]
+  },
+  {
+    "id": "judgement",
+    "name": "Judgement",
+    "nameVi": "Phán Xét",
+    "arcana": "major",
+    "suit": null,
+    "number": 20,
+    "image": "assets/cards/judgement.jpg",
+    "keywords": [
+      "Thức tỉnh",
+      "Tái sinh",
+      "Tiếng gọi",
+      "Tha thứ",
+      "Đánh giá lại"
+    ]
+  },
+  {
+    "id": "the-world",
+    "name": "The World",
+    "nameVi": "Thế Giới",
+    "arcana": "major",
+    "suit": null,
+    "number": 21,
+    "image": "assets/cards/the-world.jpg",
+    "keywords": [
+      "Hoàn thành",
+      "Viên mãn",
+      "Thành tựu",
+      "Hòa nhập",
+      "Du lịch"
+    ]
+  },
+  {
+    "id": "ace-of-wands",
+    "name": "Ace of Wands",
+    "nameVi": "Át Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 1,
+    "rank": "ace",
+    "image": "assets/cards/ace-of-wands.jpg",
+    "keywords": [
+      "Cảm hứng",
+      "Khởi đầu đam mê",
+      "Tiềm năng",
+      "Năng lượng sáng tạo"
+    ]
+  },
+  {
+    "id": "two-of-wands",
+    "name": "Two of Wands",
+    "nameVi": "Hai Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 2,
+    "rank": "2",
+    "image": "assets/cards/two-of-wands.jpg",
+    "keywords": [
+      "Lập kế hoạch",
+      "Tầm nhìn",
+      "Quyết định",
+      "Khám phá"
+    ]
+  },
+  {
+    "id": "three-of-wands",
+    "name": "Three of Wands",
+    "nameVi": "Ba Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 3,
+    "rank": "3",
+    "image": "assets/cards/three-of-wands.jpg",
+    "keywords": [
+      "Mở rộng",
+      "Tầm nhìn xa",
+      "Tiến triển",
+      "Chờ đợi kết quả"
+    ]
+  },
+  {
+    "id": "four-of-wands",
+    "name": "Four of Wands",
+    "nameVi": "Bốn Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 4,
+    "rank": "4",
+    "image": "assets/cards/four-of-wands.jpg",
+    "keywords": [
+      "Ăn mừng",
+      "Hòa hợp",
+      "Gia đình",
+      "Cột mốc",
+      "Mái ấm"
+    ]
+  },
+  {
+    "id": "five-of-wands",
+    "name": "Five of Wands",
+    "nameVi": "Năm Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 5,
+    "rank": "5",
+    "image": "assets/cards/five-of-wands.jpg",
+    "keywords": [
+      "Cạnh tranh",
+      "Xung đột",
+      "Bất đồng",
+      "Tranh luận"
+    ]
+  },
+  {
+    "id": "six-of-wands",
+    "name": "Six of Wands",
+    "nameVi": "Sáu Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 6,
+    "rank": "6",
+    "image": "assets/cards/six-of-wands.jpg",
+    "keywords": [
+      "Chiến thắng",
+      "Được công nhận",
+      "Tự hào",
+      "Thành công công khai"
+    ]
+  },
+  {
+    "id": "seven-of-wands",
+    "name": "Seven of Wands",
+    "nameVi": "Bảy Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 7,
+    "rank": "7",
+    "image": "assets/cards/seven-of-wands.jpg",
+    "keywords": [
+      "Kiên định",
+      "Bảo vệ",
+      "Thách thức",
+      "Giữ vững lập trường"
+    ]
+  },
+  {
+    "id": "eight-of-wands",
+    "name": "Eight of Wands",
+    "nameVi": "Tám Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 8,
+    "rank": "8",
+    "image": "assets/cards/eight-of-wands.jpg",
+    "keywords": [
+      "Tốc độ",
+      "Tin tức",
+      "Hành động nhanh",
+      "Chuyển động"
+    ]
+  },
+  {
+    "id": "nine-of-wands",
+    "name": "Nine of Wands",
+    "nameVi": "Chín Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 9,
+    "rank": "9",
+    "image": "assets/cards/nine-of-wands.jpg",
+    "keywords": [
+      "Kiên cường",
+      "Bền bỉ",
+      "Thử thách cuối",
+      "Phòng thủ"
+    ]
+  },
+  {
+    "id": "ten-of-wands",
+    "name": "Ten of Wands",
+    "nameVi": "Mười Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 10,
+    "rank": "10",
+    "image": "assets/cards/ten-of-wands.jpg",
+    "keywords": [
+      "Gánh nặng",
+      "Trách nhiệm",
+      "Quá tải",
+      "Làm việc vất vả"
+    ]
+  },
+  {
+    "id": "page-of-wands",
+    "name": "Page of Wands",
+    "nameVi": "Tiểu Đồng Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 11,
+    "rank": "page",
+    "image": "assets/cards/page-of-wands.jpg",
+    "keywords": [
+      "Nhiệt huyết",
+      "Khám phá",
+      "Tin tốt",
+      "Tò mò"
+    ]
+  },
+  {
+    "id": "knight-of-wands",
+    "name": "Knight of Wands",
+    "nameVi": "Hiệp Sĩ Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 12,
+    "rank": "knight",
+    "image": "assets/cards/knight-of-wands.jpg",
+    "keywords": [
+      "Hành động",
+      "Phiêu lưu",
+      "Đam mê",
+      "Bốc đồng"
+    ]
+  },
+  {
+    "id": "queen-of-wands",
+    "name": "Queen of Wands",
+    "nameVi": "Nữ Hoàng Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 13,
+    "rank": "queen",
+    "image": "assets/cards/queen-of-wands.jpg",
+    "keywords": [
+      "Tự tin",
+      "Ấm áp",
+      "Quyết đoán",
+      "Lôi cuốn",
+      "Độc lập"
+    ]
+  },
+  {
+    "id": "king-of-wands",
+    "name": "King of Wands",
+    "nameVi": "Vua Gậy",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 14,
+    "rank": "king",
+    "image": "assets/cards/king-of-wands.jpg",
+    "keywords": [
+      "Lãnh đạo",
+      "Tầm nhìn",
+      "Doanh nhân",
+      "Truyền cảm hứng"
+    ]
+  },
+  {
+    "id": "ace-of-cups",
+    "name": "Ace of Cups",
+    "nameVi": "Át Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 1,
+    "rank": "ace",
+    "image": "assets/cards/ace-of-cups.jpg",
+    "keywords": [
+      "Tình yêu mới",
+      "Cảm xúc tràn đầy",
+      "Lòng trắc ẩn",
+      "Trực giác"
+    ]
+  },
+  {
+    "id": "two-of-cups",
+    "name": "Two of Cups",
+    "nameVi": "Hai Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 2,
+    "rank": "2",
+    "image": "assets/cards/two-of-cups.jpg",
+    "keywords": [
+      "Kết nối",
+      "Đôi lứa",
+      "Hòa hợp",
+      "Hợp tác"
+    ]
+  },
+  {
+    "id": "three-of-cups",
+    "name": "Three of Cups",
+    "nameVi": "Ba Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 3,
+    "rank": "3",
+    "image": "assets/cards/three-of-cups.jpg",
+    "keywords": [
+      "Tình bạn",
+      "Ăn mừng",
+      "Cộng đồng",
+      "Vui vẻ"
+    ]
+  },
+  {
+    "id": "four-of-cups",
+    "name": "Four of Cups",
+    "nameVi": "Bốn Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 4,
+    "rank": "4",
+    "image": "assets/cards/four-of-cups.jpg",
+    "keywords": [
+      "Thờ ơ",
+      "Chán nản",
+      "Bỏ lỡ cơ hội",
+      "Nội quan"
+    ]
+  },
+  {
+    "id": "five-of-cups",
+    "name": "Five of Cups",
+    "nameVi": "Năm Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 5,
+    "rank": "5",
+    "image": "assets/cards/five-of-cups.jpg",
+    "keywords": [
+      "Mất mát",
+      "Tiếc nuối",
+      "Đau buồn",
+      "Thất vọng"
+    ]
+  },
+  {
+    "id": "six-of-cups",
+    "name": "Six of Cups",
+    "nameVi": "Sáu Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 6,
+    "rank": "6",
+    "image": "assets/cards/six-of-cups.jpg",
+    "keywords": [
+      "Hoài niệm",
+      "Ký ức",
+      "Ngây thơ",
+      "Tuổi thơ"
+    ]
+  },
+  {
+    "id": "seven-of-cups",
+    "name": "Seven of Cups",
+    "nameVi": "Bảy Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 7,
+    "rank": "7",
+    "image": "assets/cards/seven-of-cups.jpg",
+    "keywords": [
+      "Lựa chọn",
+      "Ảo tưởng",
+      "Mơ mộng",
+      "Cám dỗ"
+    ]
+  },
+  {
+    "id": "eight-of-cups",
+    "name": "Eight of Cups",
+    "nameVi": "Tám Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 8,
+    "rank": "8",
+    "image": "assets/cards/eight-of-cups.jpg",
+    "keywords": [
+      "Rời đi",
+      "Buông bỏ",
+      "Tìm kiếm ý nghĩa",
+      "Bước tiếp"
+    ]
+  },
+  {
+    "id": "nine-of-cups",
+    "name": "Nine of Cups",
+    "nameVi": "Chín Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 9,
+    "rank": "9",
+    "image": "assets/cards/nine-of-cups.jpg",
+    "keywords": [
+      "Mãn nguyện",
+      "Ước nguyện thành sự thật",
+      "Hạnh phúc",
+      "Hài lòng"
+    ]
+  },
+  {
+    "id": "ten-of-cups",
+    "name": "Ten of Cups",
+    "nameVi": "Mười Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 10,
+    "rank": "10",
+    "image": "assets/cards/ten-of-cups.jpg",
+    "keywords": [
+      "Hạnh phúc gia đình",
+      "Hòa hợp",
+      "Viên mãn",
+      "Tình yêu bền vững"
+    ]
+  },
+  {
+    "id": "page-of-cups",
+    "name": "Page of Cups",
+    "nameVi": "Tiểu Đồng Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 11,
+    "rank": "page",
+    "image": "assets/cards/page-of-cups.jpg",
+    "keywords": [
+      "Tin vui cảm xúc",
+      "Trực giác",
+      "Sáng tạo",
+      "Ngây thơ"
+    ]
+  },
+  {
+    "id": "knight-of-cups",
+    "name": "Knight of Cups",
+    "nameVi": "Hiệp Sĩ Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 12,
+    "rank": "knight",
+    "image": "assets/cards/knight-of-cups.jpg",
+    "keywords": [
+      "Lãng mạn",
+      "Lời mời",
+      "Quyến rũ",
+      "Lý tưởng"
+    ]
+  },
+  {
+    "id": "queen-of-cups",
+    "name": "Queen of Cups",
+    "nameVi": "Nữ Hoàng Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 13,
+    "rank": "queen",
+    "image": "assets/cards/queen-of-cups.jpg",
+    "keywords": [
+      "Thấu cảm",
+      "Dịu dàng",
+      "Trực giác",
+      "Chăm sóc"
+    ]
+  },
+  {
+    "id": "king-of-cups",
+    "name": "King of Cups",
+    "nameVi": "Vua Cốc",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 14,
+    "rank": "king",
+    "image": "assets/cards/king-of-cups.jpg",
+    "keywords": [
+      "Cân bằng cảm xúc",
+      "Bao dung",
+      "Điềm tĩnh",
+      "Khôn ngoan"
+    ]
+  },
+  {
+    "id": "ace-of-swords",
+    "name": "Ace of Swords",
+    "nameVi": "Át Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 1,
+    "rank": "ace",
+    "image": "assets/cards/ace-of-swords.jpg",
+    "keywords": [
+      "Sự thật",
+      "Rõ ràng",
+      "Đột phá tư duy",
+      "Quyết định"
+    ]
+  },
+  {
+    "id": "two-of-swords",
+    "name": "Two of Swords",
+    "nameVi": "Hai Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 2,
+    "rank": "2",
+    "image": "assets/cards/two-of-swords.jpg",
+    "keywords": [
+      "Bế tắc",
+      "Khó quyết định",
+      "Né tránh",
+      "Cân nhắc"
+    ]
+  },
+  {
+    "id": "three-of-swords",
+    "name": "Three of Swords",
+    "nameVi": "Ba Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 3,
+    "rank": "3",
+    "image": "assets/cards/three-of-swords.jpg",
+    "keywords": [
+      "Đau lòng",
+      "Tổn thương",
+      "Phản bội",
+      "Chia ly"
+    ]
+  },
+  {
+    "id": "four-of-swords",
+    "name": "Four of Swords",
+    "nameVi": "Bốn Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 4,
+    "rank": "4",
+    "image": "assets/cards/four-of-swords.jpg",
+    "keywords": [
+      "Nghỉ ngơi",
+      "Hồi phục",
+      "Thiền định",
+      "Tĩnh dưỡng"
+    ]
+  },
+  {
+    "id": "five-of-swords",
+    "name": "Five of Swords",
+    "nameVi": "Năm Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 5,
+    "rank": "5",
+    "image": "assets/cards/five-of-swords.jpg",
+    "keywords": [
+      "Xung đột",
+      "Thắng bằng mọi giá",
+      "Bất hòa",
+      "Mất mát"
+    ]
+  },
+  {
+    "id": "six-of-swords",
+    "name": "Six of Swords",
+    "nameVi": "Sáu Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 6,
+    "rank": "6",
+    "image": "assets/cards/six-of-swords.jpg",
+    "keywords": [
+      "Chuyển tiếp",
+      "Rời đi",
+      "Bình yên dần",
+      "Hành trình"
+    ]
+  },
+  {
+    "id": "seven-of-swords",
+    "name": "Seven of Swords",
+    "nameVi": "Bảy Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 7,
+    "rank": "7",
+    "image": "assets/cards/seven-of-swords.jpg",
+    "keywords": [
+      "Lén lút",
+      "Mưu mẹo",
+      "Lừa dối",
+      "Chiến lược"
+    ]
+  },
+  {
+    "id": "eight-of-swords",
+    "name": "Eight of Swords",
+    "nameVi": "Tám Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 8,
+    "rank": "8",
+    "image": "assets/cards/eight-of-swords.jpg",
+    "keywords": [
+      "Bị mắc kẹt",
+      "Giới hạn bản thân",
+      "Bất lực",
+      "Sợ hãi"
+    ]
+  },
+  {
+    "id": "nine-of-swords",
+    "name": "Nine of Swords",
+    "nameVi": "Chín Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 9,
+    "rank": "9",
+    "image": "assets/cards/nine-of-swords.jpg",
+    "keywords": [
+      "Lo âu",
+      "Mất ngủ",
+      "Ác mộng",
+      "Tội lỗi"
+    ]
+  },
+  {
+    "id": "ten-of-swords",
+    "name": "Ten of Swords",
+    "nameVi": "Mười Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 10,
+    "rank": "10",
+    "image": "assets/cards/ten-of-swords.jpg",
+    "keywords": [
+      "Kết thúc đau đớn",
+      "Chạm đáy",
+      "Phản bội",
+      "Hết đường"
+    ]
+  },
+  {
+    "id": "page-of-swords",
+    "name": "Page of Swords",
+    "nameVi": "Tiểu Đồng Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 11,
+    "rank": "page",
+    "image": "assets/cards/page-of-swords.jpg",
+    "keywords": [
+      "Tò mò",
+      "Ham học hỏi",
+      "Lanh lợi",
+      "Quan sát"
+    ]
+  },
+  {
+    "id": "knight-of-swords",
+    "name": "Knight of Swords",
+    "nameVi": "Hiệp Sĩ Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 12,
+    "rank": "knight",
+    "image": "assets/cards/knight-of-swords.jpg",
+    "keywords": [
+      "Hành động quyết liệt",
+      "Tham vọng",
+      "Nhanh nhạy",
+      "Thẳng thắn"
+    ]
+  },
+  {
+    "id": "queen-of-swords",
+    "name": "Queen of Swords",
+    "nameVi": "Nữ Hoàng Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 13,
+    "rank": "queen",
+    "image": "assets/cards/queen-of-swords.jpg",
+    "keywords": [
+      "Độc lập",
+      "Sắc sảo",
+      "Thẳng thắn",
+      "Rõ ràng"
+    ]
+  },
+  {
+    "id": "king-of-swords",
+    "name": "King of Swords",
+    "nameVi": "Vua Kiếm",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 14,
+    "rank": "king",
+    "image": "assets/cards/king-of-swords.jpg",
+    "keywords": [
+      "Trí tuệ",
+      "Quyền uy",
+      "Công tâm",
+      "Lý trí"
+    ]
+  },
+  {
+    "id": "ace-of-pentacles",
+    "name": "Ace of Pentacles",
+    "nameVi": "Át Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 1,
+    "rank": "ace",
+    "image": "assets/cards/ace-of-pentacles.jpg",
+    "keywords": [
+      "Cơ hội vật chất",
+      "Thịnh vượng",
+      "Khởi đầu tài chính",
+      "Nền tảng"
+    ]
+  },
+  {
+    "id": "two-of-pentacles",
+    "name": "Two of Pentacles",
+    "nameVi": "Hai Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 2,
+    "rank": "2",
+    "image": "assets/cards/two-of-pentacles.jpg",
+    "keywords": [
+      "Cân bằng",
+      "Linh hoạt",
+      "Xoay xở",
+      "Đa nhiệm"
+    ]
+  },
+  {
+    "id": "three-of-pentacles",
+    "name": "Three of Pentacles",
+    "nameVi": "Ba Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 3,
+    "rank": "3",
+    "image": "assets/cards/three-of-pentacles.jpg",
+    "keywords": [
+      "Hợp tác",
+      "Kỹ năng",
+      "Làm việc nhóm",
+      "Học hỏi"
+    ]
+  },
+  {
+    "id": "four-of-pentacles",
+    "name": "Four of Pentacles",
+    "nameVi": "Bốn Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 4,
+    "rank": "4",
+    "image": "assets/cards/four-of-pentacles.jpg",
+    "keywords": [
+      "Tiết kiệm",
+      "Kiểm soát",
+      "An toàn",
+      "Giữ của"
+    ]
+  },
+  {
+    "id": "five-of-pentacles",
+    "name": "Five of Pentacles",
+    "nameVi": "Năm Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 5,
+    "rank": "5",
+    "image": "assets/cards/five-of-pentacles.jpg",
+    "keywords": [
+      "Khó khăn",
+      "Thiếu thốn",
+      "Cô lập",
+      "Mất mát"
+    ]
+  },
+  {
+    "id": "six-of-pentacles",
+    "name": "Six of Pentacles",
+    "nameVi": "Sáu Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 6,
+    "rank": "6",
+    "image": "assets/cards/six-of-pentacles.jpg",
+    "keywords": [
+      "Hào phóng",
+      "Cho và nhận",
+      "Từ thiện",
+      "Chia sẻ"
+    ]
+  },
+  {
+    "id": "seven-of-pentacles",
+    "name": "Seven of Pentacles",
+    "nameVi": "Bảy Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 7,
+    "rank": "7",
+    "image": "assets/cards/seven-of-pentacles.jpg",
+    "keywords": [
+      "Kiên nhẫn",
+      "Đầu tư dài hạn",
+      "Đánh giá",
+      "Chờ thu hoạch"
+    ]
+  },
+  {
+    "id": "eight-of-pentacles",
+    "name": "Eight of Pentacles",
+    "nameVi": "Tám Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 8,
+    "rank": "8",
+    "image": "assets/cards/eight-of-pentacles.jpg",
+    "keywords": [
+      "Chăm chỉ",
+      "Tay nghề",
+      "Chuyên tâm",
+      "Rèn luyện"
+    ]
+  },
+  {
+    "id": "nine-of-pentacles",
+    "name": "Nine of Pentacles",
+    "nameVi": "Chín Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 9,
+    "rank": "9",
+    "image": "assets/cards/nine-of-pentacles.jpg",
+    "keywords": [
+      "Độc lập",
+      "Sung túc",
+      "Tự chủ",
+      "Tận hưởng"
+    ]
+  },
+  {
+    "id": "ten-of-pentacles",
+    "name": "Ten of Pentacles",
+    "nameVi": "Mười Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 10,
+    "rank": "10",
+    "image": "assets/cards/ten-of-pentacles.jpg",
+    "keywords": [
+      "Thịnh vượng",
+      "Di sản",
+      "Gia đình",
+      "Ổn định lâu dài"
+    ]
+  },
+  {
+    "id": "page-of-pentacles",
+    "name": "Page of Pentacles",
+    "nameVi": "Tiểu Đồng Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 11,
+    "rank": "page",
+    "image": "assets/cards/page-of-pentacles.jpg",
+    "keywords": [
+      "Học hỏi",
+      "Cơ hội mới",
+      "Chăm chỉ",
+      "Mục tiêu"
+    ]
+  },
+  {
+    "id": "knight-of-pentacles",
+    "name": "Knight of Pentacles",
+    "nameVi": "Hiệp Sĩ Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 12,
+    "rank": "knight",
+    "image": "assets/cards/knight-of-pentacles.jpg",
+    "keywords": [
+      "Kiên trì",
+      "Đáng tin",
+      "Chăm chỉ",
+      "Có trách nhiệm"
+    ]
+  },
+  {
+    "id": "queen-of-pentacles",
+    "name": "Queen of Pentacles",
+    "nameVi": "Nữ Hoàng Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 13,
+    "rank": "queen",
+    "image": "assets/cards/queen-of-pentacles.jpg",
+    "keywords": [
+      "Chăm sóc",
+      "Thực tế",
+      "Sung túc",
+      "Ấm cúng"
+    ]
+  },
+  {
+    "id": "king-of-pentacles",
+    "name": "King of Pentacles",
+    "nameVi": "Vua Tiền",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 14,
+    "rank": "king",
+    "image": "assets/cards/king-of-pentacles.jpg",
+    "keywords": [
+      "Giàu có",
+      "Thành công",
+      "Ổn định",
+      "Doanh nhân"
+    ]
+  }
+]

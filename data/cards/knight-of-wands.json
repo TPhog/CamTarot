@@ -1,0 +1,42 @@
+{
+  "id": "knight-of-wands",
+  "name": "Knight of Wands",
+  "nameVi": "Hiệp Sĩ Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "knight",
+  "number": 12,
+  "element": "Lửa",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Hành động",
+      "Phiêu lưu",
+      "Đam mê",
+      "Bốc đồng"
+    ],
+    "reversed": [
+      "Nóng vội",
+      "Liều lĩnh",
+      "Bỏ dở giữa chừng"
+    ]
+  },
+  "imagery": "Hiệp sĩ mặc giáp, áo in kỳ nhông, cưỡi ngựa đang chồm lên, tay cầm gậy, lao đi trên sa mạc.",
+  "symbols": [],
+  "upright": {
+    "general": "Năng lượng mạnh mẽ, hành động và phiêu lưu. Bạn sẵn sàng lao vào điều mới với đầy nhiệt huyết.",
+    "love": "Mối quan hệ nồng nhiệt, cuồng nhiệt nhưng có thể không bền.",
+    "career": "Hành động nhanh, chuyển việc, khởi nghiệp, đi xa.",
+    "finance": "Chi tiêu bốc đồng; cẩn thận rủi ro."
+  },
+  "reversed": {
+    "general": "Quá nóng vội, thiếu kiên nhẫn, dễ bỏ dở.",
+    "love": "Thiếu cam kết; đến nhanh đi cũng nhanh.",
+    "career": "Hành động thiếu kế hoạch; dự án bỏ dở."
+  },
+  "advice": "Hãy hành động với đam mê, nhưng đừng quên đích đến.",
+  "yesNo": "Có",
+  "memoryTip": "Hiệp Sĩ = hành động. Hiệp Sĩ Gậy là người nhanh nhất, bốc nhất trong bốn hiệp sĩ.",
+  "image": "assets/cards/knight-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

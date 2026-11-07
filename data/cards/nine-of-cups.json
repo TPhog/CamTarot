@@ -1,0 +1,42 @@
+{
+  "id": "nine-of-cups",
+  "name": "Nine of Cups",
+  "nameVi": "Chín Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "rank": "9",
+  "number": 9,
+  "element": "Nước",
+  "astrology": "Sao Mộc ở cung Song Ngư",
+  "keywords": {
+    "upright": [
+      "Mãn nguyện",
+      "Ước nguyện thành sự thật",
+      "Hạnh phúc",
+      "Hài lòng"
+    ],
+    "reversed": [
+      "Không thỏa mãn",
+      "Tham lam",
+      "Tự mãn"
+    ]
+  },
+  "imagery": "Người đàn ông ngồi khoanh tay hài lòng, phía sau là chín chiếc cốc xếp hàng trên chiếc bàn phủ khăn xanh.",
+  "symbols": [],
+  "upright": {
+    "general": "Lá bài \"ước nguyện\": điều bạn mong muốn sẽ thành hiện thực. Hãy tận hưởng sự hài lòng và biết ơn.",
+    "love": "Hạnh phúc, viên mãn; tình cảm như ý.",
+    "career": "Đạt mục tiêu; hài lòng với thành tựu.",
+    "finance": "Sung túc, đủ đầy."
+  },
+  "reversed": {
+    "general": "Có mọi thứ nhưng vẫn thấy chưa đủ; hoặc quá tự mãn.",
+    "love": "Kỳ vọng không thực tế.",
+    "career": "Thành công vật chất nhưng thiếu ý nghĩa."
+  },
+  "advice": "Hãy biết ơn những gì đang có.",
+  "yesNo": "Có",
+  "memoryTip": "Còn gọi là \"lá ước nguyện\". Người khoanh tay cười = \"tôi có tất cả\".",
+  "image": "assets/cards/nine-of-cups.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

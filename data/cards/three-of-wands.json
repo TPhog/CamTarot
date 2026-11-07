@@ -1,0 +1,42 @@
+{
+  "id": "three-of-wands",
+  "name": "Three of Wands",
+  "nameVi": "Ba Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "3",
+  "number": 3,
+  "element": "Lửa",
+  "astrology": "Mặt Trời ở cung Bạch Dương",
+  "keywords": {
+    "upright": [
+      "Mở rộng",
+      "Tầm nhìn xa",
+      "Tiến triển",
+      "Chờ đợi kết quả"
+    ],
+    "reversed": [
+      "Trở ngại",
+      "Chậm trễ",
+      "Thất vọng vì kỳ vọng"
+    ]
+  },
+  "imagery": "Người đàn ông đứng trên vách đá, quay lưng lại, nhìn những con thuyền trên biển. Ba cây gậy cắm quanh anh.",
+  "symbols": [],
+  "upright": {
+    "general": "Kế hoạch đã được thực hiện và bắt đầu có kết quả. Bạn đang nhìn xa, chờ những \"con thuyền\" mang về thành quả và chuẩn bị mở rộng.",
+    "love": "Mối quan hệ phát triển; có thể là yêu xa hoặc cùng hướng đến tương lai.",
+    "career": "Mở rộng kinh doanh, hợp tác nước ngoài, dự án tiến triển tốt.",
+    "finance": "Khoản đầu tư bắt đầu sinh lời."
+  },
+  "reversed": {
+    "general": "Kết quả chậm hơn mong đợi; trở ngại bất ngờ.",
+    "love": "Khoảng cách gây khó khăn; kỳ vọng không được đáp ứng.",
+    "career": "Kế hoạch mở rộng gặp trục trặc."
+  },
+  "advice": "Tiếp tục kiên định và nhìn xa — thành quả đang đến.",
+  "yesNo": "Có",
+  "memoryTip": "Số 3 = sự phát triển ban đầu. Người đứng nhìn thuyền về = \"chờ quả ngọt\".",
+  "image": "assets/cards/three-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

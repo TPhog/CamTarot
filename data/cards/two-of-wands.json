@@ -1,0 +1,42 @@
+{
+  "id": "two-of-wands",
+  "name": "Two of Wands",
+  "nameVi": "Hai Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "2",
+  "number": 2,
+  "element": "Lửa",
+  "astrology": "Sao Hỏa ở cung Bạch Dương",
+  "keywords": {
+    "upright": [
+      "Lập kế hoạch",
+      "Tầm nhìn",
+      "Quyết định",
+      "Khám phá"
+    ],
+    "reversed": [
+      "Sợ điều chưa biết",
+      "Thiếu kế hoạch",
+      "Chần chừ"
+    ]
+  },
+  "imagery": "Người đàn ông đứng trên tường thành, tay cầm quả địa cầu nhìn ra biển xa, một cây gậy trong tay và một cây gắn vào tường.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đã có điểm xuất phát, giờ là lúc lên kế hoạch cho bước tiếp theo. Thế giới rộng lớn đang chờ — hãy quyết định hướng đi.",
+    "love": "Cân nhắc tương lai của mối quan hệ; có thể là lựa chọn giữa an toàn và phiêu lưu.",
+    "career": "Lên chiến lược dài hạn, mở rộng thị trường, cân nhắc cơ hội ở xa.",
+    "finance": "Lập kế hoạch đầu tư, tính toán trước khi mở rộng."
+  },
+  "reversed": {
+    "general": "Ngại rời vùng an toàn; kế hoạch thiếu rõ ràng.",
+    "love": "Lưỡng lự, không dám tiến thêm bước nữa.",
+    "career": "Thiếu tầm nhìn; chần chừ trước quyết định quan trọng."
+  },
+  "advice": "Hãy nhìn xa và vạch ra con đường cụ thể.",
+  "yesNo": "Có thể",
+  "memoryTip": "Số 2 = lựa chọn. Quả địa cầu trong tay = \"cả thế giới là của bạn, chọn đi\".",
+  "image": "assets/cards/two-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

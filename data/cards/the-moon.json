@@ -1,0 +1,61 @@
+{
+  "id": "the-moon",
+  "name": "The Moon",
+  "nameVi": "Mặt Trăng",
+  "arcana": "major",
+  "suit": null,
+  "number": 18,
+  "element": "Nước",
+  "astrology": "Cung Song Ngư",
+  "glyph": "♓",
+  "keywords": {
+    "upright": [
+      "Ảo ảnh",
+      "Sợ hãi",
+      "Tiềm thức",
+      "Mơ hồ",
+      "Trực giác"
+    ],
+    "reversed": [
+      "Sự thật sáng tỏ",
+      "Vượt qua sợ hãi",
+      "Giải tỏa lo âu",
+      "Bớt nhầm lẫn"
+    ]
+  },
+  "imagery": "Mặt trăng có khuôn mặt chiếu sáng một con đường giữa hai tòa tháp. Chó và sói tru dưới trăng, con tôm hùm bò lên từ hồ nước.",
+  "symbols": [
+    {
+      "name": "Chó và sói",
+      "meaning": "Phần đã thuần hóa và phần hoang dã trong ta."
+    },
+    {
+      "name": "Tôm hùm bò lên",
+      "meaning": "Nỗi sợ, ký ức từ tiềm thức trồi lên."
+    },
+    {
+      "name": "Con đường mờ",
+      "meaning": "Hành trình xuyên qua sự không chắc chắn."
+    },
+    {
+      "name": "Hai tòa tháp",
+      "meaning": "Cánh cổng đi vào vùng chưa biết."
+    }
+  ],
+  "upright": {
+    "general": "Mọi thứ không như vẻ bề ngoài. Đây là thời điểm mơ hồ, lo âu và dễ bị ảo tưởng. Đừng vội kết luận — hãy tin vào trực giác để đi qua bóng tối.",
+    "love": "Hiểu lầm, nghi ngờ, hoặc có điều chưa rõ ràng. Cẩn thận với ảo tưởng về người kia.",
+    "career": "Thông tin chưa đủ, có thể có sự lừa dối; tránh ký kết khi chưa rõ.",
+    "finance": "Cẩn trọng với đầu tư mập mờ, lừa đảo."
+  },
+  "reversed": {
+    "general": "Sương mù đang tan — sự thật bắt đầu hé lộ, nỗi sợ dần được giải tỏa.",
+    "love": "Hiểu lầm được giải tỏa; sự thật được nói ra.",
+    "career": "Bí mật được phơi bày; bạn thấy rõ hơn hướng đi."
+  },
+  "advice": "Đừng quyết định khi còn mơ hồ; chờ thêm thông tin và lắng nghe trực giác.",
+  "yesNo": "Không",
+  "memoryTip": "Mặt Trăng (18) chiếu sáng nhưng không rõ như Mặt Trời (19). Nhớ: \"ban đêm nhìn đâu cũng thấy ma\".",
+  "image": "assets/cards/the-moon.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

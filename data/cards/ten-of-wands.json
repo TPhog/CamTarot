@@ -1,0 +1,42 @@
+{
+  "id": "ten-of-wands",
+  "name": "Ten of Wands",
+  "nameVi": "Mười Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "10",
+  "number": 10,
+  "element": "Lửa",
+  "astrology": "Sao Thổ ở cung Nhân Mã",
+  "keywords": {
+    "upright": [
+      "Gánh nặng",
+      "Trách nhiệm",
+      "Quá tải",
+      "Làm việc vất vả"
+    ],
+    "reversed": [
+      "Buông bỏ gánh nặng",
+      "Ủy thác",
+      "Kiệt sức"
+    ]
+  },
+  "imagery": "Người đàn ông còng lưng ôm mười cây gậy nặng nề, che cả tầm nhìn, cố mang về ngôi nhà phía xa.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang gánh quá nhiều trách nhiệm. Thành công đã đến nhưng kèm gánh nặng. Hãy xem cái gì thật sự cần mang.",
+    "love": "Một người gánh hết trách nhiệm trong mối quan hệ; mệt mỏi.",
+    "career": "Quá tải công việc; nhận quá nhiều việc.",
+    "finance": "Áp lực tài chính, nợ nần hoặc nhiều nghĩa vụ."
+  },
+  "reversed": {
+    "general": "Bạn đang học cách đặt bớt gánh nặng xuống, ủy thác cho người khác — hoặc đã đến giới hạn chịu đựng.",
+    "love": "Cần chia sẻ trách nhiệm công bằng.",
+    "career": "Học cách nói \"không\" và giao việc."
+  },
+  "advice": "Không phải gánh nào cũng là của bạn — hãy đặt bớt xuống.",
+  "yesNo": "Không",
+  "memoryTip": "Số 10 = kết thúc chu kỳ. Lửa đã cháy hết cỡ và trở thành gánh nặng.",
+  "image": "assets/cards/ten-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

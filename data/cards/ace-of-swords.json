@@ -1,0 +1,42 @@
+{
+  "id": "ace-of-swords",
+  "name": "Ace of Swords",
+  "nameVi": "Át Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "ace",
+  "number": 1,
+  "element": "Khí",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Sự thật",
+      "Rõ ràng",
+      "Đột phá tư duy",
+      "Quyết định"
+    ],
+    "reversed": [
+      "Rối trí",
+      "Thông tin sai",
+      "Thiếu rõ ràng"
+    ]
+  },
+  "imagery": "Bàn tay từ mây nắm chặt thanh kiếm dựng thẳng, đỉnh kiếm xuyên qua chiếc vương miện có cành ô liu và lá cọ.",
+  "symbols": [],
+  "upright": {
+    "general": "Một ý tưởng sắc bén, sự thật được làm sáng tỏ, hoặc khả năng nhìn rõ vấn đề. Đây là lúc đưa ra quyết định dứt khoát.",
+    "love": "Nói thẳng sự thật; mối quan hệ cần sự rõ ràng.",
+    "career": "Ý tưởng đột phá; giao tiếp hiệu quả.",
+    "finance": "Quyết định tài chính dựa trên dữ kiện."
+  },
+  "reversed": {
+    "general": "Suy nghĩ rối loạn, thông tin sai lệch hoặc dùng lời nói gây tổn thương.",
+    "love": "Hiểu lầm, lời nói tổn thương.",
+    "career": "Kế hoạch chưa rõ ràng."
+  },
+  "advice": "Nói và nghĩ rõ ràng — sự thật là con dao hai lưỡi, hãy dùng khéo.",
+  "yesNo": "Có",
+  "memoryTip": "Kiếm = Khí = trí tuệ, lời nói, sự thật. Át Kiếm = một ý tưởng sắc như dao.",
+  "image": "assets/cards/ace-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

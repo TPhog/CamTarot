@@ -1,0 +1,42 @@
+{
+  "id": "ace-of-wands",
+  "name": "Ace of Wands",
+  "nameVi": "Át Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "ace",
+  "number": 1,
+  "element": "Lửa",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Cảm hứng",
+      "Khởi đầu đam mê",
+      "Tiềm năng",
+      "Năng lượng sáng tạo"
+    ],
+    "reversed": [
+      "Trì hoãn",
+      "Thiếu động lực",
+      "Ý tưởng chưa chín"
+    ]
+  },
+  "imagery": "Một bàn tay hiện ra từ đám mây, nắm chặt cây gậy đang đâm chồi lá non. Xa xa là lâu đài trên đồi và dòng sông.",
+  "symbols": [],
+  "upright": {
+    "general": "Tia lửa của một ý tưởng hay đam mê mới vừa bùng lên. Đây là hạt giống của năng lượng sáng tạo — hãy nắm lấy nó trước khi nó tắt.",
+    "love": "Sức hút mới, đam mê bùng cháy; mối quan hệ được tiếp thêm lửa.",
+    "career": "Ý tưởng kinh doanh mới, dự án sáng tạo, cơ hội để thể hiện bản thân.",
+    "finance": "Cơ hội tạo thu nhập từ đam mê."
+  },
+  "reversed": {
+    "general": "Ý tưởng có nhưng thiếu động lực hoặc thời điểm chưa phù hợp.",
+    "love": "Đam mê nguội lạnh, thiếu tia lửa.",
+    "career": "Dự án bị trì hoãn, thiếu định hướng."
+  },
+  "advice": "Hành động ngay khi cảm hứng còn nóng.",
+  "yesNo": "Có",
+  "memoryTip": "Át = hạt giống thuần khiết của nguyên tố. Gậy = Lửa = đam mê, hành động.",
+  "image": "assets/cards/ace-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

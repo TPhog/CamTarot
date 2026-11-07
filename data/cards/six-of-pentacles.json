@@ -1,0 +1,42 @@
+{
+  "id": "six-of-pentacles",
+  "name": "Six of Pentacles",
+  "nameVi": "Sáu Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "6",
+  "number": 6,
+  "element": "Đất",
+  "astrology": "Mặt Trăng ở cung Kim Ngưu",
+  "keywords": {
+    "upright": [
+      "Hào phóng",
+      "Cho và nhận",
+      "Từ thiện",
+      "Chia sẻ"
+    ],
+    "reversed": [
+      "Nợ nần",
+      "Lòng tốt có điều kiện",
+      "Bất bình đẳng"
+    ]
+  },
+  "imagery": "Người thương gia cầm cân, bố thí tiền cho hai người ăn xin đang quỳ.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự cân bằng giữa cho và nhận. Bạn có thể đang giúp đỡ hoặc được giúp đỡ.",
+    "love": "Tình cảm hào phóng, quan tâm.",
+    "career": "Được hỗ trợ, thăng tiến.",
+    "finance": "Nhận hoặc cho vay; từ thiện."
+  },
+  "reversed": {
+    "general": "Cho đi có điều kiện, nợ nần hoặc mất cân bằng quyền lực.",
+    "love": "Một bên phụ thuộc.",
+    "career": "Bị lợi dụng."
+  },
+  "advice": "Hãy cho đi một cách công bằng.",
+  "yesNo": "Có",
+  "memoryTip": "Cái cân trong tay thương gia = \"cho đi có cân nhắc\".",
+  "image": "assets/cards/six-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

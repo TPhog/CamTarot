@@ -1,0 +1,61 @@
+{
+  "id": "the-tower",
+  "name": "The Tower",
+  "nameVi": "Tòa Tháp",
+  "arcana": "major",
+  "suit": null,
+  "number": 16,
+  "element": "Lửa",
+  "astrology": "Sao Hỏa",
+  "glyph": "♂",
+  "keywords": {
+    "upright": [
+      "Biến cố bất ngờ",
+      "Sụp đổ",
+      "Thức tỉnh",
+      "Sự thật phơi bày",
+      "Giải phóng"
+    ],
+    "reversed": [
+      "Tránh được tai họa",
+      "Sợ thay đổi",
+      "Trì hoãn điều tất yếu",
+      "Biến đổi nội tâm"
+    ]
+  },
+  "imagery": "Tòa tháp cao trên đỉnh đá bị sét đánh, vương miện trên đỉnh bật tung, lửa bùng ra từ cửa sổ. Hai người rơi đầu xuống giữa những đốm lửa hình chữ Yod.",
+  "symbols": [
+    {
+      "name": "Tia sét",
+      "meaning": "Sự thật hoặc nhận thức đột ngột phá vỡ ảo tưởng."
+    },
+    {
+      "name": "Vương miện bật tung",
+      "meaning": "Cái tôi và cấu trúc giả tạo bị lật đổ."
+    },
+    {
+      "name": "Người rơi xuống",
+      "meaning": "Mất kiểm soát, bị đẩy ra khỏi vùng an toàn."
+    },
+    {
+      "name": "Đốm lửa Yod",
+      "meaning": "Ân sủng thiêng liêng giữa hỗn loạn."
+    }
+  ],
+  "upright": {
+    "general": "Một biến cố bất ngờ làm sụp đổ những gì được xây trên nền móng sai. Đau đớn, nhưng cần thiết: sau đổ vỡ là sự thật, và từ đó bạn xây lại vững chắc hơn.",
+    "love": "Mâu thuẫn bùng nổ, sự thật bị phơi bày; mối quan hệ có thể tan vỡ hoặc thay đổi hoàn toàn.",
+    "career": "Thay đổi đột ngột: mất việc, tái cấu trúc, kế hoạch đổ vỡ — nhưng mở ra lối mới.",
+    "finance": "Tổn thất bất ngờ; hãy có quỹ dự phòng."
+  },
+  "reversed": {
+    "general": "Bạn có thể đã né được một biến cố, hoặc đang cố trì hoãn sự sụp đổ tất yếu. Sự thay đổi có thể diễn ra bên trong thay vì bên ngoài.",
+    "love": "Biết có vấn đề nhưng không dám đối mặt; giữ vỏ bọc yên ổn.",
+    "career": "Cố duy trì một cấu trúc đang lung lay; nên chủ động thay đổi trước."
+  },
+  "advice": "Đừng cố chống đỡ cái đang sụp — hãy để nó đổ và xây lại trên nền móng thật.",
+  "yesNo": "Không",
+  "memoryTip": "Số 16 → 1+6 = 7 (Cỗ Xe): ý chí cá nhân bị thử thách bởi sức mạnh lớn hơn.",
+  "image": "assets/cards/the-tower.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

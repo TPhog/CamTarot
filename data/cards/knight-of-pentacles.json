@@ -1,0 +1,42 @@
+{
+  "id": "knight-of-pentacles",
+  "name": "Knight of Pentacles",
+  "nameVi": "Hiệp Sĩ Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "rank": "knight",
+  "number": 12,
+  "element": "Đất",
+  "astrology": null,
+  "keywords": {
+    "upright": [
+      "Kiên trì",
+      "Đáng tin",
+      "Chăm chỉ",
+      "Có trách nhiệm"
+    ],
+    "reversed": [
+      "Trì trệ",
+      "Nhàm chán",
+      "Cứng nhắc"
+    ]
+  },
+  "imagery": "Hiệp sĩ ngồi yên trên con ngựa đen đứng im, tay cầm đồng tiền, nhìn ra cánh đồng đã cày.",
+  "symbols": [],
+  "upright": {
+    "general": "Sự kiên trì, đáng tin và có trách nhiệm. Chậm mà chắc.",
+    "love": "Người yêu đáng tin cậy.",
+    "career": "Kiên trì với công việc.",
+    "finance": "Tiết kiệm đều đặn."
+  },
+  "reversed": {
+    "general": "Trì trệ, nhàm chán, quá cứng nhắc.",
+    "love": "Mối quan hệ nhàm chán.",
+    "career": "Công việc lặp đi lặp lại."
+  },
+  "advice": "Chậm mà chắc — kiên trì sẽ thắng.",
+  "yesNo": "Có",
+  "memoryTip": "Hiệp Sĩ Tiền là hiệp sĩ duy nhất đứng yên = \"chậm mà chắc\".",
+  "image": "assets/cards/knight-of-pentacles.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

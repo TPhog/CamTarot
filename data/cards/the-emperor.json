@@ -1,0 +1,61 @@
+{
+  "id": "the-emperor",
+  "name": "The Emperor",
+  "nameVi": "Hoàng Đế",
+  "arcana": "major",
+  "suit": null,
+  "number": 4,
+  "element": "Lửa",
+  "astrology": "Cung Bạch Dương",
+  "glyph": "♈",
+  "keywords": {
+    "upright": [
+      "Quyền lực",
+      "Cấu trúc",
+      "Kỷ luật",
+      "Ổn định",
+      "Người cha"
+    ],
+    "reversed": [
+      "Độc đoán",
+      "Cứng nhắc",
+      "Mất kiểm soát",
+      "Lạm quyền"
+    ]
+  },
+  "imagery": "Hoàng Đế ngồi trên ngai đá khắc đầu cừu đực, mặc áo giáp dưới áo choàng đỏ, tay cầm quyền trượng ankh và quả cầu. Phía sau là dãy núi đá khô cằn.",
+  "symbols": [
+    {
+      "name": "Ngai đá",
+      "meaning": "Nền tảng vững chắc, bền bỉ."
+    },
+    {
+      "name": "Đầu cừu đực",
+      "meaning": "Cung Bạch Dương — năng lượng tiên phong, lãnh đạo."
+    },
+    {
+      "name": "Áo giáp",
+      "meaning": "Sẵn sàng bảo vệ những gì mình xây dựng."
+    },
+    {
+      "name": "Dãy núi",
+      "meaning": "Thành tựu đạt được nhờ ý chí, nhưng cũng là sự khô cứng."
+    }
+  ],
+  "upright": {
+    "general": "Đây là lúc thiết lập trật tự, kế hoạch và ranh giới rõ ràng. Hoàng Đế đại diện cho sự lãnh đạo có trách nhiệm, tính kỷ luật và khả năng biến hỗn loạn thành hệ thống.",
+    "love": "Mối quan hệ ổn định, có cam kết; người bạn đời đáng tin cậy, đôi khi hơi nghiêm khắc.",
+    "career": "Vai trò lãnh đạo, thăng tiến, làm việc trong tổ chức có cấu trúc. Hãy lập kế hoạch dài hạn.",
+    "finance": "Quản lý tiền chặt chẽ, có ngân sách rõ ràng sẽ mang lại ổn định."
+  },
+  "reversed": {
+    "general": "Sự kiểm soát trở nên quá mức hoặc ngược lại — thiếu kỷ luật, mọi thứ lộn xộn. Có thể đang đối mặt với người có quyền mà lạm quyền.",
+    "love": "Một bên áp đặt, gia trưởng; thiếu sự mềm mỏng và bình đẳng.",
+    "career": "Xung đột với cấp trên; cấu trúc cứng nhắc kìm hãm sự phát triển."
+  },
+  "advice": "Hãy đặt ra kế hoạch và ranh giới rõ ràng, giữ lời — nhưng đừng quên lắng nghe.",
+  "yesNo": "Có",
+  "memoryTip": "Số 4 = bốn góc vuông vững chãi. Hoàng Hậu (3) nuôi dưỡng, Hoàng Đế (4) bảo vệ và xây dựng.",
+  "image": "assets/cards/the-emperor.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

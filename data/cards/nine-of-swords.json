@@ -1,0 +1,42 @@
+{
+  "id": "nine-of-swords",
+  "name": "Nine of Swords",
+  "nameVi": "Chín Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "rank": "9",
+  "number": 9,
+  "element": "Khí",
+  "astrology": "Sao Hỏa ở cung Song Tử",
+  "keywords": {
+    "upright": [
+      "Lo âu",
+      "Mất ngủ",
+      "Ác mộng",
+      "Tội lỗi"
+    ],
+    "reversed": [
+      "Vượt qua lo âu",
+      "Tìm sự giúp đỡ",
+      "Hy vọng"
+    ]
+  },
+  "imagery": "Người phụ nữ ngồi bật dậy trên giường giữa đêm, hai tay ôm mặt. Chín thanh kiếm treo trên tường đen.",
+  "symbols": [],
+  "upright": {
+    "general": "Lo âu và suy nghĩ tiêu cực khiến bạn mất ngủ. Thường thì điều bạn sợ tệ hơn trong tâm trí so với thực tế.",
+    "love": "Lo lắng, ghen tuông, suy nghĩ quá nhiều về mối quan hệ.",
+    "career": "Áp lực công việc, căng thẳng.",
+    "finance": "Lo lắng về tiền bạc."
+  },
+  "reversed": {
+    "general": "Bạn đang thoát dần khỏi lo âu, hoặc đã sẵn sàng tìm sự giúp đỡ.",
+    "love": "Nói chuyện để giải tỏa lo lắng.",
+    "career": "Giảm áp lực."
+  },
+  "advice": "Chia sẻ nỗi lo với ai đó — đừng chịu đựng một mình.",
+  "yesNo": "Không",
+  "memoryTip": "Ngồi bật dậy giữa đêm = \"ác mộng\". Kiếm treo trên tường, không đâm vào ai.",
+  "image": "assets/cards/nine-of-swords.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}

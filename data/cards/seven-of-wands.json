@@ -1,0 +1,42 @@
+{
+  "id": "seven-of-wands",
+  "name": "Seven of Wands",
+  "nameVi": "Bảy Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "rank": "7",
+  "number": 7,
+  "element": "Lửa",
+  "astrology": "Sao Hỏa ở cung Sư Tử",
+  "keywords": {
+    "upright": [
+      "Kiên định",
+      "Bảo vệ",
+      "Thách thức",
+      "Giữ vững lập trường"
+    ],
+    "reversed": [
+      "Bị áp đảo",
+      "Bỏ cuộc",
+      "Mệt mỏi phòng thủ"
+    ]
+  },
+  "imagery": "Người đàn ông đứng trên đỉnh đồi, cầm gậy chống lại sáu cây gậy từ bên dưới. Anh đi hai chiếc giày khác nhau.",
+  "symbols": [],
+  "upright": {
+    "general": "Bạn đang ở vị trí cao và phải bảo vệ nó trước thách thức. Hãy tin vào bản thân và giữ vững lập trường.",
+    "love": "Bảo vệ mối quan hệ trước sự can thiệp từ bên ngoài.",
+    "career": "Cạnh tranh gay gắt; phải chứng minh giá trị và bảo vệ vị trí.",
+    "finance": "Bảo vệ tài sản; không nhượng bộ trong đàm phán."
+  },
+  "reversed": {
+    "general": "Cảm thấy kiệt sức vì phải liên tục phòng thủ, muốn buông xuôi.",
+    "love": "Mệt mỏi vì phải luôn chứng minh điều gì đó.",
+    "career": "Bị áp lực quá lớn; cân nhắc chọn trận chiến đáng chiến."
+  },
+  "advice": "Đứng vững vì điều bạn tin — bạn đang có lợi thế.",
+  "yesNo": "Có",
+  "memoryTip": "Số 7 = thử thách. Một người trên đồi chống sáu người bên dưới = \"lợi thế địa hình\".",
+  "image": "assets/cards/seven-of-wands.jpg",
+  "imageCredit": "Pamela Colman Smith, Rider–Waite–Smith (1909) — Public domain, Wikimedia Commons"
+}
